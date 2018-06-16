@@ -22,8 +22,8 @@ layout: default
 
         $(document).ready(function() {
           $("#subdiv").css("height", "0px");
-          $(window).scroll(sticky_relocate);
-          sticky_relocate();
+          // $(window).scroll(sticky_relocate);
+          // sticky_relocate();
         });
 
         function togglesubmenu() {
@@ -40,7 +40,7 @@ layout: default
 
       <table class="allstuff" style="background:white; z-index: 1; position: relative; height: 1px;" cellpadding="0px" cellspacing="0px">
         <tr width="100%" cellpadding="0px">
-          <td class="sidebar-td" style="vertical-align: top; padding: 0px; background: #bfbfbf;">
+          <td class="sidebar-td" style="width: 200px;vertical-align: top; padding: 0px; background: #bfbfbf;">
             <table id="tabbar" cellspacing="0px" cellpadding="10px">
               {% for subpage in site.data.subpages %}
               {% if subpage.directory == page.title %}
@@ -68,8 +68,8 @@ layout: default
                 </td>
               </tr>
             </table>
-
           </td>
+
           <td style="padding: 20px;" style="height: 100%; vertical-align: top;">
             <div class="contentdiv" style="height: 100%">
               <div class="hover_animate" id="subbutton" onclick="togglesubmenu()" align="center">

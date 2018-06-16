@@ -5,7 +5,7 @@ subtitle: Our Team
 permalink: /about/
 ---
 
-Team 3128 Aluminum Narwhals is a high school robotics team at Canyon Crest Academy in San Diego, California. We are currently in the off competition season, and prepping for an exciting 2016-2017 year.
+Team 3128 Aluminum Narwhals is a high school robotics team at Canyon Crest Academy in San Diego, California. 
 
 ### Our History
 Our team was founded in September of 2009 at Canyon Crest Academy in San Diego, California, at a school where math, science, and technology were valued, but hadn’t found a way to be manifested yet. A handful of students, one engineering mentor, and a computer programming teacher felt those values were important – and thus the Aluminum Narwhals were born.
@@ -18,9 +18,7 @@ We grew for the next 6 years, developing our [Robotics Summer Camp](/camp/), a w
 
 <img src="/assets/cantstopwontstopwinning.jpg" class="leftimage">
 
-All of our hard work paid off in the 2016 competition season. We put all of our time and effort into constructing a robust, able robot for FIRST Stronghold, a challenge that involved overcoming obstacles and scoring dodgeballs into goals. With the culmination of enthusiastic mentors' support, skilled drive, mechanical, strategy, electronics, programming, and outreach teams, and over 3000 hours of effort, we were able to win the Engineering Inspiration Awards and a $5,000 dollar sponsorship from NASA to attend the FRC Worlds Tournament in April of 2016.
-
-But we didn't stop there. We entered the 2017 season filled with the excitement and inspiration that we gained from the World Championships in St. Louis. We doubled our efforts, putting in more combined hours in our revamped mechanical, controls, business, submissions, construction, and strategy departments that we even could have imagined. We decided to be ambitious, and we worked to achieve more that ever before. What resulted was a coordinated team effort to not only make the best robot we ever had built, but we strengthened our team to a state that was previously inconceivable. We made serious efforts to pass down the knowledge and experience to our new team–no, not just team, but family–members, and we built a sustainable environment where Narwhal pride, enthusiasm for engineering, and the ideals of FIRST could live on for years after any group of us left. And our convictions were rewarded; we saw our best performance in our home regional ever: we were the captain of the Finalist Alliance at San Diego regional, sending us to the 2017 FIRST Championship in Houston, Texas. The coordination between our members, mentors, sponsors, and departments had proven to us that once we brought our team together and reinforced the connection between us fellow Narwhals, we could accomplish anything.
+Our hard work and drive only grew stronger over the course of our team's history. With the culmination of enthusiastic mentors' support, skilled drive, mechanical, strategy, electronics, programming, and outreach teams, we began to develop a program that could effectively build upon our past exeperiences and pass down our success to the future generations of narwhals. As we grew, we made sure to keep true to our roots, developing a culture that celebrates all of our members' and allows for the development of new ideas. Over the Aluminum Narwhals' decade, we've gone further than we could have ever imagined, accomplishing several awards, including Entrepreneurship, Innovation in Controls, Regional Finalist, Championship Subdivision Finalist, multiple Dean's List Finalists, and Engineering Inspiration.
 
 ### Our Mission
 *“Provide a positive high school team experience through robotics while inspiring intellectual creativity, fostering a passion for science, technology, and engineering, and developing critical thinking, problem solving and team building skills.”*

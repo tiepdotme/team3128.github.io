@@ -1,34 +1,29 @@
 - group: mentors
   name: Tony Mauro
-  photo: mauro
   title: Head Mentor, Faculty Advisor, Controls
   blurb: 
   color: 0
 
 - group: mentors
   name: Tyler Carter
-  photo: tyler
   title: Leadership, Strategy
   blurb: 
   color: 1
 
 - group: mentors
   name: Garrison Price
-  photo: garrison
   title: Leadership, Mechanical, Controls
   blurb: 
   color: 0
 
 - group: mentors
   name: Christine Low
-  photo: christine
   title: Internal Business, Mechanical
   blurb: 
   color: 1
 
 - group: mentors
   name: Larry Jankauski
-  photo: larry
   title: Controls
   blurb: 
   color: 0
@@ -74,47 +69,46 @@
   name: Ronak Roy
   photo: ronak
   title: President
-  blurb: 
+  blurb: Now a senior, Ronak joined the Narwhal family in his freshman year with an interest in engineering. Since then, he has been a dedicated member of the team, pursuing numerous projects, such as the beta scouting system, team's website, brand standard, and attendance scanner. As Head of Controls, Ronak developed the team's control system and passed down his knowledge. Now, Ronak hopes to inspire new members to join the Narwhal family and pursue their wildest (yet safest) goals.
   color: 0
 
 - group: leaders
   name: Esme Abbot
-  photo: esme
   title: Vice President
-  blurb: 
+  photo: esme
+  blurb: Esme is a junior at CCA and a third-year member of Team 3128. Her projects as a Narwhal include CADing, machining, and venturing to Panama to introduce elementary and middle schoolers to the wonderful world of FIRST robotics. Outside of the workshop, she loves rock climbing, baking, and (typically robotics centric) limericks. This year, Esme is looking forward to expanding the presence of the team throughout our school, helping build an awesome robot, and increasing opportunities for FIRST Lego League at local elementary schools. 
   color: 1
 
 - group: leaders
   name: Justin Yu
-  photo: justin
   title: Head of Mechanical
-  blurb: 
+  photo: justin
+  blurb: Justin is a junior with this being his third year on Team 3128. He has had previous experience with FIRST and engineering, having been in FLL and FTC teams in middle school and reaching World Championships for FTC in the eighth grade. Justin enjoys developing photography, digital design, and dance skills in his free time, and also participates in CCA's Track & Field team. Since joining the Narwhals, he has dedicated his time pursuing design projects utilizing SolidWorks, fabrication projects utilizing various machines, and leading the design processes on competition robot assemblies. Justin looks forward to working with some very fine individuals in designing and developing the 2018-2019 season competition robot.
   color: 0
 
 - group: leaders
   name: Eli Smith
   photo: eli
   title: Head of Controls
-  blurb: 
+  blurb: Eli is a senior at Canyon Crest Academy and this is his fourth year as member of Team 3128. As part of the controls division, he teaches students how to program and wire FRC robots, and he is currently pursuing projects in computer vision and motion profiling. When he is not at the workshop, Eli loves rock climbing, spending time in the backcountry, and playing nerdy board games. He looks forward to a great season full of wiring, programming, debugging, debugging, and debugging.
   color: 1
 
 - group: leaders
   name: Zoë Chan
-  photo: zoe
   title: Head of External Business
+  photo: zoe
   blurb: 
   color: 0
 
 - group: leaders
   name: Jessica Xiang
-  photo: jessica
   title: Head of Internal Business
+  photo: jessica
   blurb: 
   color: 1
 
 - group: leaders
   name: Kendra Kleber
-  photo: kendra
   title: Head of Strategy
   blurb: 
   color: 0

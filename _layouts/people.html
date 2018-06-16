@@ -8,7 +8,7 @@ layout: subpage
   {% for person in site.data.people %} {% if person.group == page.group %}
     <tr width="100%">
       <td width="27%" style="text-align: left; vertical-align: center; background: {% if person.color == 0 %} white {% else %} #efefef {% endif %}; padding: 15px; padding-right: 5px;">
-        {% if person.photp %}
+        {% if person.photo %}
         <img style="margin-right: 10px; margin-bottom: 0px; width: 100%;" src="/assets/headshots/{{ person.group }}/{{ person.photo }}.png" />
         {% else %}
         <img style="margin-right: 10px; margin-bottom: 0px; width: 100%;" src="/assets/headshots/default.png" />

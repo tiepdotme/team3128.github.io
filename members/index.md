@@ -90,12 +90,12 @@ Our leadership team and mentors create appointed positions when needed. Appointe
 + Maintaining a clean and fully functional workshop environment.
 + Create and Maintain Google Calendar for Robotics - Controls Division
 
-**Head of Internal Business:**
+**Head of Marketing:**
 
-+ Acting as the leader and voice for the internal business sector.
-+ Organizing and maintaining the overall schedule for the internal business sector.
-+ Preparing and maintaining a budget for every project in the internal business sector.
-+ Ensuring that internal business members are prepared for 
++ Acting as the leader and voice for the marketing sector.
++ Organizing and maintaining the overall schedule for the marketing sector.
++ Preparing and maintaining a budget for every project in the marketing sector.
++ Ensuring that marketing members are prepared for 
     + Organizing project teams for each project and ensuring that all projects are appropriately staffed.
         + Releasing information and marketing materials on social media outlets (Instagram, Facebook, etc.)
         + Maintaining the team3128.org website (Homepage, Blog, etc.)
@@ -103,27 +103,27 @@ Our leadership team and mentors create appointed positions when needed. Appointe
             + Sales: T Shirts, sweatshirts, socks, etc.
             + Gratis items: Buttons, wristbands, etc.
         + Finding, planning, and executing school and corporate presentations.
-    + Purchasing all items needed for the internal business team.
+    + Purchasing all items needed for the marketing team.
     + Ensuring proper usage of team branding in all external-facing materials.
-+ Create and Maintain Google Calendar for Robotics - Internal Business Division
++ Create and Maintain Google Calendar for Robotics - marketing Division
 
 
-**Head of External Business:**
+**Head of Business:**
 
-+ Acting as the leader and voice for the external business sector.
-+ Organizing and maintaining the overall schedule for the external business sector.
-+ Preparing and maintaining a budget for every project in the external business sector.
-+ Ensuring that external business members are prepared for communicating with companies, parents, news outlets, and our school.
++ Acting as the leader and voice for the business sector.
++ Organizing and maintaining the overall schedule for the business sector.
++ Preparing and maintaining a budget for every project in the business sector.
++ Ensuring that business members are prepared for communicating with companies, parents, news outlets, and our school.
 + Organizing project teams for each project and ensuring that all projects are appropriately staffed.
-+ All external email communications for parents, the team, sponsors (does not include social media - see Internal business)
++ All external email communications for parents, the team, sponsors (does not include social media - see marketing)
 + Reaching out to parents and companies for the purpose of fundraising. 
     + Creation of presentation material for fundraising to corporations - dovetail with marketing mentors
     + Rehearsal of in-person presentations to any companies for fundraising
     + Find and apply for grants
 + Communicating press releases with CCA Foundation and news outlets.
-+ Purchasing all items needed for the external business team.
++ Purchasing all items needed for the business team.
 + Ensuring proper usage of team branding in all external-facing materials.
-+ Create and Maintain Google Calendar for Robotics - External Business Division
++ Create and Maintain Google Calendar for Robotics - business Division
 
 **Head of Strategy:**
 
