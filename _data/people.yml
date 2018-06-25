@@ -1,24 +1,24 @@
 - group: mentors
   name: Tony Mauro
-  title: Head Mentor, Faculty Advisor, Controls
+  title: Faculty Advisor, Controls
   blurb: 
   color: 0
 
 - group: mentors
   name: Tyler Carter
-  title: Leadership, Strategy
+  title: Lead Mentor, Strategy
   blurb: 
   color: 1
 
 - group: mentors
   name: Garrison Price
-  title: Leadership, Mechanical, Controls
+  title: Lead Mentor, Mechanical, Controls
   blurb: 
   color: 0
 
 - group: mentors
   name: Christine Low
-  title: Internal Business, Mechanical
+  title: Marketing, Mechanical
   blurb: 
   color: 1
 
@@ -43,7 +43,7 @@
 
 - group: mentors
   name: Denise Gibbs
-  title: Internal Business
+  title: Marketing
   blurb: 
   color: 1
 
