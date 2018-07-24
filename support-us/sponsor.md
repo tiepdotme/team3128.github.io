@@ -52,17 +52,17 @@ $( document ).ready(function() {
 	</div>
 	<table width="100%" border="0" cellpadding="0" cellspacing="0">
 		<tr>
-		{% for level in site.data.sponsor_levels %}
+		{% for level in site.data.sponsor_levels %} {% if level.id %}
 			<td width="172px" height="152px" align="center" class="circle hover_animate" id="{{ level.level }}" style="background: {{ level.color }};" onClick='toggle("{{ level.level }}")'>
 				<div>
 					{{ level.level }}
 				</div>
 			</td>
-		{% endfor %}
+		{% endif %} {% endfor %}
 		</tr>
 	</table>
 
-	{% for level in site.data.sponsor_levels %}
+	{% for level in site.data.sponsor_levels %}  {% if level.id %}
 		<table id="{{ level.level }}info" style="display: none;" width="100%" border="0" cellpadding="10" cellspacing="0">
 			<tr>
 				<td style="width: 250px;" bgcolor="{{ level.color }}" align="center">
@@ -83,11 +83,11 @@ $( document ).ready(function() {
 				</td>
 			</tr>
 		</table>
-	{% endfor %}
+	{% endif %} {% endfor %}
 </div>
 
 <table class="mobilelevels" width="100%" border="0" cellpadding="10" cellspacing="0">
-	{% for level in site.data.sponsor_levels %}
+	{% for level in site.data.sponsor_levels %} {% if level.id %}
   	<tr>
     	<td bgcolor="{{ level.color }}" align="center">
       	<b><font color="white" size="40px">{{ level.level }}</font></b>
@@ -108,5 +108,5 @@ $( document ).ready(function() {
 			</ul>
     	</td>
   	</tr>
-	{% endfor %}
+	{% endif %} {% endfor %}
 </table>

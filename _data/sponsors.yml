@@ -1,53 +1,69 @@
- # - level: Title
- #   name: Gene Haas Foundation
- #   description: Founded by Gene Haas in the early 2000s, the Gene Haas Foundation has provided charitable donations to many groups, including STEM organizations in San Diego.
- #   logo: /assets/sponsorlogos/genehaas.png
- #   link: http://ghaasfoundation.org
-
- - level: Platinum
-   name: Leidos
-   description: Leidos is one of the largest defense contractors, and provides scientific, engineering, systems integration, and technical services. Founded in La Jolla, Leidos works with the Department of Defense, the Department of Homeland Security, and the National Security Agency.
-   logo: /assets/sponsorlogos/leidos.png
-   link: http://leidos.com
-
- # - level: Platinum
- #   name: Lockheed Martin
- #   description: Lockheed Martin is an American aerospace, defense, security, and advanced technologies company that operates globally and is contracted by the United States Department of Defense.
- #   logo: /assets/sponsorlogos/lockheedmartin.png
- #   link: http://www.lockheedmartin.com/
-
- - level: Platinum
-   name: ViaSat
-   description: ViaSat Inc. is a San Diego-based provider of satellite wireless and broadband services, infrastructure, and technology. They provide satellite internet servies to consumers, businesses, governments, and military worldwide.
-   logo: /assets/sponsorlogos/viasat.png
-   link: http://viasat.com
-
- - level: Platinum
+# 2018 Sponsor
+ - level: Gold
    name: Nordson Corporation
    description: The Nordson Corporation specializes in precision manufacturing of electronics using advanced fluid-dispensing systems.
    logo: /assets/sponsorlogos/nordson.png
    link: http://nordson.com/
 
+# 2018 Sponsor
  - level: Gold
+   name: DoDSTEM
+   description: DoDSTEM is a program run by the United States Department of Defense to provide STEM education opportunities to students outside of the classroom. DoDSTEM provides grants to FIRST Robotics Competition teams to help them achieve their goals.
+   logo: /assets/sponsorlogos/dodstem.png
+   link: https://dodstem.us
+ 
+# 2018 Sponsor
+ - level: Silver
+   name: Leidos
+   description: Leidos is one of the largest defense contractors, and provides scientific, engineering, systems integration, and technical services. Founded in La Jolla, Leidos works with the Department of Defense, the Department of Homeland Security, and the National Security Agency.
+   logo: /assets/sponsorlogos/leidos.png
+   link: http://leidos.com
+
+# 2018 Sponsor
+ - level: Silver
+   name: Qualcomm
+   description:	Qualcomm is an American technology company that specializes in semiconductors and telecommunications. Qualcomm designs and produces technology such as WiFi Platforms, Cellular Networking Devices, and Mobile Proccessors that are applied over numerous industries.
+   logo: /assets/sponsorlogos/qualcomm.png
+   link: http://qualcomm.com
+
+# 2018 Sponsor
+ - level: Silver
+   name: ViaSat
+   description: ViaSat Inc. is a San Diego-based provider of satellite wireless and broadband services, infrastructure, and technology. They provide satellite internet servies to consumers, businesses, governments, and military worldwide.
+   logo: /assets/sponsorlogos/viasat.png
+   link: http://viasat.com
+
+# 2018 Sponsor
+ - level: Bronze
+   name: Gene Haas Foundation
+   description: Founded by Gene Haas in the early 2000s, the Gene Haas Foundation has provided charitable donations to many groups, including STEM organizations in San Diego.
+   logo: /assets/sponsorlogos/genehaas.png
+   link: http://ghaasfoundation.org
+
+# 2018 Sponsor
+ - level: Bronze
    name: HP Inc.
-   description: HP Inc. develops personal computers, printers, and other related supplies. HP is dedicated to developing technology that allows creators, engineers, and inventors in order to reinvent the way the world operates. Of their technology, HP develops the Sprout Pro that brings rich content to life, with a projector and a pressure sensitive pen for writing upon the tabletop display, as well as a touchscreen LCD. The Sprout is powerful and allows our team advanced CAD capabilities, not to mention the 3D scanner that allows us to digitize real-life objects.
+   description: HP Inc. develops personal computers, printers, and other related supplies. HP is dedicated to developing technology that allows creators, engineers, and inventors in order to reinvent the way the world operates.
    logo: /assets/sponsorlogos/hp.png
    link: http://hp.com
 
- - level: Gold
-   name: C2SDK
-   description: Computers 2 San Diego Kids' goal is to put a computer in the hands of every family in San Diego, regaurdless of their income level and socioeconomic status. Every year, C2SDK places over four thousand computers into the homes of San Diego families. In addition, C2SDK practices responsible practices of recycling, refurbishing, and responding computers to impact the lives of familes all across San Diego.
-   logo: /assets/sponsorlogos/c2sdk.png
-   link: http://c2sdk.org
-
- - level: Gold
+# 2018 Sponsor
+ - level: In-Kind
    name: Solidworks
    description: Solidworks is a Computer Aided Design program created by Dassault Systems that allows organizations of all industries to model in 3D. Additionally, FRC teams such as our own are provided with Solidworks licenses in order to design our robots.
    logo: /assets/sponsorlogos/solidworks.png
    link: http://www.3ds.com/products-services/solidworks/
 
- - level: Gold
-   name: Qualcomm
-   description:	Qualcomm is an American technology company that specializes in semiconductors and telecommunications. Qualcomm designs and produces technology such as WiFi Platforms, Cellular Networking Devices, and Mobile Proccessors that are applied over numerous industries.
-   logo: /assets/sponsorlogos/qualcomm.png
-   link: http://qualcomm.com
+# 2018 Sponsor
+ - level: In-Kind
+   name: HP Inc.
+   description: Of their technology, HP develops the Sprout Pro that brings rich content to life, with a projector and a pressure sensitive pen for writing upon the tabletop display, as well as a touchscreen LCD. The Sprout is powerful and allows our team advanced CAD capabilities, not to mention the 3D scanner that allows us to digitize real-life objects.
+   logo: /assets/sponsorlogos/hp.png
+   link: http://hp.com
+
+# 2018 Sponsor
+ - level: In-Kind
+   name: C2SDK
+   description: Computers 2 San Diego Kids' goal is to put a computer in the hands of every family in San Diego, regaurdless of their income level and socioeconomic status. Every year, C2SDK places over four thousand computers into the homes of San Diego families. In addition, C2SDK practices responsible practices of recycling, refurbishing, and responding computers to impact the lives of familes all across San Diego.
+   logo: /assets/sponsorlogos/c2sdk.png
+   link: http://c2sdk.org

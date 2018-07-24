@@ -8,7 +8,7 @@
   id: 4
   color: "#c2c0bc"
   money: "$7,500-$9,999"
-  show: "yes"
+  show: "no"
 
 - level: Gold
   id: 3
@@ -20,16 +20,20 @@
   id: 2
   color: grey
   money: "$2,500-$4,999"
-  show: "no"
+  show: "yes"
 
 - level: Bronze
   id: 1
   color: "#CD7F32"
   money: "$1,000-$2,499"
-  show: "no"
+  show: "yes"
 
 - level: Friend
   id: 0
   color: "#00a2ff"
   money: "$500-$999"
   show: "no"
+
+- level: In-Kind
+  color: black
+  show: "yes"
