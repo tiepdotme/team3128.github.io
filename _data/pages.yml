@@ -2,7 +2,7 @@
   permalink: /about/
 
 - title: sponsors
-  permalink: /sponsor/
+  permalink: /sponsors/
 
 - title: outreach
   permalink: /outreach/
@@ -15,6 +15,9 @@
 
 - title: resources
   permalink: /resources/
+
+- title: support us
+  permalink: /support-us/
 
 - title: contact
   permalink: /contact/

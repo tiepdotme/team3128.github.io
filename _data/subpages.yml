@@ -50,10 +50,6 @@
   permalink: /members/travel-team/
   directory: Members
 
-- title: Parent Volunteers
-  permalink: /members/volunteer/
-  directory: Members
-
 - title: Donate
   permalink: /donate/
   directory: Members
@@ -69,3 +65,15 @@
 - title: Technical
   permalink: /resources/technical/
   directory: Resources
+
+- title: How You Can Help
+  permalink: /support-us/
+  directory: Support Us
+
+- title: Donate
+  permalink: /support-us/donate/
+  directory: Support Us
+
+- title: Become a Sponsor
+  permalink: /support-us/sponsor/
+  directory: Support Us

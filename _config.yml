@@ -17,3 +17,10 @@ excerpt_separator: ?more?
 
 # Build settings
 markdown: kramdown
+
+# Gem Plugins
+plugins:
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-redirect-from
