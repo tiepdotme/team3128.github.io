@@ -21,7 +21,7 @@ Contact Us!
 ## Donate
 If you are a parent or family member of a narwhal, please help us out by donating! Our team needs many resources - electronics, lumber, gearboxes, aluminum, polycarbonate, coaching, travel, to name a few - that we can't get without your support. We request donations from every family in order to continue our mission to create a unique learning environment for our members.
 <div>
-<a href="/support_us/donate/">
+<a href="/support-us/donate/">
 <div class="button hover_animate" style="text-align: center;">
 Donate!
 </div>
@@ -32,7 +32,7 @@ Donate!
 ## Become a Sponsor
 If you are a corporation, business, or organization who would like to support our team's efforts to create a STEM learning environment that fosters collaboration and allows for students to learn important life skills, both technical and organizational, as well as to positively influence our community through our STEM outreach programs, we would greatly appreciate any support you would be able to provide!
 <div>
-<a href="/support_us/donate">
+<a href="/support-us/donate">
 <div class="button hover_animate" style="text-align: center;">
 Sponsor Us!
 </div>
