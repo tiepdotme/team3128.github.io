@@ -596,26 +596,22 @@ body {
 
 @keyframes carousel {
   0%    { left:0; }
-  23%   { left:0; }
-  27%   { left:-100%; }
-  48%   { left:-100%; }
-  52%   { left:-200%; }
-  73%   { left:-200%; }
-  77%   { left:-300%; }
-  96%   { left:-300%; }
-  100%  { left: 0% }
+  30%   { left:0; }
+  36%   { left:-100%; }
+  63%   { left:-100%; }
+  70%   { left:-200%; }
+  97%   { left:-200%; }
+  100%  { left:0%; }
 }
 
 @-webkit-keyframes carousel {
   0%    { left:0; }
-  23%   { left:0; }
-  27%   { left:-100%; }
-  48%   { left:-100%; }
-  52%   { left:-200%; }
-  73%   { left:-200%; }
-  77%   { left:-300%; }
-  96%   { left:-300%; }
-  100%  { left: 0% }
+  30%   { left:0; }
+  36%   { left:-100%; }
+  63%   { left:-100%; }
+  70%   { left:-200%; }
+  97%   { left:-200%; }
+  100%  { left:0%; }
 }
 
 .inlineblock {
@@ -625,8 +621,8 @@ body {
   display: flex;
   width: 100%;
 
-  -webkit-animation: carousel 50s infinite; /* Chrome, Safari, Opera */
-  animation: carousel 50s infinite;
+  -webkit-animation: carousel 45s infinite; /* Chrome, Safari, Opera */
+  animation: carousel 45s infinite;
 }
 
 .card:hover {
