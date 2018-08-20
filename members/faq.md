@@ -9,9 +9,18 @@ Have a question about our robotics program? Here are some of the most often aske
 
 **When does the team meet during the week?**
 
-Starting Fall 2018, our team meets on Monday through Friday from 3:00 pm – 6:00 pm every week. Different divisions will meet on different days.  You can look at [our calendar](/members/calendar/) for details.
+Starting Fall 2018, our team meets on Monday through Friday from 3:00 pm – 6:00 pm every week until Christmas break. Different divisions will meet on different days.  You can look at [our calendar](/members/calendar/) for details.
 
-During build season (between January 5 - February 20), we meet every day from Monday to Saturday. Specific dates are updated on [our calendar](/members/calendar/).
+During Build Season (January 5 - February 20), we meet every day from Monday to Saturday. Specific dates are updated on [our calendar](/members/calendar/).
+
+During Competition Season (February 20 - May 2), we meet as necessary based upon which Competitions we attend.  The Compeition Team will travel to 2 Regional Competitions (San Diego Regional held at Del Mar Fairgrounds) and another competition TBD.  If our Competition Team is successful and we earn a slot, we will also travel to World Championships (April 29 - May 2 2019) in Houston Texas (https://www.firstchampionship.org/welcome).  
+
+Regional Competitions are Thursday evenings through Saturday evenings, not including travel time.
+World Championships are Wednesday evening through Saturday evening, not including travel time.
+
+**What does a robotics team do? What are these competitions like?**
+
+The best description of FRC Robotics was recently covered in a "HBO Real Sports" documentary you can view [here](https://www.youtube.com/watch?v=18OCZz8yKtU)
 
 **Where do you guys meet?**
 
