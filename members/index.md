@@ -12,9 +12,8 @@ Becoming a part of robotics is very easy. There are just a few steps:
 3. Download, print and fill out our [Safety Waiver](https://drive.google.com/drive/u/0/folders/1RO1MLZCAJqB6rr5H4-3jHY-phqWzB_rC).  This step requires a parental unit to finish.  Please turn in the physical copy at the Workshop to a Mentor.
 4. Show up! We meet at the Robotics Workshop that is located right under the Learning Commons and just past the Nest. It's somewhat hard to miss, with the robots, the stacks of wood, and all of us. You can check out our [calendar](/students/calendar/) and [blog updates](/blog/) to find out about all the things happening in robotics. You can also [email our leaders](/contact/) to ask any questions you may have.
 5. Before Sept. 24 2018, complete your Safety Training and pass the Safety Quiz.  When you pass the Safety Quiz, you will be issued your official Robotics Workshop Safety Glasses and will be allowed in the Robotics Workshop.  AFTER Sept. 24, 2018 - No Entry to the Workshop unless you pass the Safety Quiz.
-a. Review the [FIRST 2018 Safety Manual](https://www.firstinspires.org/sites/default/files/uploads/resource_library/2018-first-robotics-competition-safety-manual.pdf)
-   
-   b. Review the [Team 3128 Workshop Safety Rules](https://docs.google.com/document/d/1WzseSUYmA87MJyWdK_2qxU6KtszhGB_BVom2Pd1KJIc/edit?usp=sharing)
+   5a. Review the [FIRST 2018 Safety Manual](https://www.firstinspires.org/sites/default/files/uploads/resource_library/2018-first-robotics-competition-safety-manual.pdf)
+   5b. Review the [Team 3128 Workshop Safety Rules](https://docs.google.com/document/d/1WzseSUYmA87MJyWdK_2qxU6KtszhGB_BVom2Pd1KJIc/edit?usp=sharing)
    
    c. Review the [Team 3128 Safety Training presentation](https://docs.google.com/presentation/d/1_PwU0SQLBGlYrsLAWO_iiHXfnwimQYbBl55PwwuunKw/edit?usp=sharing)
    d. View the following 7 minute YouTube [Safety Video](https://www.youtube.com/watch?v=fivMiePNjCc)
