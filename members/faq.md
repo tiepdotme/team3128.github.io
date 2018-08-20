@@ -11,16 +11,16 @@ Have a question about our robotics program? Here are some of the most often aske
 
 Starting Fall 2018, our team meets on Monday through Friday from 3:00 pm – 6:00 pm every week until Christmas break. Different divisions will meet on different days.  You can look at [our calendar](/members/calendar/) for details.
 
-During Build Season (January 5 - February 20), we meet every day from Monday to Saturday. Specific dates are updated on [our calendar](/members/calendar/).
+During Build Season (January 5 - February 19), we meet every day from Monday to Saturday. Specific dates are updated on [our calendar](/members/calendar/).
 
-During Competition Season (February 20 - May 2), we meet as necessary based upon which Competitions we attend.  The Compeition Team will travel to 2 Regional Competitions (San Diego Regional held at Del Mar Fairgrounds) and another competition TBD.  If our Competition Team is successful and we earn a slot, we will also travel to Houston Texas (April 29 - May 2 2019) for the [FRC World Championships](https://www.firstchampionship.org/welcome).  
+During Competition Season (February 20 - May 2), we meet as necessary based upon which Competitions we attend.  The Compeition Team will travel to 2 Regional Competitions (San Diego Regional held at Del Mar Fairgrounds and another competition TBD).  If our Competition Team is successful and we earn a slot, we will also travel to Houston Texas (April 29 - May 2 2019) for the [FRC World Championships](https://www.firstchampionship.org/welcome).  
 
 Regional Competitions are Thursday evenings through Saturday evenings, not including travel time.
 World Championships are Wednesday evening through Saturday evening, not including travel time.
 
 **What does a robotics team do? What are these competitions like?**
 
-The best description of FRC Robotics was recently covered in a "HBO Real Sports" documentary you can view [here](https://www.youtube.com/watch?v=18OCZz8yKtU)
+The best description of FRC Robotics was recently covered in an "HBO Real Sports" documentary you can view [here](https://www.youtube.com/watch?v=18OCZz8yKtU)
 
 **Where do you guys meet?**
 
@@ -34,9 +34,9 @@ Students with limited time must be aware of their availability and act according
 
 **Is it mandatory that I stay for the entire meeting?**
 
-Students can come and leave as they like from each meeting. They should make sure to sign in and out with our Workshop Supervisor so that their hours are properly logged. However, most of the time announcements, project logistics, etc, will all happen at the beginning of the meeting. So, if you get their late make sure to talk to a mentor or student to find out what is happening.
+Students can come and leave as they like from each meeting. They should make sure to sign in and out with our Timekeeping Tool so that their hours are properly logged. However, most of the time announcements, project logistics, etc, will all happen at the beginning of the meeting. So, if you get their late make sure to talk to a mentor or student to find out what is happening.
 
-If you need to leave early, make sure the people you are working with are aware of your departure time. That way all of you can work together to figure out when clean up needs to happen, future plans, etc.
+If you need to leave early, you are required to clean up your work area prior to leaving.  This is especially true of the Construction and Mechanical Divisions, who make the most use of our Power and Machine Tools (if anyone fails to do this, workshop privileges may be revoked).  Make sure the people you are working with are aware of your departure time. That way all of you can work together to figure out when clean up needs to happen, future plans, etc.
 
 **I have a fall sport. Can I be involved?**
 
