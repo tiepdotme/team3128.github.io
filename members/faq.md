@@ -9,7 +9,7 @@ Have a question about our robotics program? Here are some of the most often aske
 
 **When does the team meet during the week?**
 
-Our team meets on Mondays, Wednesdays, and Fridays from 3:00 pm – 6:00 pm every week of the school year. You can look at [our calendar](/members/calendar/) for details.
+Our team meets on Mondays through Friday from 3:00 pm – 6:00 pm every week of the school year. You can look at [our calendar](/members/calendar/) for details.
 
 During build season January 6th and February 20th, we meet every day from Monday to Saturday. Specific dates are updated on [our calendar](/members/calendar/).
 
