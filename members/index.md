@@ -14,7 +14,9 @@ Becoming a part of robotics is very easy. There are just a few steps:
 5. Before Sept. 24 2018, complete your Safety Training and pass the Safety Quiz.  When you pass the Safety Quiz, you will be issued your official Robotics Workshop Safety Glasses and will be allowed in the Robotics Workshop.  AFTER Sept. 24, 2018 - No Entry to the Workshop unless you pass the Safety Quiz.
 
    a. Review the [FIRST 2018 Safety Manual](https://www.firstinspires.org/sites/default/files/uploads/resource_library/2018-first-robotics-competition-safety-manual.pdf)
+   
    b. Review the [Team 3128 Workshop Safety Rules](https://docs.google.com/document/d/1WzseSUYmA87MJyWdK_2qxU6KtszhGB_BVom2Pd1KJIc/edit?usp=sharing)
+   
    c. Review the [Team 3128 Safety Training presentation](https://docs.google.com/presentation/d/1_PwU0SQLBGlYrsLAWO_iiHXfnwimQYbBl55PwwuunKw/edit?usp=sharing)
    d. View the following 7 minute YouTube [Safety Video](https://www.youtube.com/watch?v=fivMiePNjCc)
    e. Take and pass (80% or better) the [Safety Quiz](https://goo.gl/forms/ylFgQDfHBM8uaU9j2)
