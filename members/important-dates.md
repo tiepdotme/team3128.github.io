@@ -23,7 +23,7 @@ Each month, the leadership team holds a meeting where they discuss the happening
 
 ### FRC Build Season
 
-Our FRC Build Season is an exhilarating (and stressful) six week long season to design and build a robot to compete against many other teams in the Southern California area.
+Our FRC Build Season is an exhilarating (and stressful) six week long season to design and build a robot to compete against many other teams in the Southern California area (and hopefully the World).
 
 For the 2018-2019 school year, Build Season begins on Saturday, January 5, 2019 at 10:30 AM Eastern Time (ET) (7:30 AM PST) with the Competition Challenge reveal - and ends on February 19, 2019 at 11:59 PM Eastern Time (ET) (9:00 PM PST).
 
