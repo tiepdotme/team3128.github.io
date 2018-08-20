@@ -9,11 +9,11 @@ Below is the list of important dates and times to keep note of. All of these are
 
 ### Weekly Meetings
 
-Every week our team meets on Mondays, Wednesdays, and Fridays from 3:00 pm - 6:00 pm to further our skills, work on build projects, plan events, and more.
+During pre-season (Fall through beginning of Winter Break), our team meets Mondays - Friday from 3:00 pm - 6:00 pm to further our skills, work on build projects, plan events, and more.  See specifics on [our calendar](/members/calendar/).
 
 ### Leadership Meetings
 
-Each month, the leadership team holds a meeting where they discuss the happenings of the team and set the course for the overall year. For the 2017-18 year, leadership meetings will happen every Monday from 5:00 pm - 6:00 pm unless otherwise noted.
+Each month, the leadership team holds a meeting where they discuss the happenings of the team and set the course for the overall year. For the 2018-19 year, leadership meetings will happen every Monday from 5:00 pm - 6:00 pm unless otherwise noted.
 
 <!--
 **Self-Nominations Open:** May 2nd, 2016  
@@ -23,9 +23,11 @@ Each month, the leadership team holds a meeting where they discuss the happening
 
 ### FRC Build Season
 
-Our FRC Build Season is an exhilarating (and stressful) six week long spring to create a robot to compete against many other teams in the Southern California area.
+Our FRC Build Season is an exhilarating (and stressful) six week long season to design and build a robot to compete against many other teams in the Southern California area.
 
-**Normal Scheduled Meetings:** During regular school days between January 6th and February 20th, FRC meetings will happen according to the following schedule:
+For the 2018-2019 school year, Build Season begins on Saturday, January 5, 2019 at 10:30 AM Eastern Time (ET) with the Competition Challenge reveal - and ends on February 19, 2019 at 11:59 PM Eastern Time (ET).
+
+**Normal Scheduled Meetings:** During regular school days between January 5th and February 19th, FRC meetings will happen according to the following schedule:
 
 + Monday-Friday  
 *3:00 pm – 6:00 pm*
@@ -34,25 +36,25 @@ Our FRC Build Season is an exhilarating (and stressful) six week long spring to 
 
 **Special Meeting Dates:** Below are a list of special time alterations to the normal build season schedule:
 
-+ Saturday, January 6th – Build Season Kickoff Day  
++ Saturday, January 5th – Build Season Kickoff Day  
 *CCA 7:00 am – 3:00 pm*  
-+ Sunday, January 7th – Build Season Kickoff Meeting pt. 2  
++ Sunday, January 6th – Build Season Kickoff Meeting pt. 2  
 *CCA 1:00 pm – 7:00 pm*  
-+ Monday, January 15th – Martin Luther King, Jr. Day (No School)  
++ Monday, January 21st – Martin Luther King, Jr. Day (No School)  
 *CCA 10:00 am – 4:00 pm*  
-+ Wednesday, January 24th – Finals Prep  
++ Wednesday, January 23rd – Finals Prep  
 *NO MEETING*  
-+ Thursday, January 25th – Finals Prep  
++ Thursday, January 24th – Finals Prep  
 *NO MEETING*  
-+ Monday, January 29th – Teacher Prep (No School)  
++ Monday, January 28th – Teacher Prep (No School)  
 *CCA 10:00 am – 4:00 pm*  
-+ Tuesday, January 30th – Teacher Inservice (No School)  
++ Tuesday, January 29th – Teacher Inservice (No School)  
 *CCA 10:00 am – 4:00 pm*  
-+ Friday, February 16th – Lincoln Day (No School)  
++ Friday, February 15th – Lincoln Day (No School)  
 *CCA 10:00 am – 4:00 pm*  
-+ Sunday, February 18th – President's Day Weekend  
++ Saturday -Sunday, February 17-17th – President's Day Weekend  
 *CCA 10:00 am – 4:00 pm*  
-+ Monday, February 15th – Washington Day (No School)  
++ Monday, February 18th – Washington Day (No School)  
 *CCA 10:00 am – 4:00 pm*  
-+ Tuesday, February 20th – Last Day of Build Season  
-*CCA 3:00 pm – 6:00 pm*  
++ Tuesday, February 19 th – Last Day of Build Season  
+*CCA 3:00 pm – 9:00 pm*  
