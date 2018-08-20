@@ -25,7 +25,7 @@ Each month, the leadership team holds a meeting where they discuss the happening
 
 Our FRC Build Season is an exhilarating (and stressful) six week long season to design and build a robot to compete against many other teams in the Southern California area.
 
-For the 2018-2019 school year, Build Season begins on Saturday, January 5, 2019 at 10:30 AM Eastern Time (ET) with the Competition Challenge reveal - and ends on February 19, 2019 at 11:59 PM Eastern Time (ET).
+For the 2018-2019 school year, Build Season begins on Saturday, January 5, 2019 at 10:30 AM Eastern Time (ET) (7:30 AM PST) with the Competition Challenge reveal - and ends on February 19, 2019 at 11:59 PM Eastern Time (ET) (9:00 PM PST).
 
 **Normal Scheduled Meetings:** During regular school days between January 5th and February 19th, FRC meetings will happen according to the following schedule:
 
@@ -52,9 +52,9 @@ For the 2018-2019 school year, Build Season begins on Saturday, January 5, 2019 
 *CCA 10:00 am – 4:00 pm*  
 + Friday, February 15th – Lincoln Day (No School)  
 *CCA 10:00 am – 4:00 pm*  
-+ Saturday -Sunday, February 17-17th – President's Day Weekend  
++ Saturday - Sunday, February 16-17th – President's Day Weekend  
 *CCA 10:00 am – 4:00 pm*  
 + Monday, February 18th – Washington Day (No School)  
 *CCA 10:00 am – 4:00 pm*  
-+ Tuesday, February 19 th – Last Day of Build Season  
++ Tuesday, February 19th – Last Day of Build Season  
 *CCA 3:00 pm – 9:00 pm*  
