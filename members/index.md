@@ -30,7 +30,7 @@ After you’ve signed up, there are lots of different ways to grow your skills:
 + **Attend Workshops and Classes,** Throughout preseason, our members and mentors will be giving lessons and working with new members to help them learn more and be ready for build season.
 + **Be Involved.** Often, the best learning experience comes with jumping right into it. With the guidance of more experienced mentors and members, pursue projects and participate in what interests you.
 
-If you have any scheduling/team questions, you can also check out our [Frequently Asked Questions](/parents/faq/) page.
+If you have any scheduling/team questions, you can also check out our [Frequently Asked Questions](/members/faq/) page.
 
 <img src="/assets/dank-photos/2.JPG" class="rightimage">
 
