@@ -18,7 +18,7 @@ Becoming a part of robotics is very easy. There are just a few steps:
    d. View the following 7 minute YouTube [Safety Video](https://www.youtube.com/watch?v=fivMiePNjCc)
    e. Take and pass (80% or better) the [Safety Quiz](https://goo.gl/forms/ylFgQDfHBM8uaU9j2)
    
-6.Follow us on [Instagram](https://www.instagram.com/stories/3128aluminarwhals/?hl=en), like us on [Facebook](https://www.facebook.com/aluminumnarwhals). Announcements, photos, and all sorts of awesome stuff will go out through there as well.
+6. Follow us on [Instagram](https://www.instagram.com/stories/3128aluminarwhals/?hl=en), like us on [Facebook](https://www.facebook.com/aluminumnarwhals). Announcements, photos, and all sorts of awesome stuff will go out through there as well.
 7. [Join GitHub.](/students/github/) GitHub is the place where all team information, discussion, and collaboration will occur in the future. Any information that the team needs to know can be found on our organization's GitHub, as well as new projects and code. **Useful member information is posted on the [info repository](https://github.com/Team3128/info/wiki) on the team's GitHub account**
 
 ## Growing Your Skills
