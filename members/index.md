@@ -17,8 +17,15 @@ Becoming a part of robotics is very easy. There are just a few steps:
 + Review the [Team 3128 Safety Training presentation](https://docs.google.com/presentation/d/1_PwU0SQLBGlYrsLAWO_iiHXfnwimQYbBl55PwwuunKw/edit?usp=sharing)
 + View the following 7 minute YouTube [Safety Video](https://www.youtube.com/watch?v=fivMiePNjCc)
 + Take and pass (80% or better) the [Safety Quiz](https://goo.gl/forms/ylFgQDfHBM8uaU9j2)
-6. Follow us on [Instagram](https://www.instagram.com/stories/3128aluminarwhals/?hl=en), like us on [Facebook](https://www.facebook.com/aluminumnarwhals). Announcements, photos, and all sorts of awesome stuff will go out through there as well.
-7. [Join GitHub.](/students/github/) GitHub is the place where all team information, discussion, and collaboration will occur in the future. Any information that the team needs to know can be found on our organization's GitHub, as well as new projects and code. **Useful member information is posted on the [info repository](https://github.com/Team3128/info/wiki) on the team's GitHub account**
+6. Come to our Intro days, Join a Division.  Team 3128 is comprised of Five Divisions:
++ Business
++ Controls
++ Marketing
++ Mechanical
++ Strategy
+Each Division will be giving a presentation at the beginning of the year to orient and acquaint new members, describe what their Division does, how to join and what training you will want. Check our calendar for details [calendar](/members/calendar/)
+7. Follow us on [Instagram](https://www.instagram.com/stories/3128aluminarwhals/?hl=en), like us on [Facebook](https://www.facebook.com/aluminumnarwhals). Announcements, photos, and all sorts of awesome stuff will go out through there as well.
+8. [Join GitHub.](/students/github/) GitHub is the place where all team information, discussion, and collaboration will occur in the future. Any information that the team needs to know can be found on our organization's GitHub, as well as new projects and code. **Useful member information is posted on the [info repository](https://github.com/Team3128/info/wiki) on the team's GitHub account**
 
 ## Growing Your Skills
 
