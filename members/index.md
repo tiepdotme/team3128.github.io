@@ -7,7 +7,7 @@ permalink: /members/
 
 Becoming a part of robotics is very easy. There are just a few steps:
 
-1. Sign up on our team [Roster](https://team3128.us17.list-manage.com/subscribe?u=7c13b1f47db9b4f3392eda9f2&id=b93cada25a). This will get you added to our mailing list so you know everything that is going on.  Please use an email you check regularly.
+1. Sign up on our team roster (link coming soon). This will get you added to our mailing list so you know everything that is going on.  Please use an email you check regularly.
 2. Sign up on [STIMS](https://my.usfirst.org/stims/Login.aspx), our league information manager. This will let you attend tournaments and be involved in official robotics events off-campus. This step requires a parental unit to finish.
 3. Download, print and fill out our [Safety Waiver](https://drive.google.com/drive/u/0/folders/1RO1MLZCAJqB6rr5H4-3jHY-phqWzB_rC).  This step requires a parental unit to finish.  Please turn in the physical copy at the Workshop to a Mentor.
 4. Show up! We meet at the Robotics Workshop that is located right under the Learning Commons and just past the Nest. Starting Fall 2018, we meet 5 days a week right after school (different divisions will meet different days).  It's somewhat hard to miss, with the robots, the stacks of wood, and all of us. You can check out our [calendar](/members/calendar/) and [blog updates](/blog/) to find out about all the things happening in robotics. You can also [email our leaders](/contact/) to ask any questions you may have.
@@ -162,7 +162,7 @@ Literally.
 
 ### Leadership Meetings
 
-Each month, the leadership team holds a meeting where they discuss the happenings of the team and set the course for the overall year. For the 2017-18 year, the leadership meetings will happen every week in the CCA Cage or Robotics Room unless otherwise noted. Find out more about [our leadership team](/about/leaders/).
+Each month, the leadership team holds a meeting where they discuss the happenings of the team and set the course for the overall year. For the 2018-19 year, the leadership meetings will happen every week in the CCA Cage or Robotics Room unless otherwise noted. Find out more about [our leadership team](/about/leaders/).
 
 <!--
 + Friday, September 2nd @ 5:00 pm - 6:00 pm
