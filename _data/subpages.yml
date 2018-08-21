@@ -6,6 +6,10 @@
   permalink: /about/robots/
   directory: About
 
+- title: Our Divisions
+  permalink: /about/divisions/
+  directory: About
+
 - title: Our Mentors
   permalink: /about/mentors/
   directory: About
@@ -34,20 +38,16 @@
   permalink: /members/faq/
   directory: Members
 
-- title: Important Dates
-  permalink: /members/important-dates/
-  directory: Members
-
 - title: Calendar
   permalink: /members/calendar/
   directory: Members
 
-- title: GitHub
-  permalink: /members/github/
+- title: Safety
+  permalink: /members/safety/
   directory: Members
 
-- title: Travel Team
-  permalink: /members/travel-team/
+- title: Important Dates
+  permalink: /members/important-dates/
   directory: Members
 
 - title: Donate

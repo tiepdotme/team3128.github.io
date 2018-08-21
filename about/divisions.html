@@ -1,0 +1,27 @@
+---
+layout: subpage
+title: About
+subtitle: Our Divisions
+group: divisions
+permalink: /about/divisions/
+---
+Our team is composed of five divisions that are each responsible for a specific subset of work that gets done on our team. This includes designing, building, programming, and wiring the robot, developing effective game strategies, managing the social media, public relations, and merchandies of our team, and writing and presenting to companies and judges to gain corporate sponsorships and win awards at our competitions. Learn more about our divisions here!
+<br>
+<br>
+<br>
+<table class="full_table" cellspacing="0px">
+    {% for division in site.data.divisions %}
+    <tr width="100%">
+        <td width="27%" style="text-align: left; vertical-align: center; background: {% if division.color == 0 %} white {% else %} #efefef {% endif %}; padding: 15px; padding-right: 5px;">
+            {% if division.photo %}
+            <img style="margin-right: 10px; margin-bottom: 0px; width: 100%;" src="/assets/divisions/{{ division.photo }}.png"
+            /> {% else %}
+            <img style="margin-right: 10px; margin-bottom: 0px; width: 100%;" src="/assets/divisions/default.png" /> {% endif %}
+        </td>
+        <td width="100%" style="text-align: left; vertical-align: top; background: {% if division.color == 0 %} white {% else %} #efefef {% endif %}; padding: 15px; padding-left: 5px;">
+            <h2 style="margin-bottom: -6px;">{{ division.name }}</h2>
+            {{ division.description }}
+        </td>
+    </tr>
+    {% endfor %}
+</table>

@@ -70,45 +70,45 @@
   photo: ronak
   title: President
   blurb: Now a senior, Ronak joined the Narwhal family in his freshman year with an interest in engineering. Since then, he has been a dedicated member of the team, pursuing numerous projects, such as the beta scouting system, team's website, brand standard, and attendance scanner. As Head of Controls, Ronak developed the team's control system and passed down his knowledge. Now, Ronak hopes to inspire new members to join the Narwhal family and pursue their wildest (yet safest) goals.
-  color: 0
+  color: 1
 
 - group: leaders
   name: Esme Abbot
   title: Vice President
   photo: esme
   blurb: Esme is a junior at CCA and a third-year member of Team 3128. Her projects as a Narwhal include CADing, machining, and venturing to Panama to introduce elementary and middle schoolers to the wonderful world of FIRST robotics. Outside of the workshop, she loves rock climbing, baking, and (typically robotics centric) limericks. This year, Esme is looking forward to expanding the presence of the team throughout our school, helping build an awesome robot, and increasing opportunities for FIRST Lego League at local elementary schools. 
-  color: 1
+  color: 0
 
 - group: leaders
   name: Justin Yu
   title: Head of Mechanical
   photo: justin
   blurb: Justin is a junior with this being his third year on Team 3128. He has had previous experience with FIRST and engineering, having been in FLL and FTC teams in middle school and reaching World Championships for FTC in the eighth grade. Justin enjoys developing photography, digital design, and dance skills in his free time, and also participates in CCA's Track & Field team. Since joining the Narwhals, he has dedicated his time pursuing design projects utilizing SolidWorks, fabrication projects utilizing various machines, and leading the design processes on competition robot assemblies. Justin looks forward to working with some very fine individuals in designing and developing the 2018-2019 season competition robot.
-  color: 0
+  color: 1
 
 - group: leaders
   name: Eli Smith
   photo: eli
   title: Head of Controls
   blurb: Eli is a senior at Canyon Crest Academy and this is his fourth year as member of Team 3128. As part of the controls division, he teaches students how to program and wire FRC robots, and he is currently pursuing projects in computer vision and motion profiling. When he is not at the workshop, Eli loves rock climbing, spending time in the backcountry, and playing nerdy board games. He looks forward to a great season full of wiring, programming, debugging, debugging, and debugging.
-  color: 1
+  color: 0
 
 - group: leaders
   name: Zoë Chan
   title: Head of Business
   photo: zoe
   blurb: Zoë is a junior at CCA and a third-year member of Team 3128. Over the past two years, Zoë has been involved in fundraising, team merchandising, and community outreach. As the head of business during the 2017-2018 season she worked with new members to contact businesses and plan events themselves.  This season, Zoë plans to increase the number of sponsors and expand community involvement. Besides robotics, Zoë plays club and high school varsity water polo, reads books galore, and improves her lettering and calligraphy skills.
-  color: 0
+  color: 1
 
 - group: leaders
   name: Jessica Xiang
   title: Head of Marketing
   photo: jessica
   blurb: Jessica is a senior at Canyon Crest Academy and a fourth-year member of Team 3128. She has previous experience working with Lego MINDSTORM throughout elementary school and Vex EDR through her middle school robotics club in eighth grade. Outside of the workshop, she loves volunteering, baking, traveling, hiking, and snowboarding. This year, Jessica looks forward to expanding our team’s presence in our community and throughout the broader FIRST community, through the power of social media and (adorable) merchandise.
-  color: 1
+  color: 0
 
 - group: leaders
   name: Kendra Kleber
   title: Head of Strategy
   blurb: Kendra is a senior at Canyon Crest Academy and this is her second year on Team 3128. She has previous experience with FIRST from her middle school FLL team. Outside of the workshop, Kendra is an active Girl Scout, practices and teaches Taekwondo, and sleeps 8 hours every night. As part of the strategy division, she has spent her time analyzing last year’s game, scouting, and using data analytics to choose alliance partners. Kendra looks forward to a great year of strategizing.
-  color: 0
+  color: 1

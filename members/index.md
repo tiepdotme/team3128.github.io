@@ -7,26 +7,15 @@ permalink: /members/
 
 Becoming a part of robotics is very easy. There are just a few steps:
 
-1. Sign up on our team roster (link coming soon). This will get you added to our mailing list so you know everything that is going on.  Please use an email you check regularly.
-2. Sign up on [STIMS](https://my.usfirst.org/stims/Login.aspx), our league information manager. This will let you attend tournaments and be involved in official robotics events off-campus. This step requires a parental unit to finish.
-3. Download, print and fill out our [Safety Waiver](https://drive.google.com/drive/u/0/folders/1RO1MLZCAJqB6rr5H4-3jHY-phqWzB_rC).  This step requires a parental unit to finish.  Please turn in the physical copy at the Workshop to a Mentor.
-4. Show up! We meet at the Robotics Workshop that is located right under the Learning Commons and just past the Nest. Starting Fall 2018, we meet 5 days a week right after school (different divisions will meet different days).  It's somewhat hard to miss, with the robots, the stacks of wood, and all of us. You can check out our [calendar](/members/calendar/) and [blog updates](/blog/) to find out about all the things happening in robotics. You can also [email our leaders](/contact/) to ask any questions you may have.
-5. Before Sept. 24 2018, complete your Safety Training and pass the Safety Quiz.  When you pass the Safety Quiz, you will be issued your official Robotics Workshop Safety Glasses and will be allowed in the Robotics Workshop.  **AFTER Sept. 24, 2018 - No Entry to the Workshop unless you pass the Safety Quiz.**
-+ Review the [FIRST 2018 Safety Manual](https://www.firstinspires.org/sites/default/files/uploads/resource_library/2018-first-robotics-competition-safety-manual.pdf)
-+ Review the [Team 3128 Workshop Safety Rules](https://docs.google.com/document/d/1WzseSUYmA87MJyWdK_2qxU6KtszhGB_BVom2Pd1KJIc/edit?usp=sharing)
-+ Review the [Team 3128 Safety Training presentation](https://docs.google.com/presentation/d/1_PwU0SQLBGlYrsLAWO_iiHXfnwimQYbBl55PwwuunKw/edit?usp=sharing)
-+ View the following 7 minute YouTube [Safety Video](https://www.youtube.com/watch?v=fivMiePNjCc)
-+ Take and pass (80% or better) the [Safety Quiz](https://goo.gl/forms/ylFgQDfHBM8uaU9j2)
-6. Come to our Intro days where each Division will be giving a presentation to orient and acquaint new members, describe what their Division does, how to join and what training you will want. Check our [calendar](/members/calendar/) for details.     
-Team 3128 is comprised of Five Divisions:
-+ Business
-+ Controls
-+ Marketing
-+ Mechanical
-+ Strategy
+1. **Come to Narwhal Orientation.** On Narwhal Intro Day, each of our five divisons (Mechanical, Controls, Business, Marketing, and Strategy) will be giving a brief introduction of what they do, and on Narwhal Information Days, eahc division will be giving a presentation to orient and acquaint new members, describe the work they do, how to join, and what training they will have available to get you started. Check out our [calendar](/members/calendar/) for dates and details.
+2. **Sign up for our team roster.** This will get you added to our mailing list so you know everything that is going on.  Please use an email you check regularly.
+3. **Sign up on [STIMS](https://my.usfirst.org/stims/Login.aspx), our league information manager.** This will let you attend tournaments and be involved in official robotics events off-campus. *This step requires a parental unit to finish.*
+4. **Turn in a [Safety Waiver](https://docs.google.com/document/d/1eKfQ-ij7vUV6zmvRvK-UCNH1psCDn2Wk-KJHHpBW6ec/edit?usp=sharing).** You and your parental unit will need to read, understand, agree to, and sign the safety waiver. Please turn in the physical waiver to a mentor at the workshop.
+5. **Complete [Team 3128 Safety Training](/members/safety/).** Because of the nature of what we do, safety is paramount to our team. That's why we require all members to complete safety training **before Sept. 24, 2018**; after this date, no entry will be granted into the workshop unless you complete safety training.
 
-7. Follow us on [Instagram](https://www.instagram.com/stories/3128aluminarwhals/?hl=en), like us on [Facebook](https://www.facebook.com/aluminumnarwhals). Announcements, photos, and all sorts of awesome stuff will go out through there as well.
-8. [Join GitHub.](/students/github/) GitHub is the place where all team information, discussion, and collaboration will occur in the future. Any information that the team needs to know can be found on our organization's GitHub, as well as new projects and code. **Useful member information is posted on the [info repository](https://github.com/Team3128/info/wiki) on the team's GitHub account**
+After that, the only thing left to do is to show up! We meet at the Robotics Workshop, which is located right under the Learning Commons and just past the Nest (it's somewhat hard to miss, with the robots, the stacks of wood, and all of us). This year, we're meeting 5 days a week right after school. You can check out our [calendar](/members/calendar/) and [blog updates](/blog/) to find out about all the things happening in robotics. You can also [email our leaders](/contact/) to ask any questions you may have.
+
+Also, don't forget to follow us on [Instagram](https://www.instagram.com/stories/3128aluminarwhals/?hl=en), [Facebook](https://www.facebook.com/aluminumnarwhals), and [Twitter](https://twitter.com/FRCTeam3128)!
 
 ## Growing Your Skills
 
@@ -34,9 +23,10 @@ After you’ve signed up, there are lots of different ways to grow your skills:
 
 <img src="/assets/dank-photos/1.jpg" class="leftimage">
 
-+ **Learn your way around the workshop.** Through various talks and hands-on explanations, mentors and students explain how to use various tools and the various procedures of the team.
-+ **Attend Workshops and Classes,** Throughout preseason, our members and mentors will be giving lessons and working with new members to help them learn more and be ready for build season.
-+ **Be Involved.** Often, the best learning experience comes with jumping right into it. With the guidance of more experienced mentors and members, pursue projects and participate in what interests you.
+**Learn your way around the workshop.** Through various talks and hands-on explanations, mentors and students explain how to use various tools and the various procedures of the team.  
+**Attend Workshops and Classes,** Throughout preseason, our members and mentors will be giving lessons and working with new members to help them learn more and be ready for build season.  
+**Be Involved.** Often, the best learning experience comes with jumping right into it. With the guidance of more experienced mentors and members, pursue projects and participate in what interests you.  
+**Take a look at our team resources.** Our team has collected information that we think is important, and you can find all of that on [our resources page](/resources/).
 
 If you have any scheduling/team questions, you can also check out our [Frequently Asked Questions](/members/faq/) page.
 
@@ -44,10 +34,9 @@ If you have any scheduling/team questions, you can also check out our [Frequentl
 
 ## Workshop Hours
 
-Tracking the time you spend at the workshop is important. Not only is having record of all your hard work and dedication a great college application point, but privileges like slots on our leadership team, competition team, or travel team all require certain minimum hour requirements. Here’s how to get started:
-
-+ When you come to the workshop each day, find the Workshop Supervisor and sign in electronically with your Student ID card. You’ll need to talk to them again to sign out.
-+ If you forgot/don’t have your Student ID card, fill out our [time log worksheet](/assets//documents/FRC_Time_Log_Workshop.pdf). You can also use this sheet if you remember you forgot to sign in with the Workshop Supervisor.
+Tracking the time you spend at the workshop is important. Not only is having record of all your hard work and dedication a great college application point, but privileges like eligibilty for our leadership team and competition team all require certain minimum hour requirements. In order to keep track of your hours, follow these steps:
++ When you come to the workshop each day, sign in on the automatic time tracking terminal with your student ID or fingerprint.
++ Before you leave the workshop, make sure to sign out.
 
 <img src="/assets/dank-photos/6.JPG" class="leftimage">
 
@@ -151,58 +140,6 @@ Our leadership team and mentors create appointed positions when needed. Appointe
 + Maintaining a clean and fully functional workshop environment.
 + Create and Maintain Google Calendar for Robotics - Strategy Division
 
-<!--
-Chairman's.
-Actually this time.
-For real
-100%
-No joke
-Literally.
--->
-
 ### Leadership Meetings
 
 Each month, the leadership team holds a meeting where they discuss the happenings of the team and set the course for the overall year. For the 2018-19 year, the leadership meetings will happen every week in the CCA Cage or Robotics Room unless otherwise noted. Find out more about [our leadership team](/about/leaders/).
-
-<!--
-+ Friday, September 2nd @ 5:00 pm - 6:00 pm
-+ Friday, September 9th @ 5:00 pm - 6:00 pm
-+ Friday, September 16th @ 5:00 pm - 6:00 pm
-+ Friday, September 23rd @ 5:00 pm - 6:00 pm
-+ Friday, September 30th @ 5:00 pm - 6:00 pm
-+ Friday, October 7th @ 5:00 pm - 6:00 pm
-+ Friday, October 14th @ 5:00 pm - 6:00 pm
-+ Friday, October 21st @ 5:00 pm - 6:00 pm
-+ Friday, October 28th @ 5:00 pm - 6:00 pm
-+ Friday, November 4th @ 5:00 pm - 6:00 pm
-+ Friday, November 11th @ 5:00 pm - 6:00 pm
-+ Friday, November 18th @ 5:00 pm - 6:00 pm
-+ Friday, November 25th @ 5:00 pm - 6:00 pm
-+ Friday, December 2nd @ 5:00 pm - 6:00 pm
-+ Friday, December 9th @ 5:00 pm - 6:00 pm
-+ Friday, December 16th @ 5:00 pm - 6:00 pm
-+ Friday, January 6th @ 5:00 pm - 6:00 pm
-+ Friday, January 13th @ 5:00 pm - 6:00 pm
-+ Friday, January 20th @ 5:00 pm - 6:00 pm
-+ Friday, January 27th @ 5:00 pm - 6:00 pm
-+ Friday, February 3rd @ 5:00 pm - 6:00 pm
-+ Friday, February 10th @ 5:00 pm - 6:00 pm
-+ Friday, February 17th @ 5:00 pm - 6:00 pm
-+ Friday, February 24th @ 5:00 pm - 6:00 pm
-+ Friday, March 3rd @ 5:00 pm - 6:00 pm
-+ Friday, March 10th @ 4:00 pm - 5:00 pm
-+ Friday, March 17th @ 4:00 pm - 5:00 pm
-+ Friday, March 24th @ 4:00 pm - 5:00 pm
-+ Friday, March 31st @ 4:00 pm - 5:00 pm
-+ Friday, April 7th @ 4:00 pm - 5:00 pm
-+ Friday, April 14th @ 4:00 pm - 5:00 pm
-+ Friday, April 21st @ 4:00 pm - 5:00 pm
-+ Friday, April 28th @ 4:00 pm - 5:00 pm
-+ Friday, May 5th @ 4:00 pm - 5:00 pm
-+ Friday, May 12th @ 4:00 pm - 5:00 pm
-+ Friday, May 19th @ 4:00 pm - 5:00 pm
-+ Friday, May 26th @ 4:00 pm - 5:00 pm
-+ Friday, June 2nd @ 4:00 pm - 5:00 pm
-+ Friday, June 9th @ 4:00 pm - 5:00 pm
-+ Friday, June 16th @ 4:00 pm - 5:00 pm
--->
