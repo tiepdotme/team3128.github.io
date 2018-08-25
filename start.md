@@ -4,9 +4,16 @@ title: Start Page
 permalink: /start/
 ---
 
+**Mentor Tools**
+- [Trello](https://trello.com/frc3128) - Progress Reports
+- [Leadership Evaluation Form](https://drive.google.com/open?id=1aCCshyb_dWDsQrBmZTZdA89FbEOC1NfqcPsDzhJ7fc8)
+- [Leadership Meeting Agenda/Notes](https://drive.google.com/open?id=0Bw4yFjewlO1XMUJaWkt2SEloNHc)
+- [Finance Journal & Budgets](https://drive.google.com/open?id=1QQy_jvX2gFSnem4Bt1bFB5rtU7J8sV6V0P1KhQ7wPsw)
+- [Strategic Plans](https://drive.google.com/open?id=1E5znibnw4xSbfPeBThTxPUskt69g8AWb)
+
 **General Services**  
 - [Slack](https://team3128.slack.com) - Informal Communication / Messaging  
-- [Trello](https://trello.com/frc3128) - Project Management  
+- [Trello](https://trello.com/frc3128) - Project Management
 - [Google Drive](https://drive.google.com/open?id=0B3pyuMp3bnOhd1licjE1eHhEbWc) - File Storage
 
 **Student Services**
@@ -14,7 +21,6 @@ permalink: /start/
 - [STIMS](https://my.firstinspires.org/Dashboard/) - Student Team Information Management System  
 
 **Special Files**
-- [Build Season Overview](https://docs.google.com/spreadsheets/d/1nRzzqhXZGhIvK8lG7Q1DINT6xzGrbjR1PeXZjQkgrLw/edit#gid=1857024257) - Schedule, Supervision, Meals  
 - [Finance Information](https://drive.google.com/drive/folders/0B7zXQNq5WwKncGtpUlo1OHF1ZHc) - Records, Budgets  
 
 **Other**
