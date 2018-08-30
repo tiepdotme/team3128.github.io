@@ -39,7 +39,7 @@ In order to keep developing our skills and pursuing our goals, our requested don
 <b>You can donate directly to our team using the online donation form.</b>
 <ol>
 <li>Head over to the <a href="https://interland3.donorperfect.net/weblink/weblink.aspx?name=E113627&id=20">CCA Foundation online donation form</a>.</li>
-<li>Select the "Gift to a Quest Program" checkbox.</li>
+<li>Select the "Gift to a STEM Program" checkbox.</li>
 <li>Select "Robotics Team" from the dropdown.</li>
 </ol>
 
