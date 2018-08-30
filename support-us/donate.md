@@ -49,7 +49,7 @@ In order to keep developing our skills and pursuing our goals, our requested don
 <ol>
 <li>Make the check payable to:</li>
 <i>‘Canyon Crest Academy Foundation’</i>
-<li>Include <i>‘QUEST/Robotics’</i> on the memo line</li>
+<li>Include <i>‘STEM - Robotics’</i> on the memo line</li>
 <li>Drop off the check or mail it to:</li>
 <i>5951 E Village Middle Loop Rd <br>
 San Diego, CA 92130</i>
