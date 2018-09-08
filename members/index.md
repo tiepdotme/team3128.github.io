@@ -5,6 +5,7 @@ subtitle: Getting Started
 permalink: /members/
 redirect_from:
  - join
+ - join/
 ---
 
 Becoming a part of robotics is very easy. There are just a few steps:
