@@ -45,104 +45,12 @@ Tracking the time you spend at the workshop is important. Not only is having rec
 
 ## Team Leadership
 
-Our team is led by a group of elected officials and appointed officers.
-
-They meet during weekly Leadership meeting where the leadership, mentors, and project leaders discuss the current happenings of the team.
+Our team is led by a group of elected student officials and appointed officers. They meet during weekly Leadership meeting where the leadership, mentors, and project leaders discuss the current happenings of the team. Learn out more about [our leadership team](/about/leaders/).
 
 ### Elected Positions
 
-Our President is elected at the end of every year in May by a team vote. Anyone who has been on the team for at least one complete build season can self-nominate for President or Vice President. The Vice President may nominate themselves to the Presidential candidates, and President-Vice President tickets will run in the election. The election will follow each Presidential candidate delivering opening and closing statements before and after responses to specific questions submitted by team members and chosen by mentors.
-
-<!--
-**Self-Nominations Open:** April 28th  
-**Self-Nominations Close:** May 11th  
-**Election Day:** May 19th
--->
-
-**President and Vice-President**
-
-+ Acting as a top student official / spokesperson for other teams, organizations, etc.
-+ Preparing weekly Leadership meeting agenda, running the meeting, and taking notes.
-+ Sending weekly team email updates promptly after Leadership meetings.
-+ Leading weekly Team Announcement Meetings.
-+ Organizing and leading the execution of team social events.
-+ Planning and maintaining mentoring relationships with other teams, including communicating opportunities, scheduling member support, and acting as a primary contact.
-+ Update and Maintain Google Calendar for Robotics Workshop and Team Events
-
+Our President and Viceo President are elected in May by a team vote of all members who have attended meetings for at least 10 build season hours. Anyone who has been on the team for at least one complete build season can self-nominate for President or Vice President, with Presidential candidates selecting their Vice Presidential running mate. The election will follow each Presidential candidate delivering opening and closing statements before and after responses to specific questions submitted by team members and chosen by mentors.
 
 ### Appointed Positions
 
-Our leadership team and mentors create appointed positions when needed. Appointed officers are in charge of specific parts of the team that leadership has deemed necessary. These positions are created to fit the various needs of the team, and are subject to change over time.
-
-**Head of Mechanical:**
-
-+ Acting as the leader and voice for the mechanical sector.
-+ Organizing and maintaining the overall schedule for the mechanical sector.
-+ Preparing and maintaining a budget for every project in the mechanical sector.
-+ Ensuring that mechanical team members are adequately prepared for the build season.
-+ Organizing mechanical team members into project teams and ensuring that all projects are appropriately staffed.
-+ Purchasing all items needed for the mechanical team, including but not limited to, robot parts, raw materials, workshop tools, and workshop maintenance products.
-+ Maintaining a clean and fully functional workshop environment.
-+ Create and Maintain Google Calendar for Robotics - Mechanical Division
-
-
-**Head of Controls:**
-
-+ Acting as the leader and voice for the controls sector.
-+ Organizing and maintaining the overall schedule for the controls sector.
-+ Preparing and maintaining a budget for every project in the controls sector.
-+ Ensuring that controls team members are adequately prepared for the build season.
-+ Organizing controls team members into project teams and ensuring that all projects are appropriately staffed.
-+ Purchasing all items needed for the controls team, including but not limited to, robot parts, raw materials, workshop tools, and workshop maintenance products.
-+ Maintaining a clean and fully functional workshop environment.
-+ Create and Maintain Google Calendar for Robotics - Controls Division
-
-**Head of Marketing:**
-
-+ Acting as the leader and voice for the marketing sector.
-+ Organizing and maintaining the overall schedule for the marketing sector.
-+ Preparing and maintaining a budget for every project in the marketing sector.
-+ Ensuring that marketing members are prepared for 
-    + Organizing project teams for each project and ensuring that all projects are appropriately staffed.
-        + Releasing information and marketing materials on social media outlets (Instagram, Facebook, etc.)
-        + Maintaining the team3128.org website (Homepage, Blog, etc.)
-        + Designing, marketing, and facilitating sales of team spirit wear.
-            + Sales: T Shirts, sweatshirts, socks, etc.
-            + Gratis items: Buttons, wristbands, etc.
-        + Finding, planning, and executing school and corporate presentations.
-    + Purchasing all items needed for the marketing team.
-    + Ensuring proper usage of team branding in all external-facing materials.
-+ Create and Maintain Google Calendar for Robotics - marketing Division
-
-
-**Head of Business:**
-
-+ Acting as the leader and voice for the business sector.
-+ Organizing and maintaining the overall schedule for the business sector.
-+ Preparing and maintaining a budget for every project in the business sector.
-+ Ensuring that business members are prepared for communicating with companies, parents, news outlets, and our school.
-+ Organizing project teams for each project and ensuring that all projects are appropriately staffed.
-+ All external email communications for parents, the team, sponsors (does not include social media - see marketing)
-+ Reaching out to parents and companies for the purpose of fundraising. 
-    + Creation of presentation material for fundraising to corporations - dovetail with marketing mentors
-    + Rehearsal of in-person presentations to any companies for fundraising
-    + Find and apply for grants
-+ Communicating press releases with CCA Foundation and news outlets.
-+ Purchasing all items needed for the business team.
-+ Ensuring proper usage of team branding in all external-facing materials.
-+ Create and Maintain Google Calendar for Robotics - business Division
-
-**Head of Strategy:**
-
-+ Acting as the leader and voice for the strategy sector.
-+ Organizing and maintaining the overall schedule for the strategy sector.
-+ Preparing and maintaining a budget for every project in the strategy sector.
-+ Ensuring that strategy team members are adequately prepared for the build and competition season.
-+ Organizing strategy team members into project teams and ensuring that all projects are appropriately staffed.
-+ Purchasing all items needed for the strategy team.
-+ Maintaining a clean and fully functional workshop environment.
-+ Create and Maintain Google Calendar for Robotics - Strategy Division
-
-### Leadership Meetings
-
-Each month, the leadership team holds a meeting where they discuss the happenings of the team and set the course for the overall year. For the 2018-19 year, the leadership meetings will happen every week in the CCA Cage or Robotics Room unless otherwise noted. Find out more about [our leadership team](/about/leaders/).
+Our leadership team and mentors create appointed positions when needed. Appointed officers are in charge of specific parts of the team that leadership has deemed necessary. These positions are created to fit the various needs of the team, and are subject to change over time. For the 2018-19 season, each of our departments has one appointed Head of Department. [Learn more about our departments](/about/departments/).
