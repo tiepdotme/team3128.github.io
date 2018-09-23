@@ -7,18 +7,13 @@ permalink: /contact/
 If you would like to contact us, you may email us at [info@team3128.org](mailto:info@team3128.org)
 
 **Mentors**  
-*Tyler Carter*  
-Lead Mentor  
-[tyler@team3128.org](mailto:tyler@team3128.org)  
-(858)228-0048  
+*Tony Mauro*  
+Faculty Advisor, Lead Mentor 
+[tony.mauro@sduhsd.net](mailto:tony.mauro@sduhsd.net)  
 
 *Garrison Price*  
 Lead Mentor  
 [garrison@team3128.org](mailto:garrison@team3128.org)  
-
-*Tony Mauro*  
-Faculty Advisor  
-[tony.mauro@sduhsd.net](mailto:tony.mauro@sduhsd.net)  
 
 **Student Leadership**  
 *Ronak R.*  
