@@ -8,7 +8,7 @@ If you would like to contact us, you may email us at [info@team3128.org](mailto:
 
 **Mentors**  
 *Tony Mauro*  
-Faculty Advisor, Lead Mentor 
+Faculty Advisor, Lead Mentor  
 [tony.mauro@sduhsd.net](mailto:tony.mauro@sduhsd.net)  
 
 *Garrison Price*  
