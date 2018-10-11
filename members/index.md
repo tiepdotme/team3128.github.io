@@ -8,11 +8,7 @@ redirect_from:
  - join/
 ---
 
-### Finding the Workshop
-Our Workshop is located right under the Learning Commons. [You can see where our workshop is on this map](https://drive.google.com/file/d/1nmsMCm0ZSwcSjjCppgf_gx3leKmMs5WY/view?usp=sharing). There are two ways to get to our workshop:
-1. **From the school.** Take the stairs between the B building and the Learning Commons towards the Admin Parking Lot. Our workshop is just past the Nest on the right side of the gate.
-2. **From the Admin Parking Lot** Our workshop can be accessed by enterring the large concrete sidewalk just right of the Administration building.
-
+## Join the Team!
 Becoming a part of robotics is very easy. There are just a few steps:
 
 <!--
@@ -28,6 +24,11 @@ Uncomment this portion near the end of the school year.
 After that, the only thing left to do is to show up! You can also check out our [calendar](/members/calendar/) and [blog updates](/blog/) to find out about all the things happening in robotics. You can also [email our leaders](/contact/) to ask any questions you may have.
 
 Also, don't forget to follow us on [Instagram](https://www.instagram.com/stories/3128aluminarwhals/?hl=en), [Facebook](https://www.facebook.com/aluminumnarwhals), and [Twitter](https://twitter.com/FRCTeam3128)!
+
+### Finding the Workshop
+Our Workshop is located right under the Learning Commons. [You can see where our workshop is on this map](https://drive.google.com/file/d/1nmsMCm0ZSwcSjjCppgf_gx3leKmMs5WY/view?usp=sharing). There are two ways to get to our workshop:
+1. **From the school.** Take the stairs between the B building and the Learning Commons towards the Admin Parking Lot. Our workshop is just past the Nest on the right side of the gate.
+2. **From the Admin Parking Lot** Our workshop can be accessed by enterring the large concrete sidewalk just right of the Administration building.
 
 ## Growing Your Skills
 
