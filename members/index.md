@@ -8,19 +8,24 @@ redirect_from:
  - join/
 ---
 
+### Finding the Workshop
+Our Workshop is located right under the Learning Commons. [You can see where our workshop is on this map](https://drive.google.com/file/d/1nmsMCm0ZSwcSjjCppgf_gx3leKmMs5WY/view?usp=sharing). There are two ways to get to our workshop:
+1. **From the school.** Take the stairs between the B building and the Learning Commons towards the Admin Parking Lot. Our workshop is just past the Nest on the right side of the gate.
+2. **From the Admin Parking Lot** Our workshop can be accessed by enterring the large concrete sidewalk just right of the Administration building.
+
 Becoming a part of robotics is very easy. There are just a few steps:
 
 <!--
 Uncomment this portion near the end of the school year.
 1. **Come to Narwhal Orientation.** On Narwhal Intro Day, each of our five divisons (Mechanical, Controls, Business, Marketing, and Strategy) will be giving a brief introduction of what they do, and on Narwhal Information Days, eahc division will be giving a presentation to orient and acquaint new members, describe the work they do, how to join, and what training they will have available to get you started. Check out our [calendar](/members/calendar/) for dates and details.
 -->
-1. **Attend a Narwhal Workshop Tour.** For new members who would like to join in the Fall, we host workshop tours every Friday that are led by our team's student leadership. These workshop tours allow new students to be introduced to our team and our departments, as well as learn more about how to get started participating in the team. [Sign up here!](https://docs.google.com/forms/d/e/1FAIpQLSeR-tNL52DAau3NirIC6cbO032vM8eP1FjYkRvkgNhVEV9dEQ/viewform?usp=sf_link)
+1. **Stop by the workshop!** For new members who would like to join in the Fall, you can [contact us](/contact/) or stop by our workshop and talk to one of our [student leaders](/about/leaders/). We'll introduce you to our five departments (Mechanical, Controls, Business, Marketing, and Strategy), and the department heads will be able to get you started with classes and projects.
 2. **Sign up on our [team roster](https://team3128.us17.list-manage.com/subscribe?u=7c13b1f47db9b4f3392eda9f2&id=b93cada25a).** This will get you added to our mailing list so you know everything that is going on.  Please use an email you check regularly.
 3. **Sign up on [STIMS](https://my.firstinspires.org/Dashboard/), our league information manager.** This will let you attend tournaments and be involved in official robotics events off-campus. *This step requires a parental unit to finish.*
 4. **Turn in a [Safety Waiver](https://docs.google.com/document/d/1eKfQ-ij7vUV6zmvRvK-UCNH1psCDn2Wk-KJHHpBW6ec/edit?usp=sharing).** You and your parental unit will need to read, understand, agree to, and sign the safety waiver. Please turn in the physical waiver to a mentor at the workshop.
 5. **Complete [Team 3128 Safety Training](/members/safety/).** Because of the nature of what we do, safety is paramount to our team. That's why we require all members to complete safety training **before Sept. 26, 2018**; after this date, no entry will be granted into the workshop unless you complete safety training.
 
-After that, the only thing left to do is to show up! We meet at the Robotics Workshop, which is located right under the Learning Commons and just past the Nest (it's somewhat hard to miss, with the robots, the stacks of wood, and all of us). This year, we're meeting 5 days a week right after school. You can check out our [calendar](/members/calendar/) and [blog updates](/blog/) to find out about all the things happening in robotics. You can also [email our leaders](/contact/) to ask any questions you may have.
+After that, the only thing left to do is to show up! You can also check out our [calendar](/members/calendar/) and [blog updates](/blog/) to find out about all the things happening in robotics. You can also [email our leaders](/contact/) to ask any questions you may have.
 
 Also, don't forget to follow us on [Instagram](https://www.instagram.com/stories/3128aluminarwhals/?hl=en), [Facebook](https://www.facebook.com/aluminumnarwhals), and [Twitter](https://twitter.com/FRCTeam3128)!
 
