@@ -45,11 +45,13 @@ In order to keep developing our skills and pursuing our goals, our requested don
 
 <b>You can also make a <i>monthly pledge</i> to our team using the monthly pledge form.</b>
 <ol>
-<li>Head over to the <a href="https://interland3.donorperfect.net/weblink/weblink.aspx?name=E113627&id=21">CCA Foundation online donation form</a>.</li>
+<li>Head over to the <a href="https://interland3.donorperfect.net/weblink/weblink.aspx?name=E113627&id=21">CCA Foundation online monthly pledge form</a>.</li>
 <li>Select the "Gift to a STEM Program" checkbox.</li>
 <li>Select "Robotics Team" from the dropdown.</li>
 </ol>
 </td>
+
+
 <td width="50%" style="padding:5px;vertical-align: top; background: #f0f0f0">
 <b>You can also donate directly to our team by writing us a check.</b>
 <ol>
