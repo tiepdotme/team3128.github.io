@@ -49,7 +49,8 @@ In order to keep developing our skills and pursuing our goals, our requested don
 <li>Select the "Gift to a STEM Program" checkbox.</li>
 <li>Select "Robotics Team" from the dropdown.</li>
 </ol>
-</td> -->
+</td>
+-->
 
 
 <td width="100%" style="padding:5px;vertical-align: top; background: #f0f0f0">
