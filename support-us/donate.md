@@ -26,16 +26,16 @@ In order to keep developing our skills and pursuing our goals, our requested don
 
 <table width="100%">
 <tr>
-<!-- <td width="50%" style="text-align: center; background: #1b1464">
+<td width="50%" style="text-align: center; background: #1b1464">
 <font style="font-size:20pt; color: white;">Online</font>
 <br>
-</td> -->
+</td>
 <td width="100%" style="text-align: center; background: #072682">
 <font style="font-size:20pt; color: white;">By Check</font>
 </td>
 </tr>
 <tr>
-<!-- <td width="50%" style="padding:5px;vertical-align: top;">
+<td width="50%" style="padding:5px;vertical-align: top;">
 <b>You can make a <i>one-time contribution</i> directly to our team using the online donation form.</b>
 <ol>
 <li>Head over to the <a href="https://interland3.donorperfect.net/weblink/weblink.aspx?name=E113627&id=20">CCA Foundation online donation form</a>.</li>
@@ -50,7 +50,6 @@ In order to keep developing our skills and pursuing our goals, our requested don
 <li>Select "Robotics Team" from the dropdown.</li>
 </ol>
 </td>
--->
 
 
 <td width="100%" style="padding:5px;vertical-align: top; background: #f0f0f0">
