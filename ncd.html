@@ -1,0 +1,46 @@
+---
+layout: page
+title: Narwhal Code Day
+permalink: /narwhalcodeday/
+redirect_from:
+ - ncd
+ - ncd/
+---
+
+Welcome to Narwhal Code Day! Select one of the activities below and get started coding!
+
+<br><br>
+
+<table width="100%" border="0px" cellpadding="8px" cellspacing="0px">
+    {% for hoc in site.data.ncd %}
+    {% if hoc.title %}
+    <tr>
+        <td colspan="2" style="vertical-align: top; text-align: center">
+            <span style="font-size: 40pt; line-height: 44px;">{{ hoc.name }}</span>
+            <br>
+            <span style="font-size: 16pt">{{ hoc.description }}</span>
+        </td>
+    </tr>
+    {% else %}
+    <tr>
+        <td width="40%">
+            <img src="/assets/ncd/{{ hoc.image }}" width="100%"/>
+        </td>
+        <td style="vertical-align: top">
+            <span style="font-size: 40pt; line-height: 44px;">{{ hoc.name }}</span>
+            <br>
+            <span style="font-size: 16pt">{{ hoc.description }}</span>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">
+            <a href="{{ hoc.link }}">
+                <div style="margin-top: 2px; margin-bottom: 24px;" class="button hover_animate" align="center">
+                    Let's Go!
+                </div>
+            </a>
+        </td>
+    </tr>
+    {% endif %}
+    {% endfor %}
+</table>
