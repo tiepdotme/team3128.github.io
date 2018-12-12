@@ -28,21 +28,20 @@ Our hard work and drive only grew stronger over the course of our team's history
 <b>2013: San Diego Regional</b> - FIRST Dean's List Finalist - Soren Price
 
 <b>2014: San Diego Regional</b> - FIRST Dean's List Finalist - Kian Sheik
-
-                               - Creativity Award sponsored by Xerox
+<b>2014: San Diego Regional</b> - Creativity Award sponsored by Xerox
 
 <b>2015: San Diego Regiona</b>l - Entrepreneurship Award sponsored by Kleiner Perkins Caufield and Byers
 
 <b>2016: Las Vegas Regional</b> - Engineering Inspiration Award
-      <b>World Championships</b> - St. Louis - Competed in Galileo Division
+<b>2016: World Championships - St. Louis</b> - Competed in Galileo Division
 
 <b>2017: San Diego Regional</b> - Finalist
-      <b>World Championships - Houston</b> - Competed in Carver Division
+<b>2017: World Championships - Houston</b> - Competed in Carver Division
 
 <b>2018: San Diego Regional</b> - Finalist
-      <b>San Diego Regional</b> - Innovation in Controls Award sponsored by Rockwell Automation
-      <b>Idaho Regional</b> - FIRST Dean's List Finalist - Ronak Roy
-      <b>World Championships - Houston - Newton Subdivision Finalist</b>
+<b>2018: San Diego Regional</b> - Innovation in Controls Award sponsored by Rockwell Automation
+<b>2018: Idaho Regional</b> - FIRST Dean's List Finalist - Ronak Roy
+<b>2018: World Championships - Houston - Newton Subdivision Finalist</b>
 
 
 ### Our Mission
