@@ -30,7 +30,7 @@ Our hard work and drive only grew stronger over the course of our team's history
 <b>2014: San Diego Regional</b> - FIRST Dean's List Finalist - Kian Sheik
 <b>2014: San Diego Regional</b> - Creativity Award sponsored by Xerox
 
-<b>2015: San Diego Regiona</b>l - Entrepreneurship Award sponsored by Kleiner Perkins Caufield and Byers
+<b>2015: San Diego Regional</b> - Entrepreneurship Award sponsored by Kleiner Perkins Caufield and Byers
 
 <b>2016: Las Vegas Regional</b> - Engineering Inspiration Award
 <b>2016: World Championships - St. Louis</b> - Competed in Galileo Division
