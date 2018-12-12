@@ -28,6 +28,7 @@ Our hard work and drive only grew stronger over the course of our team's history
 <b>2013: San Diego Regional</b> - FIRST Dean's List Finalist - Soren Price
 
 <b>2014: San Diego Regional</b> - FIRST Dean's List Finalist - Kian Sheik
+
                                - Creativity Award sponsored by Xerox
 
 <b>2015: San Diego Regiona</b>l - Entrepreneurship Award sponsored by Kleiner Perkins Caufield and Byers
