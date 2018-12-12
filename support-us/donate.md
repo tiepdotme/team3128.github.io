@@ -51,7 +51,6 @@ In order to keep developing our skills and pursuing our goals, our requested don
 </ol>
 </td>
 
-
 <td width="100%" style="padding:5px;vertical-align: top; background: #f0f0f0">
 <b>You can donate directly to our team by writing us a check.</b>
 <ol>
@@ -65,6 +64,10 @@ San Diego, CA 92130</i>
 </td>
 </tr>
 </table>
+
+### In-Kind Donation
+For all physical items that you donate (Food during Build Season, Mechanical parts we request, etc.) we have an "In-Kind Donation Form" through which you can claim your Tax Deduction.
+Go to <a href="https://www.canyoncrestfoundation.org/resources/#forms">CCA Foundation In-Kind donation form</a>, click on <b>Financial</b> and select the <b>In Kind Donation Fill-able Form</b>
 
 ### Donation Levels
 All of our donors are incredibly important to us. We recognize all of our donor in accordance with their giving level. See the [CCA Foundation Giving Levels](http://www.canyoncrestfoundation.org/recognition/giving-levels-and-donor-premiums).
