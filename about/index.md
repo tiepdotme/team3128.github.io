@@ -14,11 +14,35 @@ Our robotics team, along with several others found at our school, participates i
 
 During the 2010 competition season, our team entered brand new and won the Rookie All-Star award for our stellar performance despite being a first-year team, landing us a spot in the FRC World Competition.
 
-We grew for the next 6 years, developing our [Robotics Summer Camp](/camp/), a week-long session for students grades 1 through 8 to design, build, and program their very own robots over the summer.
+We grew for the next 9 years, developing our [Robotics Summer Camp](/camp/), a week-long session for students grades 1 through 8 to design, build, and program their very own robots over the summer.
 
 <img src="/assets/cantstopwontstopwinning.jpg" class="leftimage">
 
-Our hard work and drive only grew stronger over the course of our team's history. With the culmination of enthusiastic mentors' support, skilled drive, mechanical, strategy, electronics, programming, and outreach teams, we began to develop a program that could effectively build upon our past exeperiences and pass down our success to the future generations of narwhals. As we grew, we made sure to keep true to our roots, developing a culture that celebrates all of our members' and allows for the development of new ideas. Over the Aluminum Narwhals' decade, we've gone further than we could have ever imagined, accomplishing several awards, including Entrepreneurship, Innovation in Controls, Regional Finalist, Championship Subdivision Finalist, multiple Dean's List Finalists, and Engineering Inspiration.
+Our hard work and drive only grew stronger over the course of our team's history. With the culmination of enthusiastic mentors' support, skilled drive, mechanical, strategy, electronics, programming, and outreach teams, we began to develop a program that could effectively build upon our past exeperiences and pass down our success to the future generations of narwhals. As we grew, we made sure to keep true to our roots, developing a culture that celebrates all of our members' and allows for the development of new ideas. Over the Aluminum Narwhals' first decade, we've gone further than we could have ever imagined, accomplishing several awards, including Entrepreneurship, Innovation in Controls, Regional Finalist, Championship Subdivision Finalist, multiple Dean's List Finalists, and Engineering Inspiration.
+
+### Awards and Achievements
+<b>2010: San Diego Regional</b> - Rookie All-Star Award
+
+<b>2012: World Championships - Atlanta</b> - Competed in Newton Division
+
+<b>2013: San Diego Regional</b> - FIRST Dean's List Finalist - Soren Price
+
+<b>2014: San Diego Regional</b> - FIRST Dean's List Finalist - Kian Sheik
+                               - Creativity Award sponsored by Xerox
+
+<b>2015: San Diego Regiona</b>l - Entrepreneurship Award sponsored by Kleiner Perkins Caufield and Byers
+
+<b>2016: Las Vegas Regional</b> - Engineering Inspiration Award
+      <b>World Championships</b> - St. Louis - Competed in Galileo Division
+
+<b>2017: San Diego Regional</b> - Finalist
+      <b>World Championships - Houston</b> - Competed in Carver Division
+
+<b>2018: San Diego Regional</b> - Finalist
+      <b>San Diego Regional</b> - Innovation in Controls Award sponsored by Rockwell Automation
+      <b>Idaho Regional</b> - FIRST Dean's List Finalist - Ronak Roy
+      <b>World Championships - Houston - Newton Subdivision Finalist</b>
+
 
 ### Our Mission
 *“Provide a positive high school team experience through robotics while inspiring intellectual creativity, fostering a passion for science, technology, and engineering, and developing critical thinking, problem solving and team building skills.”*
