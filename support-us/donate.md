@@ -68,7 +68,7 @@ San Diego, CA 92130</i>
 ### In-Kind Donation
 For all physical items that you donate (Food during Build Season, Mechanical parts we request, etc.) we have an "In-Kind Donation Form" through which you can claim your Tax Deduction.
 
-Go to <a href="https://www.canyoncrestfoundation.org/resources/#forms">CCA Foundation In-Kind donation form</a>, click on <b>Financial</b> and download the <b>In Kind Donation Fill-able Form</b>
+Go to <a href="https://www.canyoncrestfoundation.org/resources/#forms">CCA Foundation Forms</a> page, click on <b>Financial</b> and download the <b>In Kind Donation Fill-able Form</b>
 
 ### Donation Levels
 All of our donors are incredibly important to us. We recognize all of our donor in accordance with their giving level. See the [CCA Foundation Giving Levels](http://www.canyoncrestfoundation.org/recognition/giving-levels-and-donor-premiums).
