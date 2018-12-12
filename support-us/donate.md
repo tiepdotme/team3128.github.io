@@ -57,7 +57,7 @@ In order to keep developing our skills and pursuing our goals, our requested don
 <li>Make the check payable to:</li>
 <i>‘Canyon Crest Academy Foundation’</i>
 <li>Include <i>‘Team 3128 Robotics’</i> on the memo line</li>
-<li>Drop off the check or mail it to:</li>
+<li>Drop off the check in our Workshop or mail it to:</li>
 <i>5951 E Village Center Loop Rd <br>
 San Diego, CA 92130</i>
 </ol>
