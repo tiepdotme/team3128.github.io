@@ -15,8 +15,8 @@ During Build Season (January 5 - February 19), we meet every day from Monday to 
 
 During Competition Season (February 20 - April 20), we meet as necessary based upon which Competitions we attend.  The Travel Team will compete at 2 Regional Competitions (San Diego Regional held at Del Mar Fairgrounds and Monterey Bay Regional in Monterey CA).  If our Travel Team is successful and we earn a slot, we will also travel to Houston Texas (April 17 - 21 2019) for the [FRC World Championships](https://www.firstchampionship.org/welcome).  
 
-[San Diego Regional](http://casd.cafirst.org/) is held Wednesday May 6 (evening) through Saturday May 9 (with a team dinner Saturday evening).
-[Monterey Bay Regional](https://frc-events.firstinspires.org/2019/CAMB) is Friday May 22 - Sunday evening May 24 (Thursday May 21 and Monday May 25 are travel days, as we are driving to Monterey).
+[San Diego Regional](http://casd.cafirst.org/) is held Wednesday May 6 (evening) through Saturday May 9 (with a team dinner Saturday evening).  
+[Monterey Bay Regional](https://frc-events.firstinspires.org/2019/CAMB) is Friday May 22 - Sunday evening May 24 (Thursday May 21 and Monday May 25 are travel days, as we are driving to Monterey).  
 [Houston Championships](https://www.firstchampionship.org/houston-home)- Wednesday April 17 (evening) through Saturday April 20 (late), not including travel time.
 
 **What does a robotics team do? What are these competitions like?**
