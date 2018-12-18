@@ -13,9 +13,9 @@ Starting Fall 2018, our team meets on Monday through Friday from 3:00 pm – 6:0
 
 During Build Season (January 5 - February 19), we meet every day from Monday to Sunday. Specific dates are updated on [our calendar](/members/calendar/).
 
-During Competition Season (February 20 - May 2), we meet as necessary based upon which Competitions we attend.  The Compeition Team will travel to 2 Regional Competitions (San Diego Regional held at Del Mar Fairgrounds and Monterey Bay Regional in Monterey CA).  If our Competition Team is successful and we earn a slot, we will also travel to Houston Texas (April 17 - 21 2019) for the [FRC World Championships](https://www.firstchampionship.org/welcome).  
+During Competition Season (February 20 - April 20), we meet as necessary based upon which Competitions we attend.  The Travel Team will compete at 2 Regional Competitions (San Diego Regional held at Del Mar Fairgrounds and Monterey Bay Regional in Monterey CA).  If our Travel Team is successful and we earn a slot, we will also travel to Houston Texas (April 17 - 21 2019) for the [FRC World Championships](https://www.firstchampionship.org/welcome).  
 
-San Diego Regional Wednesday May 6 (evening) through Saturday May 9 (with a team dinner Saturday evening).
+San Diego Regional is held Wednesday May 6 (evening) through Saturday May 9 (with a team dinner Saturday evening).
 Monterey Bay is Friday May 22 - Sunday evening May 24 (Thursday May 21 and Monday May 25 are travel days, as we are driving to Monterey).
 World Championships are Wednesday April 17 (evening) through Saturday April 20 (late), not including travel time.
 
