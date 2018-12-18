@@ -55,4 +55,4 @@ If you really can’t be a part of the team during the main competition season, 
 
 Interviews for specific, key positions on the travel team are held throughout November, during preseason.  Most travel team positions are selected near the end of build season based on performance during build.
 
-Parents and students not on our travel team are invited to join us at the competition. It is a great opportunity to meet other teams, get inspired by robots, show your Narwhal pride, and get to know the rest of your team better.
+Parents and students not on our travel team are invited to join us at the San  Diego Regional competition, and if we qualify, Houston Championships. It is a great opportunity to meet other teams, get inspired by robots, show your Narwhal pride, and get to know the rest of your team better.
