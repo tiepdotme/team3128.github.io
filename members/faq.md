@@ -15,9 +15,9 @@ During Build Season (January 5 - February 19), we meet every day from Monday to 
 
 During Competition Season (February 20 - April 20), we meet as necessary based upon which Competitions we attend.  The Travel Team will compete at 2 Regional Competitions (San Diego Regional held at Del Mar Fairgrounds and Monterey Bay Regional in Monterey CA).  If our Travel Team is successful and we earn a slot, we will also travel to Houston Texas (April 17 - 21 2019) for the [FRC World Championships](https://www.firstchampionship.org/welcome).  
 
-**San Diego Regional** is held Wednesday May 6 (evening) through Saturday May 9 (with a team dinner Saturday evening) [San Diego Regional](http://casd.cafirst.org/).
-**Monterey Bay Regional** is Friday May 22 - Sunday evening May 24 (Thursday May 21 and Monday May 25 are travel days, as we are driving to Monterey) [Monterey Bay Regional](https://frc-events.firstinspires.org/2019/CAMB).
-**World Championships** in Houston TX: Wednesday April 17 (evening) through Saturday April 20 (late), not including travel time [Houston Championships](https://www.firstchampionship.org/houston-home).
+[San Diego Regional](http://casd.cafirst.org/) is held Wednesday May 6 (evening) through Saturday May 9 (with a team dinner Saturday evening).
+[Monterey Bay Regional](https://frc-events.firstinspires.org/2019/CAMB) is Friday May 22 - Sunday evening May 24 (Thursday May 21 and Monday May 25 are travel days, as we are driving to Monterey).
+[Houston Championships](https://www.firstchampionship.org/houston-home)- Wednesday April 17 (evening) through Saturday April 20 (late), not including travel time.
 
 **What does a robotics team do? What are these competitions like?**
 
@@ -51,7 +51,7 @@ If you really can’t be a part of the team during the main competition season, 
 
 **Who goes to your competitions? What are competition positions? Who are they open to?**
 
-Our travel team is made up of the students selected for competition positions. These are different roles that students can interview for if they have met the position requirements. While all students are allowed to join us at our home regional and help us compete, our travel team have very specific positions that are vital to our success.
+**Travel Team** is made up of the students selected for competition positions. These are different roles that students can interview for if they have met the position requirements. While all students are allowed to join us at our home regional and help us compete, our travel team have very specific positions that are vital to our success.
 
 Interviews for specific, key positions on the travel team are held throughout November, during preseason.  Most travel team positions are selected near the end of build season based on performance during build.
 
