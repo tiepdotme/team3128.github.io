@@ -11,12 +11,13 @@ Have a question about our robotics program? Here are some of the most often aske
 
 Starting Fall 2018, our team meets on Monday through Friday from 3:00 pm – 6:00 pm every week until Christmas break. Different divisions will meet on different days.  You can look at [our calendar](/members/calendar/) for details.
 
-During Build Season (January 5 - February 19), we meet every day from Monday to Saturday. Specific dates are updated on [our calendar](/members/calendar/).
+During Build Season (January 5 - February 19), we meet every day from Monday to Sunday. Specific dates are updated on [our calendar](/members/calendar/).
 
-During Competition Season (February 20 - May 2), we meet as necessary based upon which Competitions we attend.  The Compeition Team will travel to 2 Regional Competitions (San Diego Regional held at Del Mar Fairgrounds and another competition TBD).  If our Competition Team is successful and we earn a slot, we will also travel to Houston Texas (April 29 - May 2 2019) for the [FRC World Championships](https://www.firstchampionship.org/welcome).  
+During Competition Season (February 20 - May 2), we meet as necessary based upon which Competitions we attend.  The Compeition Team will travel to 2 Regional Competitions (San Diego Regional held at Del Mar Fairgrounds and Monterey Bay Regional in Monterey CA).  If our Competition Team is successful and we earn a slot, we will also travel to Houston Texas (April 17 - 21 2019) for the [FRC World Championships](https://www.firstchampionship.org/welcome).  
 
-Regional Competitions are Thursday evenings through Saturday evenings, not including travel time.
-World Championships are Wednesday evening through Saturday evening, not including travel time.
+San Diego Regional Wednesday May 6 (evening) through Saturday May 9 (with a team dinner Saturday evening).
+Monterey Bay is Friday May 22 - Sunday evening May 24 (Thursday May 21 and Monday May 25 are travel days, as we are driving to Monterey).
+World Championships are Wednesday April 17 (evening) through Saturday April 20 (late), not including travel time.
 
 **What does a robotics team do? What are these competitions like?**
 
@@ -50,8 +51,8 @@ If you really can’t be a part of the team during the main competition season, 
 
 **Who goes to your competitions? What are competition positions? Who are they open to?**
 
-Our competition team is made up of the students selected for competition positions. These are different roles that students can interview for if they have met the position requirements. While all students are allowed to join us at our home regional and help us compete, our competition team have very specific positions that are vital to our success.
+Our travel team is made up of the students selected for competition positions. These are different roles that students can interview for if they have met the position requirements. While all students are allowed to join us at our home regional and help us compete, our travel team have very specific positions that are vital to our success.
 
-Interviews for the competition team are held throughout November, during preseason.
+Interviews for specific, key positions on the travel team are held throughout November, during preseason.  Most travel team positions are selected near the end of build season based on performance during build.
 
-Parents and students not on our competition team are invited to join us at the competition. It is a great opportunity to meet other teams, get inspired by robots, show your Narwhal pride, and get to know the rest of your team better.
+Parents and students not on our travel team are invited to join us at the competition. It is a great opportunity to meet other teams, get inspired by robots, show your Narwhal pride, and get to know the rest of your team better.
