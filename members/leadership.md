@@ -10,7 +10,7 @@ Our team is led by a group of elected student officials and appointed officers. 
 
 ### Elected Positions
 
-Our President and Viceo President are elected in May by a team vote of all members who have attended meetings for at least 10 build season hours. Anyone who has been on the team for at least one complete build season can self-nominate for President or Vice President, with Presidential candidates selecting their Vice Presidential running mate. The election will follow each Presidential candidate delivering opening and closing statements before and after responses to specific questions submitted by team members and chosen by mentors.
+Our President and Vice President are elected in May by a team vote of all members who have attended meetings for at least 10 build season hours. Anyone who has been on the team for at least one complete build season can self-nominate for President or Vice President, with Presidential candidates selecting their Vice Presidential running mate. The election will follow each Presidential candidate delivering opening and closing statements before and after responses to specific questions submitted by team members and chosen by mentors.
 
 ### Appointed Positions
 
