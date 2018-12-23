@@ -44,23 +44,3 @@ After you’ve signed up, there are lots of different ways to grow your skills:
 If you have any scheduling/team questions, you can also check out our [Frequently Asked Questions](/members/faq/) page.
 
 <img src="/assets/dank-photos/2.JPG" class="rightimage">
-
-## Workshop Hours
-
-Tracking the time you spend at the workshop is important. Not only is having record of all your hard work and dedication a great college application point, but privileges like eligibilty for our leadership team and competition team all require certain minimum hour requirements. In order to keep track of your hours, follow these steps:
-+ When you come to the workshop each day, sign in on the automatic time tracking terminal with your student ID or fingerprint.
-+ Before you leave the workshop, make sure to sign out.
-
-<img src="/assets/dank-photos/6.JPG" class="leftimage">
-
-## Team Leadership
-
-Our team is led by a group of elected student officials and appointed officers. They meet during weekly Leadership meeting where the leadership, mentors, and project leaders discuss the current happenings of the team. Learn out more about [our leadership team](/about/leaders/).
-
-### Elected Positions
-
-Our President and Viceo President are elected in May by a team vote of all members who have attended meetings for at least 10 build season hours. Anyone who has been on the team for at least one complete build season can self-nominate for President or Vice President, with Presidential candidates selecting their Vice Presidential running mate. The election will follow each Presidential candidate delivering opening and closing statements before and after responses to specific questions submitted by team members and chosen by mentors.
-
-### Appointed Positions
-
-Our leadership team and mentors create appointed positions when needed. Appointed officers are in charge of specific parts of the team that leadership has deemed necessary. These positions are created to fit the various needs of the team, and are subject to change over time. For the 2018-19 season, each of our departments has one appointed Head of Department. [Learn more about our departments](/about/departments/).

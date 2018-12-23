@@ -42,8 +42,16 @@
   permalink: /members/calendar/
   directory: Members
 
+- title: Workshop Hours
+  permalink: /members/hours/
+  directory: Members
+
 - title: Safety
   permalink: /members/safety/
+  directory: Members
+
+- title: Team Leadership
+  permalink: /members/leadership/
   directory: Members
 
 - title: Important Dates
