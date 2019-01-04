@@ -384,29 +384,45 @@ body {
   background: $royal;
 }
 
-
 .menu_button:hover {
   background: $light;
   cursor: pointer;
 }
 
-#mail:hover {
-  content: url(/assets/header/social/mail-selected.png);
-  cursor: pointer;
+
+#facebook {
+  content: url(/assets/header/social/facebook.svg);
 }
 
 #facebook:hover {
-  content: url(/assets/header/social/facebook-selected.png);
+  content: url(/assets/header/social/facebook-filled.svg);
   cursor: pointer;
 }
 
-#github:hover {
-  content: url(/assets/header/social/github-selected.png);
-  cursor: pointer;
+#instagram {
+  content: url(/assets/header/social/instagram.svg);
 }
 
 #instagram:hover {
-  content: url(/assets/header/social/instagram-selected.png);
+  content: url(/assets/header/social/instagram-filled.svg);
+  cursor: pointer;
+}
+
+#github {
+  content: url(/assets/header/social/github.svg);
+}
+
+#github:hover {
+  content: url(/assets/header/social/github-filled.svg);
+  cursor: pointer;
+}
+
+#twitter {
+  content: url(/assets/header/social/twitter.svg);
+}
+
+#twitter:hover {
+  content: url(/assets/header/social/twitter-filled.svg);
   cursor: pointer;
 }
 
