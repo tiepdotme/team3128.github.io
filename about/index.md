@@ -18,31 +18,31 @@ We grew for the next 9 years, developing our [Robotics Summer Camp](/camp/), a w
 
 <img src="/assets/cantstopwontstopwinning.jpg" class="leftimage">
 
-Our hard work and drive only grew stronger over the course of our team's history. With the culmination of enthusiastic mentors' support, skilled drive, mechanical, strategy, electronics, programming, and outreach teams, we began to develop a program that could effectively build upon our past exeperiences and pass down our success to the future generations of narwhals. As we grew, we made sure to keep true to our roots, developing a culture that celebrates all of our members' and allows for the development of new ideas. Over the Aluminum Narwhals' first decade, we've gone further than we could have ever imagined, accomplishing several awards, including Entrepreneurship, Innovation in Controls, Regional Finalist, Championship Subdivision Finalist, multiple Dean's List Finalists, and Engineering Inspiration.
+Our hard work and drive only grew stronger over the course of our team's history. With the culmination of enthusiastic mentors' support, skilled drive, mechanical, strategy, electronics, programming, and outreach teams, we began to develop a program that could effectively build upon our past exeperiences and pass down our success to the future generations of narwhals. As we grew, we made sure to keep true to our roots, developing a culture that celebrates all of our members' and allows for the development of new ideas. Over the Aluminum Narwhals' first decade, we've gone further than we could have ever imagined, making several notable accomplishments, including the Entrepreneurship, Innovation in Controls, Regional Finalist, Championship Subdivision Finalist, multiple Dean's List Finalist, and Engineering Inspiration awards.
 
 ### Awards and Achievements
-<b>2010: San Diego Regional</b> - Rookie All-Star Award
+<table style="width: 100%">
+  {% for year in site.data.awards %}
+  <tr>
+    <td class="navy" style=" font-size: 14pt; color: white; font-family: Raleway; padding: 8px;">
+      <b>{{ year.year }}</b>
+    </td>
+  </tr>
 
-<b>2012: World Championships - Atlanta</b> - Competed in Newton Division
-
-<b>2013: San Diego Regional</b> - FIRST Dean's List Finalist - Soren Price
-
-<b>2014: San Diego Regional</b> - FIRST Dean's List Finalist - Kian Sheik  
-<b>2014: San Diego Regional</b> - Creativity Award sponsored by Xerox
-
-<b>2015: San Diego Regional</b> - Entrepreneurship Award sponsored by Kleiner Perkins Caufield and Byers
-
-<b>2016: Las Vegas Regional</b> - Engineering Inspiration Award  
-<b>2016: World Championships - St. Louis</b> - Competed in Galileo Division
-
-<b>2017: San Diego Regional</b> - Finalist  
-<b>2017: World Championships - Houston</b> - Competed in Carver Division
-
-<b>2018: San Diego Regional</b> - Finalist  
-<b>2018: San Diego Regional</b> - Innovation in Controls Award sponsored by Rockwell Automation  
-<b>2018: Idaho Regional</b> - FIRST Dean's List Finalist - Ronak Roy  
-<b>2018: World Championships - Houston - Newton Subdivision Finalist</b>
-
+  {% for event in year.events %}
+  <tr>
+    <td style="padding: 4px">
+      <b>{{ event.name }}</b>
+      <br>
+      {% for award in event.awards %}
+      {{award}}
+      {% endfor %}
+    </td>
+  </tr>
+  {% endfor %}
+  {% endfor %}
+</table>
+<br>
 
 ### Our Mission
 *“Provide a positive high school team experience through robotics while inspiring intellectual creativity, fostering a passion for science, technology, and engineering, and developing critical thinking, problem solving and team building skills.”*

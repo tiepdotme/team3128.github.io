@@ -39,6 +39,10 @@ body {
   padding: 20px;
 }
 
+.navy {
+  background: $navy;
+}
+
 @media screen and (min-width: 700px) {
   .leftimage {
     float: left;

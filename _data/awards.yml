@@ -1,0 +1,64 @@
+- year: 2018
+  events:
+   - name: San Diego Regional
+     awards:
+      - Regional Finalist
+      - Innovation in Controls Award sponsored by Rockwell Automation
+   - name: Idaho Regional
+     awards:
+      - FIRST Dean's List Finalist - Ronak Roy
+   - name: World Championships - Houston
+     awards:
+      - Newton Subdivision Finalist
+
+- year: 2017
+  events:
+   - name: San Diego Regional
+     awards:
+      - Regional Finalist
+   - name: World Championships - Houston
+     awards:
+      - Competed in Carver Division
+
+- year: 2016
+  events:
+   - name: Las Vegas Regional
+     awards:
+      - Engineering Inspiration Award
+   - name: World Championships - St. Louis
+     awards:
+      - Competed in Galieo Division
+
+- year: 2015
+  events:
+   - name: San Diego Regional
+     awards:
+      - Entrepreneurship Award sponsored by Kleiner Perkins Caufield and Byers
+
+- year: 2014
+  events:
+   - name: San Diego Regional
+     awards:
+      - FIRST Dean's List Finalist - Kian Sheik
+      - Creativity Award sponsored by Xerox
+
+- year: 2013
+  events:
+   - name: San Diego Regional
+     awards:
+      - FIRST Dean's List Finalist - Soren Price
+
+- year: 2012
+  events:
+   - name: World Championships - St. Louis
+     awards:
+      - Competed in Archimedes Division
+
+- year: 2010
+  events:
+   - name: San Diego Regional
+     awards:
+      - Rookie All-Star Award
+   - name: World Championships - Atlanta
+     awards:
+      - Competed in Newton Division
