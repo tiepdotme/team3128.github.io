@@ -5,7 +5,21 @@ subtitle: Our Team
 permalink: /about/
 ---
 
-Team 3128 Aluminum Narwhals is a high school robotics team at Canyon Crest Academy in San Diego, California. 
+<table style="margin: 0px 0px 10px 0px; background: #e6e6e6" width="100%">
+  <tr width="100%">
+    <td style="vertical-align: top; width: 80px;">
+      <img src="/assets/graphics/quote.png" style="margin-right: 10px; margin-left:10px; margin-top:10px; margin-bottom:35px; opacity: .35" />
+    </td>
+    <td style="vertical-align: top;">
+      <h4 style="margin-right: 10px; margin-left:20px; margin-top:35px; margin-bottom:35px">
+        <i>
+            Our mission is to provide a positive high school team experience through robotics while inspiring intellectual creativity, fostering a passion for science, technology, and engineering, and developing critical thinking, problem solving and team building skills.
+        </i>
+      </h4>
+    </td>
+  </tr>
+</table>
+
 
 ### Our History
 Our team was founded in September of 2009 at Canyon Crest Academy in San Diego, California, at a school where math, science, and technology were valued, but hadn’t found a way to be manifested yet. A handful of students, one engineering mentor, and a computer programming teacher felt those values were important – and thus the Aluminum Narwhals were born.
@@ -43,9 +57,6 @@ Our hard work and drive only grew stronger over the course of our team's history
   {% endfor %}
 </table>
 <br>
-
-### Our Mission
-*“Provide a positive high school team experience through robotics while inspiring intellectual creativity, fostering a passion for science, technology, and engineering, and developing critical thinking, problem solving and team building skills.”*
 
 <!-- <h3>Demographics Information</h3>
 <table style="width: 100%;">
