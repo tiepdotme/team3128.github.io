@@ -42,5 +42,3 @@ After you’ve signed up, there are lots of different ways to grow your skills:
 **Take a look at our team resources.** Our team has collected information that we think is important, and you can find all of that on [our resources page](/resources/).
 
 If you have any scheduling/team questions, you can also check out our [Frequently Asked Questions](/members/faq/) page.
-
-<img src="/assets/dank-photos/2.JPG" class="rightimage">

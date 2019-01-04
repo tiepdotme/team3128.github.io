@@ -9,11 +9,11 @@ Below is the list of important dates and times to keep note of. All of these are
 
 ### Weekly Meetings
 
-During pre-season (Fall through beginning of Winter Break), our team meets Monday - Friday from 3:00 pm - 6:00 pm to further our skills, work on build projects, plan events, and more.  See specifics on [our calendar](/members/calendar/).
+During pre-season (Fall through beginning of Winter Break), our team meets Monday - Friday from 3:00 pm - 5:30 pm to further our skills, work on build projects, plan events, and more. See specifics on [our calendar](/members/calendar/).
 
 ### Leadership Meetings
 
-Each month, the leadership team holds a meeting where they discuss the happenings of the team and set the course for the overall year. For the 2018-19 year, leadership meetings will happen every Monday from 5:00 pm - 6:00 pm unless otherwise noted.
+Each month, the leadership team holds a meeting where they discuss the happenings of the team and set the course for the overall year. For the 2018-19 year, leadership meetings will happen every Friday from 5:00 pm - 6:00 pm unless otherwise noted.
 
 <!--
 **Self-Nominations Open:** May 2nd, 2016  
@@ -30,16 +30,14 @@ For the 2018-2019 school year, Build Season begins on Saturday, January 5, 2019 
 **Normal Scheduled Meetings:** During regular school days between January 5th and February 19th, FRC meetings will happen according to the following schedule:
 
 + Monday-Friday  
-*3:00 pm – 6:00 pm*
+*3:00 pm – 5:30 pm*
 + Saturday  
-*10:00 am – 6:00 pm*
+*10:00 am – 4:00 pm*
 
 **Special Meeting Dates:** Below are a list of special time alterations to the normal build season schedule:
 
 + Saturday, January 5th – Build Season Kickoff Day  
-*CCA 7:00 am – 3:00 pm*  
-+ Sunday, January 6th – Build Season Kickoff Meeting pt. 2  
-*CCA 1:00 pm – 7:00 pm*  
+*CCA 7:00 am – 4:00 pm*  
 + Monday, January 21st – Martin Luther King, Jr. Day (No School)  
 *CCA 10:00 am – 4:00 pm*  
 + Wednesday, January 23rd – Finals Prep  
@@ -56,5 +54,5 @@ For the 2018-2019 school year, Build Season begins on Saturday, January 5, 2019 
 *CCA 10:00 am – 4:00 pm*  
 + Monday, February 18th – Washington Day (No School)  
 *CCA 10:00 am – 4:00 pm*  
-+ Tuesday, February 19th – Last Day of Build Season  
++ Tuesday, February 19th – Bag Day
 *CCA 3:00 pm – 9:00 pm*  

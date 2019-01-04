@@ -32,7 +32,7 @@ Donate!
 ## Become a Sponsor
 If you are a corporation, business, or organization who would like to support our team's efforts to create a STEM learning environment that fosters collaboration and allows for students to learn important life skills, both technical and organizational, as well as to positively influence our community through our STEM outreach programs, we would greatly appreciate any support you would be able to provide!
 <div>
-<a href="/support-us/donate">
+<a href="/support-us/sponsor">
 <div class="button hover_animate" style="text-align: center;">
 Sponsor Us!
 </div>
