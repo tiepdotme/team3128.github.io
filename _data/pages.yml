@@ -1,23 +1,71 @@
-- title: about
+- title: About
   permalink: /about/
+  subpages:
+   - title: Our Team
+     permalink: /about/
+   - title: Our Robots
+     permalink: /about/robots/
+   - title: Our Divisions
+     permalink: /about/divisions/
+   - title: Our Mentors
+     permalink: /about/mentors/
+   - title: Our Leaders
+     permalink: /about/leaders/
+   - title: FIRST
+     permalink: /about/first/
+   - title: Our Website
+     permalink: /about/website/
+   - title: Outreach
+     permalink: /outreach/
 
-- title: sponsors
+- title: Sponsors
   permalink: /sponsors/
 
-- title: outreach
+- title: Outreach
   permalink: /outreach/
 
-- title: blog
+- title: Blog
   permalink: /blog/
 
-- title: members
+- title: Members
   permalink: /members/
+  subpages:
+   - title: Getting Started
+     permalink: /members/
+   - title: Frequently Asked Questions
+     permalink: /members/faq/
+   - title: Calendar
+     permalink: /members/calendar/
+   - title: Workshop Hours
+     permalink: /members/hours/
+   - title: Safety
+     permalink: /members/safety/
+   - title: Team Leadership
+     permalink: /members/leadership/
+   - title: Important Dates
+     permalink: /members/important-dates/
+   - title: Donate
+     permalink: /support-us/donate/
 
-- title: resources
+- title: Resources
   permalink: /resources/
+  subpages:
+   - title: Team Information
+     permalink: /resources/
+   - title: Branding
+     permalink: /resources/branding/
+   - title: Technical
+     permalink: /resources/technical/
 
-- title: support us
+- title: Support Us
   permalink: /support-us/
+  subpages:
+   - title: How You Can Help
+     permalink: /support-us/
+   - title: Donate
+     permalink: /support-us/donate/
+   - title: Become a Sponsor
+     permalink: /support-us/sponsor/
 
-- title: contact
+- title: Contact
   permalink: /contact/

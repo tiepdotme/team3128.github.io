@@ -42,22 +42,24 @@ layout: default
         <tr width="100%" cellpadding="0px">
           <td class="sidebar-td" style="width: 200px;vertical-align: top; padding: 0px; background: #bfbfbf;">
             <table id="tabbar" cellspacing="0px" cellpadding="10px">
-              {% for subpage in site.data.subpages %}
-              {% if subpage.directory == page.title %}
-              {% if subpage.title == page.subtitle %}
-              <tr>
-                <td class="tab hover_animate" style="font-weight: bolder; background: white;vertical-align: middle;" onClick="javascript:location.href='{{ subpage.permalink }}'" >
-                  <font class="tabtext">{{ subpage.title }}</font>
-                </td>
-              </tr>
-              {% else %}
-              <tr>
-                <td class="tab hover_animate" style="vertical-align: middle;" onClick="javascript:location.href='{{ subpage.permalink }}'" >
-                    <font class="tabtext">{{ subpage.title }}</font>
-                </td>
-              </tr>
-              {% endif %}
-              {% endif %}
+              {% for site_page in site.data.pages %}
+                {% if site_page.title == page.title %}
+                  {% for subpage in site_page.subpages %}
+                    {% if subpage.title == page.subtitle %}
+                      <tr>
+                        <td class="tab hover_animate" style="font-weight: bolder; background: white;vertical-align: middle;" onClick="javascript:location.href='{{ subpage.permalink }}'" >
+                          <font class="tabtext">{{ subpage.title }}</font>
+                        </td>
+                      </tr>
+                    {% else %}
+                      <tr>
+                        <td class="tab hover_animate" style="vertical-align: middle;" onClick="javascript:location.href='{{ subpage.permalink }}'" >
+                            <font class="tabtext">{{ subpage.title }}</font>
+                        </td>
+                      </tr>
+                    {% endif %}
+                  {% endfor %}
+                {% endif %}
               {% endfor %}
             </table>
 
@@ -77,13 +79,15 @@ layout: default
               </div>
               <div id="subdiv">
                 <table cellpadding="0px" cellspacing="0px" id="submenu" width="100%">
-                  {% for subpage in site.data.subpages %}
-                    {% if subpage.directory == page.title %}
-                    <tr>
-                      <td class="subtab hover_animate" onClick="javascript:location.href='{{ subpage.permalink }}'" >
-                          {{ subpage.title }}
-                      </td>
-                    </tr>
+                  {% for site_page in site.data.pages %}
+                    {% if site_page.title == page.title %}
+                      {% for subpage in site_page.subpages %}
+                        <tr>
+                          <td class="subtab hover_animate" onClick="javascript:location.href='{{ subpage.permalink }}'" >
+                              {{ subpage.title }}
+                          </td>
+                        </tr>
+                      {% endfor %}
                     {% endif %}
                   {% endfor %}
                 </table>
