@@ -6,7 +6,7 @@ permalink: /contact/
 
 If you would like to contact us, you may email us at [info@team3128.org](mailto:info@team3128.org)
 
-**Mentors**  
+**Coaches**  
 *Tony Mauro*  
 Faculty Advisor, Lead Coach 
 [tony.mauro@sduhsd.net](mailto:tony.mauro@sduhsd.net)  
