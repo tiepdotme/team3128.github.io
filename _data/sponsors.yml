@@ -27,6 +27,13 @@
    link: http://viasat.com
 
 # 2018/2019 Sponsor
+
+ - level: Bronze
+   name: Solar Turbines
+   description: Solar Turbines, a wholly owned subsidiary of Caterpillar Inc., is a global company with more than 50 service locations spread across the world. Solar is a responsible member of the global community with a commitment to meet energy demands in an environmentally sound and sustainable manner. 
+   logo: /assets/Solar Turbines.png
+   link: https://www.solarturbines.com/
+
  - level: Bronze
    name: DRS Daylight Solutions
    description: In 2005, three high-tech entrepreneurs founded DRS Daylight Solutions in San Diego, California, with the goal of developing breakthrough technologies and products around the company’s core technology: mid-IR quantum cascade lasers (QCLs). DRS is also a partner with Canyon Crest Academy, allowing students in the Advanced Engineering Class to work DRS Daylight on engineering projects.
