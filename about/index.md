@@ -20,7 +20,7 @@ permalink: /about/
   </tr>
 </table>
 
-<img src="/assets/Houston group on Newton.jpg" class="leftimage">
+<img src="/assets/Houston group on Newton.jpg" class="centerimage">
 Team 3128, Newton Field Finalists, 2018 FRC World Championships in Houston Texas
 
 ### Our History
