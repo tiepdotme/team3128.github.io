@@ -1,20 +1,20 @@
-- title: Join Us!
-  link: /members/
-  imageSource: /assets/homepage/join.jpeg
-  fullImage: /assets/homepage/join-full.jpeg
-  info: Robotics has officially started! We're super excited to get to work learning new skills, brushing up on old ones, and preparing for build season. If you'd like to join us this year, check out our information for new members!
-
-- title: Giving Back to the Community
-  link: /outreach/
-  imageSource: /assets/homepage/outreach.jpeg
-  fullImage: /assets/homepage/outreach-full.jpeg
-  info: Our team may focus heavily on engineering, but there's a lot more to robotics than just robots. Check out some of the work we do to inspire others to pursue learning in STEM.
+- title: "DESTINATION: DEEP SPACE has officially launched!"
+  link: https://www.firstinspires.org/resource-library/frc/competition-manual-qa-system
+  imageSource: /assets/homepage/deepspace-join.jpeg
+  fullImage: /assets/homepage/deepspace-join-full.jpeg
+  info: "It's finally here! On January 5th at 7:00am, FIRST released the 2019 FIRST Robotics Competition game: DESTINATION: DEEP SPACE. Learn more about our new challenge here!"
 
 - title: Support Us!
   link: /support-us/
   imageSource: /assets/homepage/donate.jpeg
   fullImage: /assets/homepage/donate-full.jpeg
   info: Be a part of creating an amazing STEM-based program for our students. Every company sponsorship and parent donation enables us to engage and inspire our students to pursue their passions in science, technology, engineering, and math.
+
+- title: Giving Back to the Community
+  link: /outreach/
+  imageSource: /assets/homepage/outreach.jpeg
+  fullImage: /assets/homepage/outreach-full.jpeg
+  info: Our team may focus heavily on engineering, but there's a lot more to robotics than just robots. Check out some of the work we do to inspire others to pursue learning in STEM.
 
 # - title: Robotics Summer Camp
 #   link: /camp/
