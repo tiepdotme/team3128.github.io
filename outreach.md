@@ -15,6 +15,10 @@ Campers complete a series of tasks with their robots that walk them through prog
 
 Not only do we engage the younger members of our community, by putting on these camps we also are able to help fund the academics at our school and allow our own team to expand. Last year’s camps were so enormously successful that we are hoping to expand our total capacity next summer from 200 campers over four weeks to 1000 campers over five weeks. Along with this, we will be inviting 60 volunteers from our high school to participate in mentoring these campers, as well as hiring a full-time set of staff members from our team alumni and the surrounding community.
 
+### STEM Expos in San Diego
+The Aluminum Narwhals have appeard at Balboa Park's Maker Faire (2017, 2018) and PETCO Park STEM Expo (2018) and will be at Petco Park for this years event on March 2, 2019 (https://www.lovestemsd.org/expo-day).  Come see our students (and our new 2018 "Deep Space" robot in action).
+
+
 ### Robot Demonstrations  
 The Aluminum Narwhals go to different schools every year to present and demonstrate our robot to younger audiences. Through robot demos/presentations at local schools, this helps attract attention towards the FIRST program and the goals in which it pursues, encouraging schools to fund and support their own FIRST team. Likewise, interest in robotics at a young age draws attraction for students to enter our high school and because an FRC member, expanding the quality of our projects.
 
