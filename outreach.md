@@ -18,12 +18,11 @@ Not only do we engage the younger members of our community, by putting on these 
 ### STEM Expos in San Diego
 The Aluminum Narwhals have appeard at Balboa Park's Maker Faire (2017, 2018) and PETCO Park STEM Expo (2018) and will be at Petco Park for this years event on March 2, 2019 [PETCO Park STEM Expo](https://www.lovestemsd.org/expo-day).  Come see our students (and our new 2018 "Deep Space" robot) in action.
 
-
 ### Robot Demonstrations  
 The Aluminum Narwhals go to different schools every year to present and demonstrate our robot to younger audiences. Through robot demos/presentations at local schools, this helps attract attention towards the FIRST program and the goals in which it pursues, encouraging schools to fund and support their own FIRST team. Likewise, interest in robotics at a young age draws attraction for students to enter our high school and because an FRC member, expanding the quality of our projects.
 
 ### Mentoring and Assisting Other Teams  
-Through our yearly robot presentations at elementary schools, these efforts have widely spread the influence of FIRST and eagerness for a program dedicated towards robotics. This year, we are currently helping Solana Ranch Elementary School form several Jr. FLL/FLL teams. Through our initiation of supporting local schools as they begin participating in FIRST competitions, we hope to instill a passion for STEM into young scientists and engineers at a younger age.
+Through our yearly robot presentations at elementary schools, these efforts have widely spread the influence of FIRST and eagerness for a program dedicated towards robotics. This year, 3128 Team members are mentoring two community FLL Teams:  The Chickeneers and the Pandamoniums.  Both Teams have competed in their local regionals and have done well - we are hoping to see them in Houston TX in April for World Championships!
 
 ### Qualcomm QKids Presentations  
 Qualcomm QKids is a yearly event that we began participating in July 2016. Every year, Qualcomm invites local STEM organizations to come and present in personalized booths while elementary-middle school students of Qualcomm’s own employees are welcomed to tour around and get themselves involved. Held within Qualcomm’s headquarters, children come piling in for a chance to view our latest robot and listen to the year’s game task. Through this event, our team raises awareness of FIRST and promotes our annual robotics summer camp designed to get young children on track for a possible focus in robotics in high school.
