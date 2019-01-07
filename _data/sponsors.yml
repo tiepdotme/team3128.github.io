@@ -25,7 +25,14 @@
    description: Solar Turbines, a wholly owned subsidiary of Caterpillar Inc., is a global company with more than 50 service locations spread across the world. Solar is a responsible member of the global community with a commitment to meet energy demands in an environmentally sound and sustainable manner. 
    logo: /assets/sponsorlogos/SolarTurbines.png
    link: https://www.solarturbines.com/
-
+   
+   # 2018/2019 Sponsor
+ - level: Bronze
+   name: Eurofins Lancaster Laboratories
+   description: Founded in 1961, Eurofins Lancaster Laboratories is a global leader in bio/pharmaceutical laboratory services, providing innovative and timely scientific solutions that enable customers to better manage the drug development process.
+   logo: /assets/sponsorlogos/eurofins.png
+   link: https://www.eurofinsus.com/biopharma-services/laboratories/lancaster-laboratories/
+   
 # 2018/2019 Sponsor
  - level: Bronze
    name: DRS Daylight Solutions
