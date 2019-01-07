@@ -16,14 +16,14 @@
  - level: Bronze
    name: Solar Turbines
    description: Solar Turbines, a wholly owned subsidiary of Caterpillar Inc., is a global company with more than 50 service locations spread across the world. Solar is a responsible member of the global community with a commitment to meet energy demands in an environmentally sound and sustainable manner. 
-   logo: /assets/SolarTurbines.png
+   logo: /assets/sponsorlogos/SolarTurbines.png
    link: https://www.solarturbines.com/
 
 # 2018/2019 Sponsor
  - level: Bronze
    name: DRS Daylight Solutions
    description: DRS Daylight Solutions is a world Leader in Quantum Cascade Laser Technology. DRS Daylight Solutions and its wholly-owned subsidiary, DRS Daylight Defense, which delivers classified, military-hardened products to the defense industry, are both advanced in manufacturing capabilities.
-   logo: /assets/Daylight-Solutions-Logo.png
+   logo: /assets/sponsorlogos/Daylight-Solutions-Logo.png
    link: https://www.daylightsolutions.com/
 
 # 2018/2019 Sponsor
