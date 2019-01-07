@@ -1,18 +1,4 @@
 # 2018/2019 Sponsor
- - level: Gold
-   name: Nordson Corporation
-   description: The Nordson Corporation specializes in precision manufacturing of electronics using advanced fluid-dispensing systems.
-   logo: /assets/sponsorlogos/nordson.png
-   link: http://nordson.com/
- 
-# 2018/2019 Sponsor
- - level: Silver
-   name: Leidos
-   description: Leidos is one of the largest defense contractors, and provides scientific, engineering, systems integration, and technical services. Founded in La Jolla, Leidos works with the Department of Defense, the Department of Homeland Security, and the National Security Agency.
-   logo: /assets/sponsorlogos/leidos.png
-   link: http://leidos.com
-
-# 2018/2019 Sponsor
  - level: Silver
    name: Qualcomm
    description:	Qualcomm is an American technology company that specializes in semiconductors and telecommunications. Qualcomm designs and produces technology such as WiFi Platforms, Cellular Networking Devices, and Mobile Proccessors that are applied over numerous industries.
@@ -33,6 +19,12 @@
    logo: /assets/Solar Turbines.png
    link: https://www.solarturbines.com/
 
+# 2018/2019 Sponsor
+ - level: Bronze
+   name: DRS Daylight Solutions
+   description: DRS Daylight Solutions is a world Leader in Quantum Cascade Laser Technology. DRS Daylight Solutions and its wholly-owned subsidiary, DRS Daylight Defense, which delivers classified, military-hardened products to the defense industry, are both advanced in manufacturing capabilities.
+   logo: /assets/Solar Turbines.png
+   link: https://www.daylightsolutions.com/
 
 # 2018/2019 Sponsor
  - level: In-Kind
