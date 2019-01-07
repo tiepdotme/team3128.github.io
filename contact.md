@@ -8,20 +8,20 @@ If you would like to contact us, you may email us at [info@team3128.org](mailto:
 
 **Coaches**  
 *Tony Mauro*  
-Faculty Advisor, Lead Coach 
+Faculty Advisor, Lead Coach  
 [tony.mauro@sduhsd.net](mailto:tony.mauro@sduhsd.net)  
 
 *Garrison Price*  
-Senior Coach 
+Senior Coach  
 [garrison@team3128.org](mailto:garrison@team3128.org) 
 
-*Christine Low*
-Coach
+*Christine Low*  
+Coach  
 [chris@team3128.org](mailto:chris@team3128.org)
 
-*Mary Snyder*
-Coach
-[mary@team3128.org[(mailto:mary@team3128.org)
+*Mary Snyder*  
+Coach  
+[mary@team3128.org](mailto:mary@team3128.org)
 
 **Student Leadership**  
 *Ronak R.*  
