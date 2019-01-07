@@ -31,9 +31,9 @@ For the 2018-2019 school year, Build Season begins on Saturday, January 5, 2019 
 
 + Monday-Friday  
 *3:00 pm – 5:30 pm*
-+ Saturday-Sunday
++ Saturday-Sunday  
 *10:00 am – 4:00 pm*  
-+ (dependent on Coach availability, please check Slack and weekly emails for latest updates)
+(dependent on Coach availability, please check Slack and weekly emails for latest updates)
 
 **Special Meeting Dates:** Below are a list of special time alterations to the normal build season schedule:
 
