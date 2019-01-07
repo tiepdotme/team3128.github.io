@@ -31,8 +31,8 @@ For the 2018-2019 school year, Build Season begins on Saturday, January 5, 2019 
 
 + Monday-Friday  
 *3:00 pm – 5:30 pm*
-+ Saturday  
-*10:00 am – 4:00 pm*
++ Saturday-Sunday
+*10:00 am – 4:00 pm*  (dependent on Coach availability, please check Slack and weekly emails for latest updates)
 
 **Special Meeting Dates:** Below are a list of special time alterations to the normal build season schedule:
 
@@ -55,4 +55,27 @@ For the 2018-2019 school year, Build Season begins on Saturday, January 5, 2019 
 + Monday, February 18th – Washington Day (No School)  
 *CCA 10:00 am – 4:00 pm*  
 + Tuesday, February 19th – Bag Day
-*CCA 3:00 pm – 9:00 pm*  
+*CCA 3:00 pm – 9:00 pm*  (Followed by our traditional trip to In-and-Out for dinner)
+
+**Competitions** Below is a list of our planned Competitions for 2019
++ Competitions are open to the public and free to attend. 
++ Family and friends are welcome to watch the action, visit our "Pit", collect buttons, wristbands and other swag available from all teams attending.
+
+**San Diego Regional**  March 7 - March 9, 2019 (all day, every day)
++ [San Diego Regional FRC Competition](http://casd.cafirst.org/)
++ Del Mar Racetrack and Fairgrounds
++ March 9 after Regional - Team dinner, place TBD
+
+**Monterey Bay Regional** (travel team only) March 22 - March 24, 2019  
++ [Monterey Bay Regional](https://frc-events.firstinspires.org/2019/CAMB)
++ (Thursday March 21 and Monday March 25 are travel days)
++ hosted at Seaside High School  2200 Noche Buena St, Seaside, CA 93955, USA
+
+**Houston World Championships IF WE QUALIFY** April 17 - 20, 2019
++ George R Brown Convention Center, Houston TX    [link to FIRST Houston World Champs](https://www.firstchampionship.org/houston-home)
++ *Rooms reserved at The Magnolia, downtown Houston*  [The Magnolia Hotel](https://magnoliahotels.com/houston/)
++ Travel Team required to attend, other Team members with qualifying build season hours may attend
+
+**Additional FRC Competition Information**
++ [FIRST California Competitions](http://cafirst.org/programs/first-robotics-competition/)
+
