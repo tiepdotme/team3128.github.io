@@ -2,7 +2,7 @@
   id: 5
   color: "#1b1464"
   money: "$10,000+"
-  show: "no"
+  show: "yes"
 
 - level: Platinum
   id: 4
@@ -14,7 +14,7 @@
   id: 3
   color: gold
   money: "$5,000-$7,499"
-  show: "yes"
+  show: "no"
 
 - level: Silver
   id: 2
