@@ -29,10 +29,8 @@ For the 2018-2019 school year, Build Season begins on Saturday, January 5, 2019 
 
 **Normal Scheduled Meetings:** During regular school days between January 5th and February 19th, FRC meetings will happen according to the following schedule:
 
-+ Monday-Friday  
-*3:00 pm – 5:30 pm*
-+ Saturday-Sunday  
-*10:00 am – 4:00 pm*  
++ Monday-Friday *3:00 pm – 5:30 pm*
++ Saturday-Sunday *10:00 am – 4:00 pm*  
 (dependent on Coach availability, please check Slack and weekly emails for latest updates)
 
 **Special Meeting Dates:** Below are a list of special time alterations to the normal build season schedule:
@@ -58,14 +56,21 @@ For the 2018-2019 school year, Build Season begins on Saturday, January 5, 2019 
 + Tuesday, February 19th – Bag Day
 *CCA 3:00 pm – 9:00 pm*  (Followed by our traditional trip to In-and-Out for dinner)
 
-**Competitions** Below is a list of our planned Competitions for 2019
-+ Competitions are open to the public and free to attend. 
-+ Family and friends are welcome to watch the action, visit our "Pit", collect buttons, wristbands and other swag available from all teams attending.
+### FRC Competition Season
+
+**Below is a list of our planned Competitions for 2019**
++ Competitions are open to the public and free to attend (except Houston, not really sure if that is free)
++ Family and friends are welcome to attend and watch the action, visit our "Pit", collect buttons, wristbands and other swag available from all teams competing.
 
 **San Diego Regional**  March 7 - March 9, 2019 (all day, every day)
 + [San Diego Regional FRC Competition](http://casd.cafirst.org/)
 + Del Mar Racetrack and Fairgrounds
++ Teams scheduled to compete: [SDR Teams](https://www.thebluealliance.com/event/2019casd)
 + March 9 after Regional - Team dinner, place TBD
+
+**NOT competing, but members may attend to watch - Del Mar Regional**  Feb. 28 - March 3, 2019
++ [Del Mar Regional FRC Competition](https://www.thebluealliance.com/event/2019cadm)
++ Del Mar Racetrack and Fairgrounds
 
 **Monterey Bay Regional** (travel team only) March 22 - March 24, 2019  
 + [Monterey Bay Regional](https://frc-events.firstinspires.org/2019/CAMB)
