@@ -78,4 +78,3 @@ For the 2018-2019 school year, Build Season begins on Saturday, January 5, 2019 
 
 **Additional FRC Competition Information**
 + [FIRST California Competitions](http://cafirst.org/programs/first-robotics-competition/)
-
