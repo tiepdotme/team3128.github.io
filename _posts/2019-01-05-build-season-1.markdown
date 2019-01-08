@@ -15,7 +15,7 @@ The Aluminum Narwhals met for waffles and coffee at O Dark Thirty at Canyon Cres
 <img src="/assets/Kickoff_2.jpg" class="rightimage">
 Strategy broke off into another room to plan (and prepare a quiz for the rest of the team) while all other divisions began brainstorming what materials we would need, and how to solve the technical challenges ahead.
 
-
-
-
+<br>
+<br>
+<br>
 Stay tuned for updates!
