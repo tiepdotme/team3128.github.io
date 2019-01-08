@@ -6,9 +6,9 @@ author: Chris L.
 categories: build-season
 ---
 
-Hello my 1s2 2s2 2p6 3s2 3p1 friends!
+Hello friends of Team 3128!
 
-It's finally here! Deep Space Kickoff, 7 AM PST.  It's going to be a challenge!!
+It's finally here - Deep Space Kickoff, 7 AM PST.  It's going to be a challenge!!
 
 The Aluminum Narwhals met for waffles and coffee at O Dark Thirty at Canyon Crest to watch the live video feed from FIRST HQ in Manchester NH.  As soon as the decryption key was released, 50 laptops immediately decrypted the game manual and started digesting!  Strategy broke off into another room to plan (and prepare a quiz for the rest of the team) while all other divisions began brainstorming what materials we would need, and how to solve the technical challenges ahead.
 
