@@ -5,15 +5,14 @@ date: 2019-01-05 6:00:00 -0800
 author: Chris L.
 categories: build-season
 ---
-
+<img src="/assets/Kickoff_1.jpg" class="leftimage">
 Hello friends of Team 3128!
 
 It's finally here - Deep Space Kickoff, 7 AM PST.  It's going to be a challenge!!
 
-The Aluminum Narwhals met for waffles and coffee at O Dark Thirty at Canyon Crest to watch the live video feed from FIRST HQ in Manchester NH.  As soon as the decryption key was released, 50 laptops immediately decrypted the game manual and started digesting!  Strategy broke off into another room to plan (and prepare a quiz for the rest of the team) while all other divisions began brainstorming what materials we would need, and how to solve the technical challenges ahead.
+The Aluminum Narwhals met for waffles and coffee at O Dark Thirty at Canyon Crest to watch the live video feed from FIRST HQ in Manchester NH.  As soon as the decryption key was released, 50 laptops immediately decrypted the game manual and started digesting!  
 
-<img src="/assets/Kickoff_1.jpg" class="centerimage">
-
-<img src="/assets/Kickoff_2.jpg" class="centerimage">
+<img src="/assets/Kickoff_2.jpg" class="rightimage">
+Strategy broke off into another room to plan (and prepare a quiz for the rest of the team) while all other divisions began brainstorming what materials we would need, and how to solve the technical challenges ahead.
 
 Stay tuned for updates!
