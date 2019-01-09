@@ -47,6 +47,9 @@ Coders coded.  What to do during Sandstorm... auto? Vision system?  Drive blind?
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 <img src="/assets/Deep Space/Day_2.JPG" class="rightimage">
 <br>
 <br>
@@ -54,6 +57,9 @@ Coders coded.  What to do during Sandstorm... auto? Vision system?  Drive blind?
 <br>
 <br>
 <img src="/assets/Deep Space/Day_2b.JPG" class="rightimage">
+<br>
+<br>
+<br>
 <br>
 <br>
 The ONE thing we've learned - nothing happens when the Team is hangry.  To our providers of Food - we are forever grateful!
