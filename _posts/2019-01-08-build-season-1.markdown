@@ -35,14 +35,17 @@ Hatch pickup and placement systems were evaluated.
 Game pieces were ordered, materials were evaluated, Home Depot was raided by alums and mentors.  
 <br>
 <br>
-The sound of saws and hammers from the construction team. 
+<br>
 <img src="/assets/Deep Space/Day_2.JPG" class="rightimage">
+The sound of saws and hammers from the construction team. 
+<br>
+<br>
 Videos of robots climbing stairs were studied from youtube and Ri3d.
 <br>
-Coders coded.  What to do during Sandstorm... auto? Vision system?  Drive blind??
 <br>
+Coders coded.  
 <br>
-<br>
+What to do during Sandstorm... auto? Vision system?  Drive blind??
 <br>
 <br>
 <br>
