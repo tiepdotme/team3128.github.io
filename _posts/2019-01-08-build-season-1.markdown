@@ -56,14 +56,19 @@ What to do during Sandstorm... auto? Vision system?  Drive blind??
 It rained! (This is a Big Deal in San Diego)
 <br>
 <br>
+It got COLD (OK, midwest Teams, 42F and 60%Rh is cold here)
 <br>
-The ONE thing we've learned - nothing happens when the Team is hangry.  
+<br>
+The ONE thing we've learned as a Team - nothing good happens when the Team is hangry.  
 <br>
 To our providers of Food - we are forever grateful!
 <br>
+<br>
 Sunday Lunch was provided on Sunday by the Fuller and Soin families - thank you!! So much appreciated!
 <br>
+<br>
 Mentor Denise Gibbs was again the savior by bringing in an old dorm fridge for our leftovers.  
+<br>
 <br>
 The Monday afterschool team was HAPPY to help clear out that fridge.
 <img src="/assets/Deep Space/Day_2d.jpg" class="leftimage">
