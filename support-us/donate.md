@@ -73,7 +73,8 @@ For all physical items that you donate (Food during Build Season, Raw Materials,
 1. Head over to <a href="https://www.canyoncrestfoundation.org/resources/#forms">the CCA Foundation Forms page</a>
 2. Click on the dropdown labelled <b>Financial</b>
 3. Download the <b>In Kind Donation Fill-able Form</b>.
-4. Or just click [here for In-Kind Donation Form]<a href="/assetts/documents/CCAF-In-Kind-Form-Fillable-11-5-14-v3.pdf"></li>
+4. Or just click here <a href="/assetts/documents/CCAF-In-Kind-Form-Fillable-11-5-14-v3.pdf">
+</li>
 
 ### Donation Levels
 All of our donors are incredibly important to us. We recognize all of our donor in accordance with their giving level. See the [CCA Foundation Giving Levels](http://www.canyoncrestfoundation.org/recognition/giving-levels-and-donor-premiums).
