@@ -25,21 +25,21 @@ Can ANYONE?  How?
 <img src="/assets/Deep Space/Day_2c.jpg" class="leftimage">
 Mechs worked on a practice bot, alums visited, taught, built things. 
 <br>
+<br>
 Intakes and elevators were drawn, discussed, discarded, drawn again. 
+<br>
 <br>
 Hatch pickup and placement systems were evaluated. 
 <br>
+<br>
 Game pieces were ordered, materials were evaluated, Home Depot was raided by alums and mentors.  
+<br>
 <br>
 The sound of saws and hammers from the construction team. 
 <img src="/assets/Deep Space/Day_2.JPG" class="rightimage">
 Videos of robots climbing stairs were studied from youtube and Ri3d.
 <br>
 Coders coded.  What to do during Sandstorm... auto? Vision system?  Drive blind??
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
