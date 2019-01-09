@@ -6,7 +6,9 @@ author: Chris L.
 categories: build-season
 ---
 
-Hello friends of Team 3128!  We are deep into the Deep Space challenge.  No panic yet, that is to come...
+Hello friends of Team 3128!  We are deep into the Deep Space challenge.  
+<br>
+No panic yet, that is to come...
 <br>
 <br>
 <br>
