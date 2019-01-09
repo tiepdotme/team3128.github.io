@@ -76,6 +76,12 @@ The Monday afterschool team was HAPPY to help clear out that fridge.
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
 A solid 9 hours on Saturday, 6 hours on Sunday... things are coming together. 
-A plan is being formulated.  Backordered items are being re-ordered.  
+A plan is being formulated.  
+Backordered items are being re-ordered.  
 A "blind" texture test of the real expensive HDPE hab covering vs. a possible cheaper alternative is planned...
