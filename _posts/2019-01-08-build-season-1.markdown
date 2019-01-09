@@ -21,13 +21,11 @@ Can we climb from Hab level to Platform 3?
 Can ANYONE?  How?
 <br>
 <br>
-<img src="/assets/Deep Space/Day_2c.jpg" class="rightimage">
+<img src="/assets/Deep Space/Day_2c.jpg" class="lefttimage">
 <br>
 Mechs worked on a practice bot, alums visited, taught, built things.  
 Intakes and elevators were drawn, discussed, discarded, drawn again.  
 Hatch pickup and placement systems were evaluated. 
-<br>
-<br>
 <br>
 <br>
 <br>
