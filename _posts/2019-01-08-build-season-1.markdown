@@ -8,10 +8,11 @@ categories: build-season
 
 Hello friends of Team 3128!  We are deep into the Deep Space challenge.  
 <br>
+<img src="/assets/Deep Space/Day_2a.JPG" class="rightimage">
 No panic yet, that is to come...
 <br>
 <br>
-<img src="/assets/Deep Space/Day_2a.JPG" class="rightimage">
+<br>
 Prototyping, brainstorming, learning the game manual - oh my.
 <br>
 What are the max points possible? (154)  
@@ -28,9 +29,9 @@ Can ANYONE?  How?
 Mechs worked on a practice bot, alums visited, taught, built things.  
 Intakes and elevators were drawn, discussed, discarded, drawn again.  
 Hatch pickup and placement systems were evaluated. 
-<br>
-<br>
 <img src="/assets/Deep Space/Day_2c.jpg" class="rightimage">
+<br>
+<br>
 <br>
 <br>
 <br>
