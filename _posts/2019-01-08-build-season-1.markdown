@@ -21,21 +21,19 @@ Can we climb from Hab level to Platform 3?
 Can ANYONE?  How?
 <br>
 <br>
+<br>
 <img src="/assets/Deep Space/Day_2c.jpg" class="leftimage">
 Mechs worked on a practice bot, alums visited, taught, built things.  
 Intakes and elevators were drawn, discussed, discarded, drawn again.  
 Hatch pickup and placement systems were evaluated. 
 <br>
-<br>
-<br>
-<br>
+
 Game pieces were ordered, materials were evaluated, Home Depot was raided by alums and mentors.  
 The sound of saws and hammers from the construction team.  
 Videos of robots climbing stairs were studied from youtube and Ri3d.
 <br>
 <br>
-<br>
-<br>
+
 <img src="/assets/Deep Space/Day_2.JPG" class="rightimage">
 Coders coded.  What to do during Sandstorm... auto? Vision system?  Drive blind??
 <br>
@@ -58,7 +56,7 @@ The ONE thing we've learned - nothing happens when the Team is hangry.  To our p
 Sunday Lunch was provided on Sunday by the Fuller and Soin families - thank you!! So much appreciated!
 <br>
 <br>
-<img src="/assets/Deep Space/Day_2d.jpg" class="rightimage">
+<img src="/assets/Deep Space/Day_2d.jpg" class="leftimage">
 <br>
 <br>
 <br>
