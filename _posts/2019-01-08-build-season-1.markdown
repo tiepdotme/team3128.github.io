@@ -6,9 +6,9 @@ author: Chris L.
 categories: build-season
 ---
 
+<img src="/assets/Deep Space/Day_2a.JPG" class="rightimage">
 Hello friends of Team 3128!  We are deep into the Deep Space challenge.  
 <br>
-<img src="/assets/Deep Space/Day_2a.JPG" class="rightimage">
 No panic yet, that is to come...
 <br>
 <br>
@@ -22,6 +22,7 @@ Can we climb from Hab level to Platform 3?
 Can ANYONE?  How?
 <br>
 <br>
+<img src="/assets/Deep Space/Day_2c.jpg" class="rightimage">
 <br>
 <br>
 <br>
@@ -29,7 +30,6 @@ Can ANYONE?  How?
 Mechs worked on a practice bot, alums visited, taught, built things.  
 Intakes and elevators were drawn, discussed, discarded, drawn again.  
 Hatch pickup and placement systems were evaluated. 
-<img src="/assets/Deep Space/Day_2c.jpg" class="rightimage">
 <br>
 <br>
 <br>
@@ -43,15 +43,13 @@ Videos of robots climbing stairs were studied from youtube and Ri3d.
 <br>
 <br>
 <br>
+<img src="/assets/Deep Space/Day_2.JPG" class="rightimage">
 Coders coded.  What to do during Sandstorm... auto? Vision system?  Drive blind??
 <br>
 <br>
 <br>
 <br>
 <br>
-<br>
-<br>
-<img src="/assets/Deep Space/Day_2.JPG" class="rightimage">
 <br>
 <br>
 <br>
@@ -64,7 +62,6 @@ Coders coded.  What to do during Sandstorm... auto? Vision system?  Drive blind?
 <br>
 <br>
 The ONE thing we've learned - nothing happens when the Team is hangry.  To our providers of Food - we are forever grateful!
-Kickoff waffles and coffee were provided by our wonderful Mentor Denise Gibbs - you are a Saint!
 Sunday Lunch was provided on Sunday by the Fuller and Soin families - thank you!! So much appreciated!
 <br>
 <br>
