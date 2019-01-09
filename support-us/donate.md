@@ -42,6 +42,7 @@ In order to keep developing our skills and pursuing our goals, our requested Par
 <li>Head over to the <a href="https://interland3.donorperfect.net/weblink/weblink.aspx?name=E113627&id=20">CCA Foundation online donation form</a>.</li>
 <li>Select the "Gift to a STEM Program" checkbox.</li>
 <li>Select "Robotics Team" from the dropdown.</li>
+<li>Or just click <a href="https://www.canyoncrestfoundation.org/wp-content/uploads/2018/09/CCAF-In-Kind-Form-Fillable-11-5-14-v3.pdf">here</a>.</li>
 </ol>
 
 <b>You can also make a <i>monthly pledge</i> to our team using the monthly pledge form.</b>
