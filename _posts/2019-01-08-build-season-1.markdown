@@ -40,6 +40,9 @@ Game pieces were ordered, materials were evaluated, Home Depot was raided by alu
 The sound of saws and hammers from the construction team. 
 <br>
 <br>
+The smell of sawdust.
+<br>
+<br>
 Videos of robots climbing stairs were studied from youtube and Ri3d.
 <br>
 <br>
@@ -50,8 +53,7 @@ What to do during Sandstorm... auto? Vision system?  Drive blind??
 <br>
 <br>
 <img src="/assets/Deep Space/Day_2b.JPG" class="rightimage">
-<br>
-<br>
+It rained! (This is a Big Deal in San Diego)
 <br>
 <br>
 <br>
