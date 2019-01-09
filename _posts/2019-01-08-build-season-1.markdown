@@ -57,10 +57,15 @@ It rained! (This is a Big Deal in San Diego)
 <br>
 <br>
 <br>
-The ONE thing we've learned - nothing happens when the Team is hangry.  To our providers of Food - we are forever grateful!
+The ONE thing we've learned - nothing happens when the Team is hangry.  
+<br>
+To our providers of Food - we are forever grateful!
+<br>
 Sunday Lunch was provided on Sunday by the Fuller and Soin families - thank you!! So much appreciated!
 <br>
+Mentor Denise Gibbs was again the savior by bringing in an old dorm fridge for our leftovers.  
 <br>
+The Monday afterschool team was HAPPY to help clear out that fridge.
 <img src="/assets/Deep Space/Day_2d.jpg" class="leftimage">
 <br>
 <br>
