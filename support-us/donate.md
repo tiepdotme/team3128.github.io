@@ -42,7 +42,6 @@ In order to keep developing our skills and pursuing our goals, our requested Par
 <li>Head over to the <a href="https://interland3.donorperfect.net/weblink/weblink.aspx?name=E113627&id=20">CCA Foundation online donation form</a>.</li>
 <li>Select the "Gift to a STEM Program" checkbox.</li>
 <li>Select "Robotics Team" from the dropdown.</li>
-<li>Or just click <a href="https://www.canyoncrestfoundation.org/wp-content/uploads/2018/09/CCAF-In-Kind-Form-Fillable-11-5-14-v3.pdf">here</a>.</li>
 </ol>
 
 <b>You can also make a <i>monthly pledge</i> to our team using the monthly pledge form.</b>
@@ -60,7 +59,8 @@ In order to keep developing our skills and pursuing our goals, our requested Par
 <i>‘Canyon Crest Academy Foundation’</i>
 <li>Include <i>‘Team 3128 Robotics’</i> on the memo line</li>
 <li>Drop off the check in our Workshop or mail it to:</li>
-<i>5951 E Village Center Loop Rd <br>
+<i>FRC Team 3128<br>
+5951 E Village Center Loop Rd <br>
 San Diego, CA 92130</i>
 </ol>
 </td>
@@ -73,6 +73,7 @@ For all physical items that you donate (Food during Build Season, Raw Materials,
 1. Head over to <a href="https://www.canyoncrestfoundation.org/resources/#forms">the CCA Foundation Forms page</a>
 2. Click on the dropdown labelled <b>Financial</b>
 3. Download the <b>In Kind Donation Fill-able Form</b>.
+4. Or just click [here for In-Kind Donation Form]<a href="/assetts/documents/CCAF-In-Kind-Form-Fillable-11-5-14-v3.pdf"></li>
 
 ### Donation Levels
 All of our donors are incredibly important to us. We recognize all of our donor in accordance with their giving level. See the [CCA Foundation Giving Levels](http://www.canyoncrestfoundation.org/recognition/giving-levels-and-donor-premiums).
