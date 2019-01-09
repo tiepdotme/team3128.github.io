@@ -23,7 +23,7 @@ Additional Team Information
 <br>
 
 ### How to donate:
-In order to keep developing our skills and pursuing our goals, our requested donation is $700. There are two ways to support our team:
+In order to keep developing our skills and pursuing our goals, our requested Parent donation is $700. There are two ways to support our team:
 
 <table width="100%">
 <tr>
