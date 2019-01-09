@@ -12,17 +12,31 @@ Hello friends of Team 3128!  We are deep into the Deep Space challenge.  No pani
 Prototyping, brainstorming, learning the game manual - oh my.  What are the max points possible? (154)  Can we climb from Hab level to Platform 3? Can ANYONE?  How?
 <br>
 <br>
+<br>
+<br>
 Mechs worked on a practice bot, alums visited, taught, built things.  Intakes and elevators were drawn, discussed, discarded, drawn again.  Hatch pickup and placement systems were evaluated. 
+<br>
+<br>
 <img src="/assets/Deep Space/Day_2c.jpg" class="rightimage">
+<br>
+<br>
 <br>
 <br>
 Game pieces were ordered, materials were evaluated, Home Depot was raided by alums and mentors.  The sound of saws and hammers from the construction team.  Videos of robots climbing stairs were studied from youtube and Ri3d.
 <br>
 <br>
+<br>
+<br>
 Coders coded.  What to do during Sandstorm... auto? Vision system?  Drive blind??
 <br>
 <br>
+<br>
+<br>
 <img src="/assets/Deep Space/Day_2.JPG" class="rightimage">
+<br>
+<br>
+<br>
+<br>
 <br>
 <img src="/assets/Deep Space/Day_2b.JPG" class="rightimage">
 <br>
@@ -33,6 +47,8 @@ Sunday Lunch was provided on Sunday by the Fuller and Soin families - thank you!
 <br>
 <br>
 <img src="/assets/Deep Space/Day_2d.jpg" class="rightimage">
+<br>
+<br>
 <br>
 <br>
 A solid 9 hours on Saturday, 6 hours on Sunday... things are coming together. A plan is being formulated.  Backordered items are being re-ordered.  A "blind" texture test of the real expensive HDPE hab covering vs. a possible cheaper alternative is planned...
