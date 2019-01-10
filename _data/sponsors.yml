@@ -2,7 +2,7 @@
  - level: Title
    name: San Diego Legion Rugby Team
    description:	 The San Diego Legion Rugby Team is one of the first professional American Major League Rugby Teams.   Started in 2017, the Legion plays at Torero Stadium on the campus of the University of San Diego. <br>The Aluminum Narwhals are proud to be the first Robotics team in the world to be sponsored by an American Rugby Team. <br> We will be making a guest appearance at a home SD Legion rugby game this spring, come see our demonstration before the game and stay to learn more about SD Legion Rugby.
-   logo: /assets/sponsorlogos/SDLegion2.jpg
+   logo: /assets/sponsorlogos/sdlegion.png
    link: https://www.sdlegion.com/
 
 # 2018/2019 Sponsor
@@ -23,7 +23,7 @@
  - level: Bronze
    name: Solar Turbines
    description: Solar Turbines, a wholly owned subsidiary of Caterpillar Inc., is a global company with more than 50 service locations spread across the world. Solar is a responsible member of the global community with a commitment to meet energy demands in an environmentally sound and sustainable manner. 
-   logo: /assets/sponsorlogos/SolarTurbines.png
+   logo: /assets/sponsorlogos/solarturbines.png
    link: https://www.solarturbines.com/
    
    # 2018/2019 Sponsor
@@ -37,7 +37,7 @@
  - level: Bronze
    name: DRS Daylight Solutions
    description: DRS Daylight Solutions is a world Leader in Quantum Cascade Laser Technology. DRS Daylight Solutions and its wholly-owned subsidiary, DRS Daylight Defense, which delivers classified, military-hardened products to the defense industry, are both advanced in manufacturing capabilities.
-   logo: /assets/sponsorlogos/Daylight-Solutions-Logo.png
+   logo: /assets/sponsorlogos/drs.png
    link: https://www.daylightsolutions.com/
 
 # 2018/2019 Sponsor
@@ -51,5 +51,5 @@
  - level: In-Kind
    name: Velox CNC
    description: VELOX CNC offers solid CNC router solutions that save you both time and money. Our Velox CNC was a solid investment, as it cuts faster, wastes less material, and gets the job done right the first time.
-   logo: /assets/sponsorlogos/VeloxCNC.PNG
+   logo: /assets/sponsorlogos/velox.png
    link: https://www.veloxcncrouters.com/
