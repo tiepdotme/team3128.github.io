@@ -11,27 +11,58 @@
   color: 0
 
 - group: mentors
-  name: Kim Kleber
-  photo: kim
-  title: Leadership
-  blurb: Kim is a Product Marketing Director at GoDaddy, and is actively involved with their SmartLine product launch.  Kim has also worked at Qualcomm (plus a few other companies) and holds a degree Industrial & Operations Engineering from U of Michigan. Outside of work, Kim enjoys swimming, Pilates, reading, theatre, hiking, food/wine and college football (Go Blue!).
-  color: 1
-
-- group: mentors
   name: Christine Low
   photo: chris
   title: Marketing, Mechanical
   blurb: Christine Low holds a Bachelors in Mechanical Engineering from the University of Rhode Island (go Rams!) and a Masters in Electro-Optical engineering from the University of South Carolina (Go Gamecocks!).  Attempted life as a Yankee in the South with Westinghouse Nuclear Fuels, but was whisked back to the north by her (now) husband, where she spent 20 years at Northrop Grumman (Chicago) in IR and UV aircraft missile defense. When she is not in the robotics workshop, you can find her gardening, sewing, at Crossfit, racing sailboats and attempting to learn to surf (very, very badly).
-  color: 0
+  color: 1
 
+- group: mentors
+  name: Mary Snyder
+  title: Business
+  blurb: 
+  color: 0
+  
+  - group: mentors
+  name: Steve Usher
+  title: Strategy
+  photo: steve
+  blurb: Steve began his career as an attorney in California. After seven years working as a criminal defense attorney, he took a leave of absence to travel to Japan and China. What was intended as a one year trip turned into a 21-year stay. He changed careers, entering finance and worked as an equity analyst, finally retiring from JP Morgan in 2003. He and his wife, Hitomi, returned to the US with their 18-month old daughter, Maya. Steve became very excited about Robotics when Maya joined the Robotics Team in the 2017-2018 academic year. Wishing to become more involved, he joined the team as a mentor to the Strategy Division. Steve looks forward to helping the team achieve even greater success in this year’s competition.
+  color: 1
+  
+- group: mentors
+  name: Denise Gibbs
+  title: Marketing
+  blurb: 
+  color: 0
+  
 - group: mentors
   name: Matt Keen
   photo: Matt
   title: Controls
   blurb: Matt Keen has 20 years experience in the computer industry working a variety of different areas including, software-defined radio, cyber security, hardware hacking, reverse engineering, rapid prototyping and enterprise software systems engineering. He holds a M.S. in Information Security and a B.S. in Software Systems Engineering from Nova Southeastern University and CTU. At the intersection of arts and science, Matt splits his off hours between developing cheap embedded IoT systems with the ESP8266 chip-set and keeping the history of 30's and 40's Lindy Hop and Balboa Swing dancing alive, through teaching dance locally and competing nationally. 
   color: 1
+
+- group: mentors
+  name: Kim Kleber
+  photo: kim
+  title: Leadership
+  blurb: Kim is a Product Marketing Director at GoDaddy, and is actively involved with their SmartLine product launch.  Kim has also worked at Qualcomm (plus a few other companies) and holds a degree Industrial & Operations Engineering from U of Michigan. Outside of work, Kim enjoys swimming, Pilates, reading, theatre, hiking, food/wine and college football (Go Blue!).
+  color: 0
   
 - group: mentors
+  name: Cindy Ping
+  title: Business
+  blurb: 
+  color: 1
+
+- group: mentors
+  name: Anna Lillian
+  title: Business
+  blurb: 
+  color: 0
+  
+  - group: mentors
   name: Larry Jankauski
   title: Controls
   blurb: 
@@ -42,37 +73,6 @@
   title: Mechanical
   blurb: 
   color: 0
-
-- group: mentors
-  name: Steve Usher
-  title: Strategy
-  photo: steve
-  blurb: Steve began his career as an attorney in California. After seven years working as a criminal defense attorney, he took a leave of absence to travel to Japan and China. What was intended as a one year trip turned into a 21-year stay. He changed careers, entering finance and worked as an equity analyst, finally retiring from JP Morgan in 2003. He and his wife, Hitomi, returned to the US with their 18-month old daughter, Maya. Steve became very excited about Robotics when Maya joined the Robotics Team in the 2017-2018 academic year. Wishing to become more involved, he joined the team as a mentor to the Strategy Division. Steve looks forward to helping the team achieve even greater success in this year’s competition.
-  color: 1
-
-- group: mentors
-  name: Denise Gibbs
-  title: Marketing
-  blurb: 
-  color: 0
-
-- group: mentors
-  name: Cindy Ping
-  title: Business
-  blurb: 
-  color: 1
-
-- group: mentors
-  name: Mary Snyder
-  title: Business
-  blurb: 
-  color: 0
-
-- group: mentors
-  name: Anna Lillian
-  title: Business
-  blurb: 
-  color: 1
 
 - group: leaders
   name: Ronak Roy
