@@ -23,7 +23,7 @@
   blurb: 
   color: 0
   
-  - group: mentors
+- group: mentors
   name: Steve Usher
   title: Strategy
   photo: steve
@@ -62,7 +62,7 @@
   blurb: 
   color: 0
   
-  - group: mentors
+- group: mentors
   name: Larry Jankauski
   title: Controls
   blurb: 
