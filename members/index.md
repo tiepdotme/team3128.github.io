@@ -20,6 +20,7 @@ Uncomment this portion near the end of the school year.
 3. **Sign up on [STIMS](https://my.firstinspires.org/Dashboard/), our league information manager.** This will let you attend tournaments and be involved in official robotics events off-campus. *This step requires a parental unit to finish.* You can find detailed instructions for [new members here](https://drive.google.com/file/d/0B4NhnLtlTNV6T1ljM0o2Wm9wc28/view) and [returning members here](https://drive.google.com/file/d/0B4NhnLtlTNV6WGR2Rzk5NXpNbzQ/view).
 4. **Turn in a [Safety Waiver](https://docs.google.com/document/d/1eKfQ-ij7vUV6zmvRvK-UCNH1psCDn2Wk-KJHHpBW6ec/edit?usp=sharing).** You and your parental unit will need to read, understand, agree to, and sign the safety waiver. Please turn in the physical waiver to a mentor at the workshop.
 5. **Complete [Team 3128 Safety Training](/members/safety/).** Because of the nature of what we do, safety is paramount to our team. That's why we require all members to complete safety training **before Sept. 26, 2018**; after this date, no entry will be granted into the workshop unless you complete safety training.
+6. **Review the Team Handbook [Team 3128 Handbook](/resources/Team3128Handbook.pdf).**
 
 After that, the only thing left to do is to show up! You can also check out our [calendar](/members/calendar/) and [blog updates](/blog/) to find out about all the things happening in robotics. You can also [email our leaders](/contact/) to ask any questions you may have.
 
