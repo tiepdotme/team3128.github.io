@@ -5,11 +5,12 @@
    logo: /assets/sponsorlogos/sdlegion.png
    link: https://www.sdlegion.com/
 
+# 2018/2019 Sponsor
  - level: Gold
    name: DoDSTEM
    description:DoDSTEM is a program run by the United States Department of Defense to provide STEM education opportunities to students outside of the classroom. DoDSTEM provides grants to FIRST Robotics Competition teams to help them achieve their goals.
    logo: /assets/sponsorlogos/dodstem.png
-   link: https://dodstem.us/
+   link: https://dodstem.us
 
 # 2018/2019 Sponsor
  - level: Silver
