@@ -14,7 +14,7 @@
   id: 3
   color: gold
   money: "$5,000-$7,499"
-  show: "no"
+  show: "yes"
 
 - level: Silver
   id: 2
