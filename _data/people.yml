@@ -73,6 +73,12 @@
   title: Mechanical
   blurb: 
   color: 0
+  
+- group: mentors
+  name: Rebecca Lennex
+  title: Business
+  blurb: 
+  color: 1
 
 - group: leaders
   name: Ronak Roy
