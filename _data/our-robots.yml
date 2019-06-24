@@ -1,7 +1,7 @@
 - year: 2019
   game: FIRST DESTINATION: DEEP SPACE
   name: Gromit
-  stats: false
+  stats: true
   dimensions: 28" W x 32" L x 48" H
   weight: 119.8 lbs
   speed: 10.5 mph
