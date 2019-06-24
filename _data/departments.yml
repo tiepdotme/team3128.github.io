@@ -1,19 +1,14 @@
 - name: Mechanical
   description: 
-  color: 1
 
 - name: Controls
   description: 
-  color: 0
 
 - name: Business
   description: 
-  color: 1
 
 - name: Marketing
   description: 
-  color: 0
 
 - name: Strategy
   description: 
-  color: 1

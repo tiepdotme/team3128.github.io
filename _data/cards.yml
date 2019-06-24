@@ -1,8 +1,8 @@
-- title: "DESTINATION: DEEP SPACE has officially launched!"
-  link: https://www.firstinspires.org/resource-library/frc/competition-manual-qa-system
-  imageSource: /assets/homepage/deepspace-join.jpeg
-  fullImage: /assets/homepage/deepspace-join-full.jpeg
-  info: "It's finally here! On January 5th at 7:00am, FIRST released the 2019 FIRST Robotics Competition game: DESTINATION: DEEP SPACE. Learn more about our new challenge here!"
+- title: Robotics Summer Camp
+  link: /camp/
+  imageSource: /assets/homepage/camp.jpeg
+  fullImage:  /assets/homepage/camp-full.jpeg
+  info: Registration for our 2019 Robotics Summer Camp is still open. Sign up today!
 
 - title: Support Us!
   link: /support-us/
@@ -16,8 +16,8 @@
   fullImage: /assets/homepage/outreach-full.jpeg
   info: Our team may focus heavily on engineering, but there's a lot more to robotics than just robots. Check out some of the work we do to inspire others to pursue learning in STEM.
 
-# - title: Robotics Summer Camp
-#   link: /camp/
-#   imageSource: /assets/homepage/camp.jpeg
-#   fullImage:  /assets/homepage/camp-full.jpeg
-#   info: Registration for our 2018 Robotics Summer Camp has opened! Head over to our camp site to learn more!
+# - title: "DESTINATION: DEEP SPACE has officially launched!"
+#   link: https://www.firstinspires.org/resource-library/frc/competition-manual-qa-system
+#   imageSource: /assets/homepage/deepspace-join.jpeg
+#   fullImage: /assets/homepage/deepspace-join-full.jpeg
+#   info: "It's finally here! On January 5th at 7:00am, FIRST released the 2019 FIRST Robotics Competition game: DESTINATION: DEEP SPACE. Learn more about our new challenge here!"

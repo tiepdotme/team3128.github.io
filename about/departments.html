@@ -14,16 +14,16 @@ Our team is composed of five departments that are each responsible for a specifi
 <br>
 <br>
 <br>
-<table class="full_table" cellspacing="0px">
+<table class="full_table alternating" cellspacing="0px">
     {% for division in site.data.departments %}
     <tr width="100%">
-        <td width="27%" style="text-align: left; vertical-align: center; background: {% if division.color == 0 %} white {% else %} #efefef {% endif %}; padding: 15px; padding-right: 5px;">
+        <td width="27%" style="text-align: left; vertical-align: center; padding: 15px; padding-right: 5px;">
             {% if division.photo %}
             <img style="margin-right: 10px; margin-bottom: 0px; width: 100%;" src="/assets/departments/{{ division.photo }}.png"
             /> {% else %}
             <img style="margin-right: 10px; margin-bottom: 0px; width: 100%;" src="/assets/departments/default.png" /> {% endif %}
         </td>
-        <td width="100%" style="text-align: left; vertical-align: top; background: {% if division.color == 0 %} white {% else %} #efefef {% endif %}; padding: 15px; padding-left: 5px;">
+        <td width="100%" style="text-align: left; vertical-align: top; padding: 15px; padding-left: 5px;">
             <h2 style="margin-bottom: -6px;">{{ division.name }}</h2>
             {{ division.description }}
         </td>

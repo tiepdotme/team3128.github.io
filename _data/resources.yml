@@ -3,28 +3,24 @@
   type: pdf
   link: /resources/2018BusinessPlan.pdf
   description: A detailed look at how our team manages its finances, the numerous efforts we take to spread the ideals of FIRST within our community, and the sustainable practices put into place to ensure that the team is effectively operated and able to pass down our love knowledge of and love for STEM to future generations of students.
-  color: 0
 
 - name: 2018-19 Sponsorship Info Packet
   category: info
   type: pdf
   link: /resources/2019SponsorshipInfoPacket.pdf
   description: An overview of the multi-faceted approach our team takes to involvement in FIRST and how you can support us in our mission to inspire a passion for STEM.
-  color: 1
 
 # - name: 2016/17 Team Demographics
 #   category: info
 #   type: pdf
 #   link: /resources/201617Demographics.pdf
 #   description: A brief look at the composition of Canyon Crest Academy and our team.
-#   color: 0
 
 - name: IRS Letter of Determination
   category: info
   type: pdf
   link: /resources/IRSLetterofDetermination.pdf
   description: The official letter from the Internal Revenue Service that certifies Team 3128&#58; Aluminum Narwhals as a non-private, 501(c)(3) organization.
-  color: 0
 
 
 - name: Team 3128 Brand Standard
@@ -32,7 +28,6 @@
   type: pdf
   link: /resources/Team3128BrandStandard.pdf
   description: We are a team of dedicated students who, when we put our heads together, can accomplish amazing things. In order to make our team recognizable, we have created a set of visual identity standards to ensure consitency of all team imagery.
-  color: 0
 
 
 - name: Mechanical Resources
@@ -40,11 +35,9 @@
   type: link
   link: https://github.com/Team3128/info/wiki/mechanical
   description: The team's resources pertaining to mechanical.
-  color: 0
 
 - name: Controls Resources
   category: technical
   type: link
   link: https://github.com/Team3128/info/wiki/controls
   description: The team's resources pertaining to controls.
-  color: 1

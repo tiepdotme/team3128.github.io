@@ -286,6 +286,23 @@ body {
   background: #0064C9;
 }
 
+table {
+  &.alternating {
+    tr:nth-child(odd) {
+      background: #efefef;
+    }
+  }
+
+  &.alternating-pairs {
+    tr:nth-child(4n+1) {
+      background: #efefef;
+    }
+    tr:nth-child(4n+2) {
+      background: #efefef;
+    }
+  }
+}
+
 .full_table {
   table-layout: fixed;
 }

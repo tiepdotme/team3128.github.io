@@ -6,7 +6,6 @@
   weight: 119.8 lbs
   speed: 10.5 mph
   description: Gromit has an extremely reliable and robust two stage continuous elevator, fashioning a virtual four bar linkage as the inner carriage on which both the cargo intake and the hatch panel intake are integrated. The polycarbonate cargo intake consists of wide top and bottom rollers allowing Gromit to secure cargo upon contact. The polycarbonate hatch intake consists of a pin-and-slot swiveling finger with a pusher tab allowing for hatch pickup and dropoff at unforgiving angles and horizontal displacements. The reverse 2 CIM gearboxes situated in the rear feature integrated “heely” wheels that come into contact with the ground when the robot tips backwards, allowing for control during the climbing sequence which utilizes two large pistons in the front and a rack and pinion system in the back. Gromit ranked 1st seed alliance at Monterey Bay Regional and advanced to become, for the first time in team history, an Alliance Captain at the FRC World Championship in Houston.
-  color: 0
 
 - year: 2018
   game: FIRST POWER UP
@@ -16,7 +15,6 @@
   weight: 119.7 lbs
   speed: 9.5 mph
   description: Coming right out of kickoff, we decided to prioritize power cube scoring performance at the Exchange Zone, Switch, and Scale. Guido has an extremely reliable and robust two stage cascade elevator on which both the power cube intake and the climbing mechanism were integrated. Guido also fashioned an active-captive roller power cube intake utilizing both dynamic and static Colson wheels to capture and secure cubes. The elevators featured pistons that could extend shoulder bolts to catch onto a plate and lock the entire elevator once we had reached a full climb. This allowed us to deploy our "buddy bar" at the rear of the bot on which other robots could hang from. Guido proved a formidable machine, advancing our team to become the Finalist Alliance Captain at the San Diego Regional, securing a spot at the FRC World Championship in Houston. In Houston, we proceeded to play in Finals matches with the first seed alliance in the Newton Division, marking the furthest our team has advanced as a result of robot performance.
-  color: 1
 
 - year: 2017
   game: FIRST STEAMWORKS
@@ -26,26 +24,21 @@
   weight: 95 lbs
   speed: 9.5 mph
   description: With our 2017 robot, we wanted to build a robot that excelled at the key elements of the game. Throughout numerous revisions and designs, we settled on Ferb. Ferb had a reliable scaling mechansim that efficently and effectively hooked on to the rope and scaled in just under 5 seconds. Ferb also sported an active gear mechanism that allowed for gear intake from both the loading zone and the ground, allowing us to ensure that all gears that ended up by the airship made it on. Ferb was sturdy and reliable and ended up allowing our team to become the Finalist Alliance Captain at the San Diego Regional, securing our spot at the FRC World Championship in Houston.
-  color: 0
 
 - year: 2016
   game: FIRST STRONGHOLD
   name: Kiera Knightly
   description: In order to remain competitive in the 2016 game, we designed a robot that would be fast and efficient at crossing defenses and scoring in the low goal. Topping off at 10 mph, Kiera Knightly excelled at crossing defenses and scoring for our alliance. Aditionally, Knightly was designed to withstand extreme collisions, being a sturdy machine that weighed just under 100 pounds.
-  color: 1
 
 - year: 2015
   game: RECYCLE RUSH
   name: The Claw
   description: Our robot this year was a versatile machine with a really, really large claw. It moved quickly and was able to move and stackt he trash cans with ease. The Claw also had a state of the art autonomous, which dealt with trash cans with ease.
-  color: 0
 
 - year: 2014
   game: AERIAL ASSIST
   name: Sebasitian
   description: This robot was our most impressive yet. With a high-powered three-wheeled swerve drive and a circular base, this robot drove circles around its opponents. Due to the lack of straight edges, it was literally impossible to pin against the wall. Sebastian won us the Xerox Creativity Award at the San Diego Regional.
-  color: 1
-
 
 # - year: 2013
 #   game: Ultimate Ascent
@@ -56,17 +49,13 @@
   game: REBOUND RUMBLE
   name: Asimov
   description: In honor of the great science fiction writer Isaac Asimov, we named our robot the Asimov. One unique feature of Asimov was its pneumatic catapult which allowed us to consistently hit our target while angled extremely high. This way, there was no interference with other basketballs in the air. Aditionally, our robot outmaneuvered other robots with a swerve drive system and picked balls off the ground in order to keep our robot scoring throughout the entire match.
-  color: 0
-
 
 - year: 2011
   game: LOGO MOTION
   name: U.M.A.R
   description: One of the key features that place our robot above the competition was our robots modular electronics box designed to be easily removed from the robot to make electronic repairs easier and more streamlined. Our goals for the Ultra Mega Awesome Robot were to score on all three levels, swiftly deploy a mini bot to the pole during the end game, outmaneuver the competition using our Mecanum wheels, and lift tubes off the ground that have been thrown by our human player.
-  color: 1
 
 - year: 2010
   game: BREAKAWAY
   name: Fezzik
   description: As our first robot, we wanted to make a four-wheel arcade drive robot that could elevate itself from the tower bar with a scissor lift, elevate two other robots at the same time, lift 500 pounds on each of the side wings, and move in all possible ways during both teleop and autonomous. It is able to push soccuer balls with its bumpers, withstand impacts, and make itself upright after falling over.
-  color: 0
