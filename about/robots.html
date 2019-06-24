@@ -5,7 +5,7 @@ subtitle: Our Robots
 permalink: /about/robots/
 ---
 <table class="full_table" cellspacing="0px">
-  {% for robot in site.data.our-robots %}
+  {% for robot in site.data.robots %}
     <tr width="100%">
       <td style="text-align: left; vertical-align: top; background: {% if robot.color == 0 %} white {% else %} #efefef {% endif %}; padding: 15px">
         <img width="35%" style="float: left; margin-right: 10px; margin-bottom: 0px;" src="/assets/robots/{{ robot.year }}.png" />

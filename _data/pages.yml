@@ -5,12 +5,12 @@
      permalink: /about/
    - title: Our Robots
      permalink: /about/robots/
-   - title: Our Divisions
-     permalink: /about/divisions/
-   - title: Our Mentors
-     permalink: /about/mentors/
+   - title: Our Departments
+     permalink: /about/departments/
    - title: Our Leaders
      permalink: /about/leaders/
+   - title: Our Mentors
+     permalink: /about/mentors/
    - title: FIRST
      permalink: /about/first/
    - title: Our Website
@@ -23,9 +23,6 @@
 
 - title: Outreach
   permalink: /outreach/
-
-- title: Merch
-  permalink: https://www.customink.com/fundraising/frc-3128-space-narwhal-fan-shirt
 
 - title: Members
   permalink: /members/
