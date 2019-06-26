@@ -1,7 +1,7 @@
 # 2018/2019 Sponsor
  - level: Title
    name: San Diego Legion Rugby Team
-   description:	 The San Diego Legion Rugby Team is one of the first professional American Major League Rugby Teams.   Started in 2017, the Legion plays at Torero Stadium on the campus of the University of San Diego. <br>The Aluminum Narwhals are proud to be the first Robotics team in the world to be sponsored by an American Rugby Team. <br> We will be making a guest appearance at a home SD Legion rugby game this spring, come see our demonstration before the game and stay to learn more about SD Legion Rugby.
+   description:	 The San Diego Legion Rugby Team is one of the first professional American Major League Rugby Teams. Started in 2017, the Legion plays at Torero Stadium on the campus of the University of San Diego. The Aluminum Narwhals are proud to be the first robotics team in the world to be sponsored by an American Rugby Team. Don't forget to catch out guest appearances at SD Legion's home games!
    logo: /assets/sponsorlogos/sdlegion.png
    link: https://www.sdlegion.com/
 
@@ -33,7 +33,7 @@
    logo: /assets/sponsorlogos/SolarTurbines.png
    link: https://www.solarturbines.com/
    
-   # 2018/2019 Sponsor
+# 2018/2019 Sponsor
  - level: Bronze
    name: Eurofins Lancaster Laboratories
    description: Founded in 1961, Eurofins Lancaster Laboratories is a global leader in bio/pharmaceutical laboratory services, providing innovative and timely scientific solutions that enable customers to better manage the drug development process.

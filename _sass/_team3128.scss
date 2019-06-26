@@ -386,21 +386,38 @@ table {
 
 .dropdown_element {
   background: $light;
-  color: white;
-  padding: 15px;
-}
+  text-align: center;
 
-.dropdown_element:hover {
-  background: $royal;
-  cursor: pointer;
+  a {
+    color: white;
+  }
+
+  &:hover {
+    background: $royal;
+    cursor: pointer;
+  }
 }
 
 .dropdown_social {
   width: 100%;
-  height: 45px;
+  padding: 8px 0px;
   background: $royal;
+
+  display: flex;
+  
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+
+  .icon {
+    flex: 40px 0 0;
+    margin: 0px 4px;
+  }
 }
 
+.menu_button {
+  padding: 0px;
+}
 .menu_button:hover {
   background: $light;
   cursor: pointer;
@@ -444,26 +461,20 @@ table {
 }
 
 @media screen and (max-width: 1230px) {
-  .trigger {
+  .normal_navigation {
     display: none;
   }
-  .dropdown_button {
-    display: table-cell;
-  }
-  .normalsocial {
-    display: none;
+  .small_navigation_button {
+    display: block;
   }
 }
 
 @media screen and (min-width: 1230px) {
-  .trigger {
-    display: table-cell;
+  .normal_navigation {
+    display: block;
   }
-  .dropdown_button {
+  .small_navigation_button {
     display: none;
-  }
-  .normalsocial {
-    display: table-cell;
   }
 }
 
@@ -481,28 +492,29 @@ table {
     display: none;
   }
   .smalltitle {
-    display: block;
+    display: inline-block;
   }
 }
 
 @media screen and (min-width: 1560px) {
   .normaltitle {
-    display: block;
+    display: inline-block;
   }
   .smalltitle {
     display: none;
   }
 }
 
-.dropdown_button {
+.small_navigation_button {
   background: $royal;
-}
-.dropdown_button:hover {
-  background: $light;
-  cursor: pointer;
+
+  &:hover {
+    background: $light;
+    cursor: pointer;
+  }
 }
 
-#pagesdiv {
+#navigation_dropdown {
   overflow: hidden;
 }
 
