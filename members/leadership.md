@@ -5,7 +5,7 @@ subtitle: Team Leadership
 permalink: /members/leadership/
 ---
 
-<img src="/assets/dank-photos/6.JPG" class="leftimage">
+<img src="/assets/page_photos/members/6.JPG" class="leftimage">
 Our team is led by a group of elected student officials and appointed officers. They meet during weekly Leadership meeting where the leadership, mentors, and project leaders discuss the current happenings of the team. Learn out more about [our leadership team](/about/leaders/).
 
 ### Elected Positions

@@ -20,7 +20,7 @@ permalink: /about/
   </tr>
 </table>
 
-<img src="/assets/Houston group on Newton 2018.jpg" class="centerimage">
+<img src="/assets/page_photos/about/newton2018.jpg" class="centerimage">
 Team 3128, Newton Field Finalists, 2018 FRC World Championships in Houston, Texas
 
 ### Our History
@@ -32,7 +32,7 @@ During the 2010 competition season, our team entered brand new and won the Rooki
 
 We grew for the next 9 years, developing our [Robotics Summer Camp](/camp/), a week-long session for students grades 1 through 8 to design, build, and program their very own robots over the summer.
 
-<img src="/assets/cantstopwontstopwinning.jpg" class="leftimage">
+<img src="/assets/page_photos/about/vegas2016.jpg" class="leftimage">
 
 Our hard work and drive only grew stronger over the course of our team's history. With the culmination of enthusiastic mentors' support, skilled drive, mechanical, strategy, electronics, programming, and outreach teams, we began to develop a program that could effectively build upon our past exeperiences and pass down our success to the future generations of narwhals. As we grew, we made sure to keep true to our roots, developing a culture that celebrates all of our members' and allows for the development of new ideas. Over the Aluminum Narwhals' first decade, we've gone further than we could have ever imagined, making several notable accomplishments, including the Entrepreneurship, Innovation in Controls, Regional Finalist, Championship Subdivision Finalist, multiple Dean's List Finalist, and Engineering Inspiration awards.
 
@@ -59,28 +59,3 @@ Our hard work and drive only grew stronger over the course of our team's history
   {% endfor %}
 </table>
 <br>
-
-<!-- <h3>Demographics Information</h3>
-<table style="width: 100%;">
-  <tr style="width: 100%;">
-    <td style="vertical-align: top; text-align: center; width: 50%; padding-right: 10px; padding-left: 10px;">
-      <h4>Member Gender Demographics</h4>
-      <img src="/assets/team-info/gender-demographics.png" />
-      <p />
-
-      <div style="background: #01C701; color: white; font-size: 20px; padding: 5px;">Males</div>
-      <div style="background: #0096FF; color: white; font-size: 20px; padding: 5px;">Females</div>
-    </td>
-    <td style="vertical-align: top; text-align: center; width: 50%; padding-right: 10px; padding-left: 10px;">
-      <h4>Member Grade Level Demographics</h4>
-      <img src="/assets/team-info/grade-demographics.png" />
-      <p />
-
-      <div style="background: #0096FF; color: white; font-size: 20px; padding: 5px;">Freshmen</div>
-      <div style="background: #01C701; color: white; font-size: 20px; padding: 5px;">Sophmores</div>
-      <div style="background: #FF9300; color: white; font-size: 20px; padding: 5px;">Juniors</div>
-      <div style="background: #FF2600; color: white; font-size: 20px; padding: 5px;">Seniors</div>
-    </td>
-  </tr>
-</table>
-<p /> -->

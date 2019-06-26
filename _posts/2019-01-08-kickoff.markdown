@@ -8,14 +8,14 @@ categories: build-season
 
 Hello friends of Team 3128!
 
-<img src="/assets/Kickoff_1.jpg" class="leftimage">
+<img src="/assets/blog_photos/2019-01-08/kickoff1.jpg" class="leftimage">
 It's finally here - Deep Space Kickoff, 7 AM PST. It's going to be a challenge!!
 <br>
 <br>
 The Aluminum Narwhals met for waffles and coffee at O Dark Thirty at Canyon Crest to watch the live video feed from FIRST HQ in Manchester NH.  As soon as the decryption key was released, 50 laptops immediately decrypted the game manual and started digesting! 
 
 <br>
-<img src="/assets/Kickoff_2.jpg" class="rightimage">
+<img src="/assets/blog_photos/2019-01-08/kickoff2.jpg" class="rightimage">
 Strategy broke off into another room to plan (and prepare a quiz for the rest of the team) while all other divisions began brainstorming what materials we would need, and how to solve the technical challenges ahead.
 <br>
 <br>
@@ -23,7 +23,7 @@ Immense thanks to our fantastic Mentor Denise Gibbs for Breakfast food, and more
 
 ### Weekend Update
 
-<img src="/assets/Deep Space/Day_2a.JPG" class="leftimage">
+<img src="/assets/blog_photos/2019-01-08/day2a.jpg" class="leftimage">
 No panic yet, that is to come...
 <br>
 <br>
@@ -39,7 +39,7 @@ Can ANYONE?  How?
 <br>
 <br>
 <br>
-<img src="/assets/Deep Space/Day_2c.jpg" class="rightimage">
+<img src="/assets/blog_photos/2019-01-08/day2b.jpg" class="rightimage">
 Mechs worked on a practice bot, alums visited, taught, built things. 
 <br>
 <br>
@@ -53,7 +53,7 @@ Game pieces were ordered, materials were evaluated, Home Depot was raided by alu
 <br>
 <br>
 <br>
-<img src="/assets/Deep Space/Day_2.JPG" class="leftimage">
+<img src="/assets/blog_photos/2019-01-08/day2c.jpg" class="leftimage">
 The sound of saws and hammers from the construction team. 
 <br>
 <br>
@@ -69,7 +69,7 @@ What to do during Sandstorm... auto? Vision system?  Drive blind??
 <br>
 <br>
 <br>
-<img src="/assets/Deep Space/Day_2b.JPG" class="rightimage">
+<img src="/assets/blog_photos/2019-01-08/day2d.jpg" class="rightimage">
 It rained! (This is a Big Deal in San Diego)
 <br>
 <br>
@@ -89,7 +89,7 @@ Mentor Denise Gibbs was again the savior by bringing in an old dorm fridge for o
 <br>
 <br>
 
-<img src="/assets/Deep Space/Day_2d.jpg" class="leftimage">
+<img src="/assets/blog_photos/2019-01-08/day2e.jpg" class="leftimage">
 
 The Monday afterschool team was HAPPY to help clear out that fridge.<br><br>
 A solid 9 hours on Saturday, 6 hours on Sunday... things are coming together.<br><br>
