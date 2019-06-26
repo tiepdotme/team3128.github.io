@@ -1,103 +1,59 @@
 ---
 layout: default
 ---
-<div id="wrap" class="subpagewrapper">
-  <article class="post">
+<div id="wrap" class="subpage_wrapper">
+    <article class="post">
+        <script>            
+            function togglesubmenu() {
+                var sdiv = $("#subpage_dropdown");
+                
+                if (sdiv.css("height") == "0px") {
+                    sdiv.animate({height: $("#subpage_dropdown_contents").css("height")}, "fast");
+                }
+                else {
+                    sdiv.animate({height: '0px'}, "fast");
+                }
+            }
+        </script>
 
-      <script>
+        <div class="subpage_main">
+            <div class="sidebar">
+                {% for site_page in site.data.pages %}{% if site_page.title == page.title %}
+                    {% for subpage in site_page.subpages %}
+                        <a href="{{ subpage.permalink }}">
+                            <div class="element hover_animate {% if subpage.title == page.subtitle %} selected {% endif %}">
+                                {{ subpage.title }}
+                            </div>
+                        </a>
+                    {% endfor %}
+                {% endif %}{% endfor %}
+            </div>
 
-        function sticky_relocate() {
-          var window_top = $(window).scrollTop();
-          var div_top = $('#tabbar').offset().top;
+            <div class="content">
+                <div class="subpage_dropdown">
+                    <div id="subpage_dropdown_button" class="hover_animate menu_button" onclick="togglesubmenu()">
+                        ☰
+                    </div>
+    
+                    <div id="subpage_dropdown" class="menu" style="height: 0px;">
+                        <div id="subpage_dropdown_contents">
+                            {% for site_page in site.data.pages %}{% if site_page.title == page.title %}
+                                {% for subpage in site_page.subpages %}
+                                    <a href="{{ subpage.permalink }}">
+                                        <div class="element hover_animate {% if subpage.title == page.subtitle %} selected {% endif %}" >
+                                            {{ subpage.title }}
+                                        </div>
+                                    </a>
+                                {% endfor %}
+                            {% endif %}{% endfor %}
+                        </div>
+                    </div>
+    
+                    <div class="border"></div>
+                </div>
 
-          var image_h = $('#pageimage').height() + 80;
-
-          if (window_top > image_h) {
-            $('#tabbar').addClass('stick');
-          } else {
-            $('#tabbar').removeClass('stick');
-          }
-        }
-
-
-        $(document).ready(function() {
-          $("#subdiv").css("height", "0px");
-          // $(window).scroll(sticky_relocate);
-          // sticky_relocate();
-        });
-
-        function togglesubmenu() {
-          var sdiv = $("#subdiv");
-
-          if (sdiv.css("height") == "0px") {
-            sdiv.animate({height: $("#submenu").css("height")}, "fast");
-          }
-          else {
-            sdiv.animate({height: '0px'}, "fast");
-          }
-        }
-      </script>
-
-      <table class="allstuff" style="background:white; z-index: 1; position: relative; height: 1px;" cellpadding="0px" cellspacing="0px">
-        <tr width="100%" cellpadding="0px">
-          <td class="sidebar-td" style="width: 200px;vertical-align: top; padding: 0px; background: #bfbfbf;">
-            <table id="tabbar" cellspacing="0px" cellpadding="10px">
-              {% for site_page in site.data.pages %}
-                {% if site_page.title == page.title %}
-                  {% for subpage in site_page.subpages %}
-                    {% if subpage.title == page.subtitle %}
-                      <tr>
-                        <td class="tab hover_animate" style="font-weight: bolder; background: white;vertical-align: middle;" onClick="javascript:location.href='{{ subpage.permalink }}'" >
-                          <font class="tabtext">{{ subpage.title }}</font>
-                        </td>
-                      </tr>
-                    {% else %}
-                      <tr>
-                        <td class="tab hover_animate" style="vertical-align: middle;" onClick="javascript:location.href='{{ subpage.permalink }}'" >
-                            <font class="tabtext">{{ subpage.title }}</font>
-                        </td>
-                      </tr>
-                    {% endif %}
-                  {% endfor %}
-                {% endif %}
-              {% endfor %}
-            </table>
-
-            <table cellspacing="0px" cellpadding="10px" width="150px">
-              <tr>
-                <td>
-                  <font color="#bfbfbf">Placeholder because it turns out that I'm not really good at CSS and JS and HTML because it's actually kind of difficult and tbh I just need to make this line longer so it actually achieves text wrap...</font>
-                </td>
-              </tr>
-            </table>
-          </td>
-
-          <td style="padding: 20px;" style="height: 100%; vertical-align: top;">
-            <div class="contentdiv" style="height: 100%">
-              <div class="hover_animate" id="subbutton" onclick="togglesubmenu()" align="center">
-                <span style="font-size: 40px;">☰</span>
-              </div>
-              <div id="subdiv">
-                <table cellpadding="0px" cellspacing="0px" id="submenu" width="100%">
-                  {% for site_page in site.data.pages %}
-                    {% if site_page.title == page.title %}
-                      {% for subpage in site_page.subpages %}
-                        <tr>
-                          <td class="subtab hover_animate" onClick="javascript:location.href='{{ subpage.permalink }}'" >
-                              {{ subpage.title }}
-                          </td>
-                        </tr>
-                      {% endfor %}
-                    {% endif %}
-                  {% endfor %}
-                </table>
-              </div>
-              <div class="tabline"></div>
-              {{ content }}
-
-              </div>
-            </td>
-          </tr>
-      </table>
-  </article>
+                {{ content }}
+            </div>
+        </div>
+    </article>
 </div>

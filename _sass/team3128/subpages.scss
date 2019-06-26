@@ -1,0 +1,117 @@
+.subpage_wrapper {
+    max-width: $content-width + $sidebar-width;
+    margin: 0px auto;
+}
+
+.subpage_main {
+    display: grid;
+    grid-template-columns: $sidebar-width $content-width;
+    
+    .sidebar {
+        background: #bfbfbf;
+        
+        display: flex;
+        flex-direction: column;
+
+        a {
+            color: black;
+        }
+        
+        .element {
+            text-align: left;
+            vertical-align: middle;
+
+            padding: 12px 18px;
+
+            &.selected {
+                background: white;
+                font-weight: bolder;
+            }
+            
+            &:hover {
+                background: #edf2f8;
+                cursor: pointer;
+            }
+        }
+    }
+
+    .content {
+        padding: 20px;
+    }
+
+    .subpage_dropdown {
+        .menu_button {    
+            font-size: 40px;
+            text-align: center;
+    
+            color: $light;
+            background: white;
+    
+            border: 2px solid $light;
+            border-bottom: none;
+    
+            margin-bottom: 0px;
+            padding-bottom: 4px;
+    
+            &:hover {
+                color: white;
+                background: $light;
+    
+                cursor: pointer;
+            }
+        }
+        
+        .menu {
+            overflow: hidden;
+    
+            border-right: 2px solid $light;
+            border-left: 2px solid $light;
+    
+            a {
+                color: black;
+            }
+    
+            .element {
+                font-size: 24px;
+    
+                text-align: center;
+                padding: 10px;
+    
+                &:hover {
+                    background: #efefef;
+                }
+            }
+        }
+    
+        .border {
+            height: 2px;
+            margin-bottom: 10px;
+            background: $light;
+        }
+    }
+}
+
+@media screen and (min-width: $content-width + $sidebar-width) {
+    .subpage_dropdown {
+        display: none;
+    }
+}
+
+@media screen and (max-width: $content-width + $sidebar-width) {
+    .subpage_wrapper {
+        max-width: 100%;
+        margin: 0px 10px;
+    }
+
+    .subpage_main {
+        grid-template-columns: 1fr;
+    }
+
+    .subpage_main .sidebar {
+        display: none;
+    }
+
+    .subpage_dropdown {
+        display: block;
+    }
+}

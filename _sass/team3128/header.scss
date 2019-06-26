@@ -1,0 +1,145 @@
+.nounder:hover {
+    text-decoration: none;
+}
+
+.nounder {
+    text-transform: uppercase;
+}
+
+#smallmenu {
+    display: table;
+}
+
+.dropdown_element {
+    background: $light;
+    text-align: center;
+    
+    a {
+        color: white;
+    }
+    
+    &:hover {
+        background: $royal;
+        cursor: pointer;
+    }
+}
+
+.dropdown_social {
+    width: 100%;
+    padding: 8px 0px;
+    background: $royal;
+    
+    display: flex;
+    
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+    .icon {
+        flex: 40px 0 0;
+        margin: 0px 4px;
+    }
+}
+
+.menu_button {
+    padding: 0px;
+}
+.menu_button:hover {
+    background: $light;
+    cursor: pointer;
+}
+
+
+#facebook {
+    content: url(/assets/header/social/facebook.svg);
+}
+
+#facebook:hover {
+    content: url(/assets/header/social/facebook-filled.svg);
+    cursor: pointer;
+}
+
+#instagram {
+    content: url(/assets/header/social/instagram.svg);
+}
+
+#instagram:hover {
+    content: url(/assets/header/social/instagram-filled.svg);
+    cursor: pointer;
+}
+
+#github {
+    content: url(/assets/header/social/github.svg);
+}
+
+#github:hover {
+    content: url(/assets/header/social/github-filled.svg);
+    cursor: pointer;
+}
+
+#twitter {
+    content: url(/assets/header/social/twitter.svg);
+}
+
+#twitter:hover {
+    content: url(/assets/header/social/twitter-filled.svg);
+    cursor: pointer;
+}
+
+@media screen and (max-width: 1230px) {
+    .normal_navigation {
+        display: none;
+    }
+    .small_navigation_button {
+        display: block;
+    }
+}
+
+@media screen and (min-width: 1230px) {
+    .normal_navigation {
+        display: block;
+    }
+    .small_navigation_button {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 1400px) {
+    .normaltitle {
+        display: none;
+    }
+    .smalltitle {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 1560px) and (min-width: 1400px) {
+    .normaltitle {
+        display: none;
+    }
+    .smalltitle {
+        display: inline-block;
+    }
+}
+
+@media screen and (min-width: 1560px) {
+    .normaltitle {
+        display: inline-block;
+    }
+    .smalltitle {
+        display: none;
+    }
+}
+
+.small_navigation_button {
+    background: $royal;
+    
+    &:hover {
+        background: $light;
+        cursor: pointer;
+    }
+}
+
+#navigation_dropdown {
+    overflow: hidden;
+}

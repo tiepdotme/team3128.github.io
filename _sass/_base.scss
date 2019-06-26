@@ -1,6 +1,6 @@
 /**
- * Reset some basic elements
- */
+* Reset some basic elements
+*/
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
@@ -11,8 +11,8 @@ dl, dd, ol, ul, figure {
 
 
 /**
- * Basic styling
- */
+* Basic styling
+*/
 body {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
     color: $text-color;
@@ -28,8 +28,8 @@ body {
 
 
 /**
- * Set `margin-bottom` to maintain vertical rhythm
- */
+* Set `margin-bottom` to maintain vertical rhythm
+*/
 h1, h2, h3, h4, h5, h6 {
     margin-bottom: 0px;
 }
@@ -43,8 +43,8 @@ ul, ol, dl, figure,
 
 
 /**
- * Images
- */
+* Images
+*/
 img {
     max-width: 100%;
     vertical-align: middle;
@@ -53,8 +53,8 @@ img {
 
 
 /**
- * Figures
- */
+* Figures
+*/
 figure > img {
     display: block;
 }
@@ -66,8 +66,8 @@ figcaption {
 
 
 /**
- * Lists
- */
+* Lists
+*/
 ul, ol {
     margin-left: $spacing-unit;
 }
@@ -75,15 +75,15 @@ ul, ol {
 li {
     > ul,
     > ol {
-         margin-bottom: 0;
+        margin-bottom: 0;
     }
 }
 
 
 
 /**
- * Headings
- */
+* Headings
+*/
 h1, h2, h3, h4, h5, h6 {
     font-family: $header-font-family;
     font-weight: $base-font-weight;
@@ -92,20 +92,20 @@ h1, h2, h3, h4, h5, h6 {
 
 
 /**
- * Links
- */
+* Links
+*/
 a {
     transition: all .1s ease-in-out;
     -moz-transition: all .1s ease-in-out;
     -webkit-transition: all .1s ease-in-out;
-
+    
     color: $bright;
     text-decoration: none;
-
+    
     &:visited {
         color: $bright
     }
-
+    
     &:hover {
         color: $royal;
         text-decoration: none;
@@ -115,8 +115,8 @@ a {
 
 
 /**
- * Blockquotes
- */
+* Blockquotes
+*/
 blockquote {
     color: $grey-color;
     border-left: 4px solid $grey-color-light;
@@ -124,7 +124,7 @@ blockquote {
     font-size: 18px;
     letter-spacing: -1px;
     font-style: italic;
-
+    
     > :last-child {
         margin-bottom: 0;
     }
@@ -133,8 +133,8 @@ blockquote {
 
 
 /**
- * Code formatting
- */
+* Code formatting
+*/
 pre,
 code {
     font-size: 15px;
@@ -150,7 +150,7 @@ code {
 pre {
     padding: 8px 12px;
     overflow-x: auto;
-
+    
     > code {
         border: 0;
         padding-right: 0;
@@ -161,85 +161,68 @@ pre {
 
 
 /**
- * Wrapper
- */
+* Wrapper
+*/
 .wrapper {
-	align: center;
-  z-index: 2;
-
-	@media screen and (min-width: $content-width) {
-    	max-width: $content-width;
-
-    	margin-right: auto;
-      margin-left: auto;
-      margin-top: 0px;
-      margin-bottom: 0px;
-	}
-
-	@media screen and (max-width: $content-width) {
-		  max-width: 100%;
-
-      margin-right: 10px;
-      margin-left: 10px;
-
+    align: center;
+    z-index: 2;
+    
+    @media screen and (min-width: $content-width) {
+        max-width: $content-width;
+        
+        margin-right: auto;
+        margin-left: auto;
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+    
+    @media screen and (max-width: $content-width) {
+        max-width: 100%;
+        
+        margin-right: 10px;
+        margin-left: 10px;
+        
     }
 }
 
 /**
- * Homepage Wrapper
- */
+* Homepage Wrapper
+*/
 .homepagewrapper {
-	align: center;
-  z-index: 0;
-
-	@media screen and (min-width: $homepage-width) {
-    	width: $homepage-width;
-
-    	margin-right: auto;
-      margin-left: auto;
-      margin-top: 0px;
-      margin-bottom: 0px;
-	}
-
-	@media screen and (max-width: $homepage-width) {
-      max-width: 100%;
-
-      margin-right: 10px;
-      margin-left: 10px;
+    align: center;
+    z-index: 0;
+    
+    @media screen and (min-width: $homepage-width) {
+        width: $homepage-width;
+        
+        margin-right: auto;
+        margin-left: auto;
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+    
+    @media screen and (max-width: $homepage-width) {
+        max-width: 100%;
+        
+        margin-right: 10px;
+        margin-left: 10px;
     }
 }
 
 /**
- * Subpage Wrapper
- */
+* Subpage Wrapper
+*/
 .subpagewrapper {
-	align: center;
-  z-index: 2;
-
-	@media screen and (min-width: $content-width + $sidebar-width) {
-    	max-width: $content-width + $sidebar-width;
-
-    	margin-right: auto;
-      margin-left: auto;
-      margin-top: 0px;
-      margin-bottom: 0px;
-	}
-
-	@media screen and (max-width: $content-width + $sidebar-width) {
-		  max-width: 100%;
-
-      margin-right: 10px;
-      margin-left: 10px;
-
-    }
+    align: center;
+    z-index: 2;
 }
 
 
 /**
- * Clearfix
- */
+* Clearfix
+*/
 %clearfix {
-
+    
     &:after {
         content: "";
         display: table;
@@ -250,16 +233,16 @@ pre {
 
 
 /**
- * Icons
- */
+* Icons
+*/
 .icon {
-
+    
     > svg {
         display: inline-block;
         width: 16px;
         height: 16px;
         vertical-align: middle;
-
+        
         path {
             fill: $grey-color;
         }
