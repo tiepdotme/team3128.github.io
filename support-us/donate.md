@@ -70,12 +70,6 @@ San Diego, CA 92130</i>
 ### In-Kind Donation
 For all physical items that you donate (Food during Build Season, Raw Materials, Mechanical and Electronic Components, etc.) the CCA Foundation provides an "In-Kind Donation Form" through which you can claim your Tax Deduction.
 
-1. Head over to <a href="https://www.canyoncrestfoundation.org/resources/#forms">the CCA Foundation Forms page</a>
-2. Click on the dropdown labelled <b>Financial</b>
-3. Download the <b>In Kind Donation Fill-able Form</b>.
-4. Or just click the giant blue button below.
-<br>
-
 <div>
 <a href="/assets/documents/CCAF-In-Kind-Form-Fillable-11-5-14-v3.pdf">
 <div class="button hover_animate" style="text-align: center;">

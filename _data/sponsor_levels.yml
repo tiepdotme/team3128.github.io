@@ -1,39 +1,90 @@
-- level: Title
+- name: Title
   id: 5
   color: "#1b1464"
   money: "$10,000+"
-  show: "yes"
+  show: true
+  benefits:
+    - Featured as Title Sponsor at FRC Competitions & Off-Season Events
+    - Featured as Title Sponsor at yearly banquet
+    - Demonstration of our competition robot at sponsor facility
+    - Featured as team sponsor at our pit at FRC Competitions
+    - Plaque of appreciation and gift basket
+    - Featured as team sponsor on our competition robot
+    - Invitation to yearly banquet
+    - Featured as team sponsor on team t-shirts
+    - Recognition on our team’s social media (Instagram, Facebook, Twitter)
+    - Recognition on team multimedia publications
+    - Featured as team sponsor on team website
+    - Team “Thank You” bag with merchandise
 
-- level: Platinum
+- name: Platinum
   id: 4
   color: "#c2c0bc"
   money: "$7,500-$9,999"
-  show: "no"
+  show: false
+  benefits:
+    - Demonstration of our competition robot at sponsor facility
+    - Featured as team sponsor at our pit at FRC Competitions
+    - Plaque of appreciation and gift basket
+    - Featured as team sponsor on our competition robot
+    - Invitation to yearly banquet
+    - Featured as team sponsor on team t-shirts
+    - Recognition on our team’s social media (Instagram, Facebook, Twitter)
+    - Recognition on team multimedia publications
+    - Featured as team sponsor on team website
+    - Team “Thank You” bag with merchandise
 
-- level: Gold
+- name: Gold
   id: 3
   color: gold
   money: "$5,000-$7,499"
-  show: "yes"
+  show: true
+  benefits:
+    - Featured as team sponsor at our pit at FRC Competitions
+    - Plaque of appreciation and gift basket
+    - Featured as team sponsor on our competition robot
+    - Invitation to yearly banquet
+    - Featured as team sponsor on team t-shirts
+    - Recognition on our team’s social media (Instagram, Facebook, Twitter)
+    - Recognition on team multimedia publications
+    - Featured as team sponsor on team website
+    - Team “Thank You” bag with merchandise
 
-- level: Silver
+- name: Silver
   id: 2
   color: grey
   money: "$2,500-$4,999"
-  show: "yes"
+  show: true
+  benefits:
+    - Featured as team sponsor on our competition robot
+    - Invitation to yearly banquet
+    - Featured as team sponsor on team t-shirts
+    - Recognition on our team’s social media (Instagram, Facebook, Twitter)
+    - Recognition on team multimedia publications
+    - Featured as team sponsor on team website
+    - Team “Thank You” bag with merchandise
 
-- level: Bronze
+- name: Bronze
   id: 1
   color: "#CD7F32"
   money: "$1,000-$2,499"
-  show: "yes"
+  show: true
+  benefits:
+    - Featured as team sponsor on team t-shirts
+    - Recognition on our team’s social media (Instagram, Facebook, Twitter)
+    - Recognition on team multimedia publications
+    - Featured as team sponsor on team website
+    - Team “Thank You” bag with merchandise
 
-- level: Friend
+- name: Friend
   id: 0
   color: "#00a2ff"
   money: "$500-$999"
-  show: "no"
+  show: false
+  benefits:
+    - Featured as team sponsor on team website
+    - Team “Thank You” bag with merchandise
 
-- level: In-Kind
+- name: In-Kind
   color: black
-  show: "yes"
+  show: true

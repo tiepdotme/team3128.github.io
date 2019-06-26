@@ -6,11 +6,12 @@ permalink: /support-us/sponsor/
 ---
 
 Welcome! We're so glad to see you here. Your consideration of supporting our team means a lot to us, and we know you probably have some questions about sponsoring our team.
-
-## How does your sponsorship help us?
+<br><br>
+<h2>How does your sponsorship help us?</h2>
 We love what we do, and want to pursue everything we think up. In order to accomplish these goals, we need to purchase raw materials for machining practice and construction, electronics and computer hardware for advancements in control systems, LEGO and VEX robot sets to bring STEM education to our community, and so much more. With your monetary support, we can be enabled to achieve goals that we could have previously never even imagined.
-
-Want even more team information? Check out [our team resources](/resources/). Also, you can download our sponsorship information packet!
+<br><br>
+Want even more team information? Check out <a href="/resources/">our team resources</a>. Also, you can download our sponsorship information packet!
+<br><br>
 <div>
 <a href="/resources/2019SponsorshipInfoPacket.pdf">
 <div class="button hover_animate" style="text-align: center;">
@@ -20,7 +21,7 @@ Sponsorship Information Packet (.pdf)
 </div>
 <br>
 
-## Sponsorship Levels
+<h2>Sponsorship Levels</h2>
 All of our sponsors are inredibly important to us, and we like to express our gratitude to them for their instrumental help to our team. Our sponsorship levels and benefits are listed below.
 
 <script>
@@ -28,14 +29,14 @@ function toggle(level) {
 	var elements = document.getElementsByClassName("circle");
 
 	{% for level in site.data.sponsor_levels %}
-	$(document.getElementById("{{ level.level }}")).removeClass('expanded');
+	$(document.getElementById("{{ level.name }}")).removeClass('expanded');
 	{% endfor %}
 
 	$(document.getElementById(level)).addClass('expanded');
 
 
 	{% for level in site.data.sponsor_levels %}	
-	$(document.getElementById("{{ level.level }}info")).css('display', "none");
+	$(document.getElementById("{{ level.name }}info")).css('display', "none");
 	{% endfor %}
 
 	$(document.getElementById(level + "info")).css('display', "table");
@@ -53,31 +54,27 @@ $( document ).ready(function() {
 	<table width="100%" border="0" cellpadding="0" cellspacing="0">
 		<tr>
 		{% for level in site.data.sponsor_levels %} {% if level.id %}
-			<td width="172px" height="152px" align="center" class="circle hover_animate" id="{{ level.level }}" style="background: {{ level.color }};" onClick='toggle("{{ level.level }}")'>
+			<td width="172px" height="152px" align="center" class="circle hover_animate" id="{{ level.name }}" style="background: {{ level.color }};" onClick='toggle("{{ level.name }}")'>
 				<div>
-					{{ level.level }}
+					{{ level.name }}
 				</div>
 			</td>
 		{% endif %} {% endfor %}
 		</tr>
 	</table>
 
-	{% for level in site.data.sponsor_levels %}  {% if level.id %}
-		<table id="{{ level.level }}info" style="display: none;" width="100%" border="0" cellpadding="10" cellspacing="0">
-			<tr>
-				<td style="width: 250px;" bgcolor="{{ level.color }}" align="center">
-					<b><font color="white" size="40px">{{ level.level }}</font></b>
+	{% for level in site.data.sponsor_levels %}  {% if level.name != "In-Kind" %}
+		<table id="{{ level.name }}info" style="display: none;" width="100%" border="0" cellpadding="10" cellspacing="0">
+			<tr style="height: 330px;">
+				<td style="width: 250px; background: {{ level.color }};" align="center">
+					<b><font color="white" size="40px">{{ level.name }}</font></b>
 					<br>
 					<font color="white">{{ level.money }}</font>
 				</td>
-				<td>
+				<td style="vertical-align: top;">
 					<ul>
-						{% for benefit in site.data.sponsor_benefits %}
-							<text
-							{% if benefit.id > level.id %} class="crossed" {% endif %}
-							>
-							<li>{{benefit.description}}</li>
-							</text>
+						{% for benefit in level.benefits %}
+							<li>{{ benefit }}</li>
 						{% endfor %}
 					</ul>
 				</td>
@@ -90,7 +87,7 @@ $( document ).ready(function() {
 	{% for level in site.data.sponsor_levels %} {% if level.id %}
   	<tr>
     	<td bgcolor="{{ level.color }}" align="center">
-      	<b><font color="white" size="40px">{{ level.level }}</font></b>
+      	<b><font color="white" size="40px">{{ level.name }}</font></b>
       	<br>
       	<font color="white">{{ level.money }}</font>
     	</td>
@@ -98,12 +95,8 @@ $( document ).ready(function() {
 	<tr>
     	<td>
       		<ul>
-				{% for benefit in site.data.sponsor_benefits %}
-				<text
-					{% if benefit.id > level.id %} class="crossed" {% endif %}
-				>
-					<li>{{benefit.description}}</li>
-				</text>
+				{% for benefit in level.benefits %}
+					<li>{{ benefit }}</li>
 				{% endfor %}
 			</ul>
     	</td>
