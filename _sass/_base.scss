@@ -164,59 +164,14 @@ pre {
 * Wrapper
 */
 .wrapper {
-    align: center;
-    z-index: 2;
+    max-width: $content-width;
+    margin: 0px auto;
     
-    @media screen and (min-width: $content-width) {
-        max-width: $content-width;
-        
-        margin-right: auto;
-        margin-left: auto;
-        margin-top: 0px;
-        margin-bottom: 0px;
-    }
-    
-    @media screen and (max-width: $content-width) {
+    @media screen and (max-width: $content-width + 10px) {
         max-width: 100%;
-        
-        margin-right: 10px;
-        margin-left: 10px;
-        
+        margin: 0px 10px;
     }
 }
-
-/**
-* Homepage Wrapper
-*/
-.homepagewrapper {
-    align: center;
-    z-index: 0;
-    
-    @media screen and (min-width: $homepage-width) {
-        width: $homepage-width;
-        
-        margin-right: auto;
-        margin-left: auto;
-        margin-top: 0px;
-        margin-bottom: 0px;
-    }
-    
-    @media screen and (max-width: $homepage-width) {
-        max-width: 100%;
-        
-        margin-right: 10px;
-        margin-left: 10px;
-    }
-}
-
-/**
-* Subpage Wrapper
-*/
-.subpagewrapper {
-    align: center;
-    z-index: 2;
-}
-
 
 /**
 * Clearfix

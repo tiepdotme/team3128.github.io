@@ -2,16 +2,41 @@
 layout: default
 ---
 
-<div id="wrap" class="wrapper">
-  <article class="post">
-    <div style="z-index: 1; position: relative;">
-      <table cellpadding="20px" width="100%" style="background: white; table-layout: fixed;">
-          <tr cellpadding="0px" height="100%">
-            <td cellpadding="0px" height="100%">
-              {{ content }}
-            </td>
-          </tr>
-      </table>
+<img id="pageimage" src="{% if page.headerimage %}{{ page.headerimage }}{% else %}/assets/page_headers/standard.jpeg{% endif %}" />
+
+{% if page.showtitle != false %}
+<div>
+    <div id="page-header" class="page-heading" style="background: rgba(0,0,0,.55); width: 100%; position: relative; left: 0px;">
+        {% if page.subtitle %}
+        <div class="subpage_wrapper" style="padding-left: 20px;">
+            {{ page.title }}: {{ page.subtitle }}
+        </div>
+        {% elsif page.layout == "post" %}
+        <div class="subpage_wrapper" style="padding-left: 20px;">
+            {{ page.title }}
+        </div>
+        {% else %}
+        <div class="wrapper" style="padding-left: 20px;">
+            {{ page.title }}
+        </div>
+        {% endif %}
     </div>
-  </article>
 </div>
+{% endif %}
+
+{{ content }}
+
+<script>
+    $( '#page-header' ).ready(function(){
+        $('#wrap').css("margin-top", "-" + ($('#page-header').height() - 1 * $('#page-header').height() / 60) + "px");
+        $('#page-header').css("bottom", ($('#page-header').height() - 1 * $('#page-header').height() / 60) + "px");
+    });
+    
+    var width = $(window).width();
+    $(window).resize(function(){
+        if($(this).width() != width){
+            $('#wrap').css("margin-top", "-" + ($('#page-header').height() - 1 * $('#page-header').height() / 60) + "px");
+            $('#page-header').css("bottom", ($('#page-header').height() - 1 * $('#page-header').height() / 60) + "px");
+        }
+    });
+</script>

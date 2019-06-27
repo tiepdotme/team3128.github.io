@@ -1,5 +1,5 @@
 ---
-layout: subpage
+layout: grouped_page
 title: Members
 subtitle: Important Dates
 permalink: /members/important-dates/

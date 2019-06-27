@@ -1,5 +1,5 @@
 ---
-layout: subpage
+layout: grouped_page
 title: Members
 subtitle: Workshop Hours
 permalink: /members/hours/

@@ -1,9 +1,28 @@
-.nounder:hover {
-    text-decoration: none;
+/**
+* Site header
+*/
+.site-header {
+    background: $navy;
+    z-index: 999;
+
+    position: relative;
+}
+
+.site-nav {
+    float: center;
+    
+    .page-link {
+        color: $grey-color-light;
+        line-height: $base-line-height;
+    }
 }
 
 .nounder {
     text-transform: uppercase;
+
+    &:hover {
+        text-decoration: none;
+    }
 }
 
 #smallmenu {

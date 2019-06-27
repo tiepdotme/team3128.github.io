@@ -1,3 +1,12 @@
+.homepagewrapper { 
+    max-width: $homepage-width;
+    margin: 0px auto;
+    
+    @media screen and (max-width: $homepage-width + 10px) {
+        max-width: 100%;
+        margin: 0px 10px;
+    }
+}
 
 #center-text {
     vertical-align: middle;
@@ -148,7 +157,7 @@
     width: 100%;
     
     -webkit-animation: carousel 45s infinite; /* Chrome, Safari, Opera */
-    animation: carousel 45s infinite;
+            animation: carousel 45s infinite;
 }
 
 .card:hover {

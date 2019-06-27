@@ -1,5 +1,5 @@
 ---
-layout: subpage
+layout: grouped_page
 title: Support Us
 subtitle: Donate
 permalink: /support-us/donate/

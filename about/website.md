@@ -1,5 +1,5 @@
 ---
-layout: subpage
+layout: grouped_page
 title: About
 subtitle: Our Website
 permalink: /about/website/

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single_page
 title: Outreach
 permalink: /outreach/
 ---

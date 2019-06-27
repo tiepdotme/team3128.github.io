@@ -1,5 +1,5 @@
 ---
-layout: subpage
+layout: grouped_page
 title: Students
 subtitle: Build Seasons
 permalink: /students/build-seasons/
