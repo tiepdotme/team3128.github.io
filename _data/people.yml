@@ -1,3 +1,15 @@
+# people.yml
+# Contains the list of mentors and leaders on our team. People in the mentors group show up
+# on /about/mentors/, people on the leaders group show up on /about/leaders/
+#
+# Format:
+# - group: leaders #the group that specifies who the person is
+#   name: Aluminum Narwhal #the name of the person
+#   photo: chris #the filename that contains the person's headshot. the headshot should be located at /assets/page_photos/about/headshots/<group>/<photo>.png. NOTE: if you don't have a headshot, remove this line.
+#   title: Head of Mechtrols #this is the title that the person has. if the person is a leader, it should be Head of <something>; if the person is a mentor, it should be their role (i.e. Lead Mentor) and/or their department(s)
+#   blurb: blah blah blah #a mini-bio about the person
+
+
 - group: mentors
   name: Tony Mauro
   title: Faculty Advisor, Controls

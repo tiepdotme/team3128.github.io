@@ -3,6 +3,8 @@
   subpages:
    - title: Our Team
      permalink: /about/
+   - title: Our Accomplishments
+     permalink: /about/accomplishments/
    - title: Our Robots
      permalink: /about/robots/
    - title: Our Departments

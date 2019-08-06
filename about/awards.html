@@ -1,0 +1,31 @@
+---
+layout: grouped_page
+title: About
+subtitle: Our Accomplishments
+permalink: /about/accomplishments/
+---
+
+Of course, even with our team's strong commitment to the value of education and inspiring students to pursue STEM, we value competitive success. In our team's history, we have achieved many milestones and won a number of awards that we are incredibly proud of.
+<br><br>
+<table style="width: 100%">
+  {% for year in site.data.awards %}
+  <tr>
+    <td class="navy" style=" font-size: 14pt; color: white; font-family: Raleway; padding: 8px;">
+      <b>{{ year.year }}</b>
+    </td>
+  </tr>
+
+  {% for event in year.events %}
+  <tr>
+    <td style="padding: 4px">
+      <b>{{ event.name }}</b>
+      <br>
+      {% for award in event.awards %}
+      {{award}}<br>
+      {% endfor %}
+    </td>
+  </tr>
+  {% endfor %}
+  {% endfor %}
+</table>
+<br>

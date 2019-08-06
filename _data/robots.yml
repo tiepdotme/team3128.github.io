@@ -1,3 +1,16 @@
+# robots.yml
+# Contains the list robots that our team has built that shows on /about/robots/
+#
+# Format:
+# - year: 3128 #the year of the season of that robot
+#   game: "FIRST HAHA THANOS" #the name of the game
+#   name: Cheesecake #the name of the robot
+#   stats: true #whether or not to display the dimensions, weight, and top speed of the robot on the robots page
+#   dimensions: 31" W x 2" L x 8" H
+#   weight: 312.8 lbs
+#   speed: 31.28 mph
+#   description: blah blah blah #a cool and nice mini-bio about the robot (i.e. the story of its ideation, any fun anecdotes about construction/design changes, and how well it did)
+
 - year: 2019
   game: "DESTINATION: DEEP SPACE"
   name: Gromit

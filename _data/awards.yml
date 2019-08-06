@@ -1,3 +1,14 @@
+# awards.yml
+# Contains the list of team awards/accomplishments that shows in the list on /about/accomplishments/
+#
+# Format:
+# - year: 3128 #the year number for the following events
+#   events: #the list of events that we competed in (and won stuff in)
+#    - name: Event 1 #the name of the event
+#      awards: #the list of the awards that we won at that event
+#       - Really Cool First Award
+#       - Even Cooler Second Award
+
 - year: 2018
   events:
    - name: San Diego Regional

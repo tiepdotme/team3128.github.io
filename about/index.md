@@ -35,27 +35,3 @@ We grew for the next 9 years, developing our [Robotics Summer Camp](/camp/), a w
 <img src="/assets/page_photos/about/vegas2016.jpg" class="leftimage">
 
 Our hard work and drive only grew stronger over the course of our team's history. With the culmination of enthusiastic mentors' support, skilled drive, mechanical, strategy, electronics, programming, and outreach teams, we began to develop a program that could effectively build upon our past exeperiences and pass down our success to the future generations of narwhals. As we grew, we made sure to keep true to our roots, developing a culture that celebrates all of our members' and allows for the development of new ideas. Over the Aluminum Narwhals' first decade, we've gone further than we could have ever imagined, making several notable accomplishments, including the Entrepreneurship, Innovation in Controls, Regional Finalist, Championship Subdivision Finalist, multiple Dean's List Finalist, and Engineering Inspiration awards.
-
-### Awards and Achievements
-<table style="width: 100%">
-  {% for year in site.data.awards %}
-  <tr>
-    <td class="navy" style=" font-size: 14pt; color: white; font-family: Raleway; padding: 8px;">
-      <b>{{ year.year }}</b>
-    </td>
-  </tr>
-
-  {% for event in year.events %}
-  <tr>
-    <td style="padding: 4px">
-      <b>{{ event.name }}</b>
-      <br>
-      {% for award in event.awards %}
-      {{award}}
-      {% endfor %}
-    </td>
-  </tr>
-  {% endfor %}
-  {% endfor %}
-</table>
-<br>
