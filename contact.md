@@ -24,12 +24,12 @@ Coach
 [mary@team3128.org](mailto:mary@team3128.org)
 
 **Student Leadership**  
-*Ronak R.*  
+*Amelia B.*  
 President  
-[ronak@team3128.org](mailto:ronak@team3128.org)
+[amelia@team3128.org](mailto:amelia@team3128.org)
 
 *Esme A.*  
-Vice President  
+President  
 [esme@team3128.org](mailto:esme@team3128.org)
 
 **Item Requests:**  
