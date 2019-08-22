@@ -9,15 +9,11 @@ Have a question about our robotics program? Here are some of the most often aske
 
 **When does the team meet during the week?**
 
-Starting Fall 2018, our team meets on Monday through Friday from 3:00 pm – 6:00 pm every week until Christmas break. Different divisions will meet on different days.  You can look at [our calendar](/members/calendar/) for details.
+Starting Fall 2019, our team meets Monday, Thursday, and Friday from 3:00 pm - 6:00 pm every week. Our first meeting of the 2019-2020 season will be Intro Day on September 13th. The week of September 16th - 20th, however, we will be meeting every day Monday - Friday to give new members a more extensive introduction to the team and what we do. You can look at [our calendar](/members/calendar/) for details.
 
-During Build Season (January 5 - February 19), we meet every day from Monday to Sunday. Specific dates are updated on [our calendar](/members/calendar/).
+During Build Season (from January 3rd until our first competition in March), we meet the same days during the week as in pre-season in the Fall, as well as most Saturdays and some Sundays (subject to change based on mentor availability). Specific dates are updated on [our calendar](/members/calendar/).
 
-During Competition Season (February 20 - April 20), we meet as necessary based upon which Competitions we attend.  The Travel Team will compete at 2 Regional Competitions (San Diego Regional held at Del Mar Fairgrounds and Monterey Bay Regional in Monterey CA).  If our Travel Team is successful and we earn a slot, we will also travel to Houston Texas (April 17 - 21 2019) for the [FRC World Championships](https://www.firstchampionship.org/welcome).  
-
-[San Diego Regional](http://casd.cafirst.org/) is held Wednesday March 6 (evening) through Saturday March 9 (with a team dinner Saturday evening).  
-[Monterey Bay Regional](https://frc-events.firstinspires.org/2019/CAMB) is Friday March 22 - Sunday evening March 24 (Thursday May 21 and Monday May 25 are travel days, as we are driving to Monterey).  
-[Houston Championships](https://www.firstchampionship.org/houston-home)- Wednesday April 17 (evening) through Saturday April 20 (late), not including travel time.
+During Competition Season (February 26 - April 20), we meet as necessary based upon which Competitions we attend. The Travel Team will compete at 2 Regional Competitions (specific events TBD) for the 2020 Competition season. If we are successful at our Regional competitions and we earn a slot, we will also travel to Houston Texas for the [FRC World Championships (https://www.firstchampionship.org/welcome). 
 
 **What does a robotics team do? What are these competitions like?**
 
