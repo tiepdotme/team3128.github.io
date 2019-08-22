@@ -9,7 +9,7 @@ Below is the list of important dates and times to keep note of. All of these are
 
 ### Weekly Meetings
 
-During pre-season (Fall through beginning of Winter Break), our team meets Monday - Friday from 3:00 pm - 5:30 pm to further our skills, work on build projects, plan events, and more. See specifics on [our calendar](/members/calendar/).
+During pre-season (Fall through the beginning of Winter Break), our team meets Monday, Thursday, and Friday from 3:00 pm - 6:00 pm to further our skills, work on build projects, plan events, and more. See specifics on [our calendar](/members/calendar/).
 
 ### Leadership Meetings
 
