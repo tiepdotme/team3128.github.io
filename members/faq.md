@@ -13,7 +13,7 @@ Starting Fall 2019, our team meets Monday, Thursday, and Friday from 3:00 pm - 6
 
 During Build Season (from January 3rd until our first competition in March), we meet the same days during the week as in pre-season in the Fall, as well as most Saturdays and some Sundays (subject to change based on mentor availability). Specific dates are updated on [our calendar](/members/calendar/).
 
-During Competition Season (February 26 - April 20), we meet as necessary based upon which Competitions we attend. The Travel Team will compete at 2 Regional Competitions (specific events TBD) for the 2020 Competition season. If we are successful at our Regional competitions and we earn a slot, we will also travel to Houston Texas for the [FRC World Championships (https://www.firstchampionship.org/welcome). 
+During Competition Season (February 26 - April 20), we meet as necessary based upon which Competitions we attend. The Travel Team will compete at 2 Regional Competitions (specific events TBD) for the 2020 Competition season. If we are successful at our Regional competitions and we earn a slot, we will also travel to Houston Texas for the [FRC World Championships](https://www.firstchampionship.org/welcome). 
 
 **What does a robotics team do? What are these competitions like?**
 
