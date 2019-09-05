@@ -16,7 +16,7 @@ Note that these steps do not allow you to start using power tools, but these are
 4. View the following 7 minute [Safety Video](https://www.youtube.com/watch?v=fivMiePNjCc) on YouTube
 5. Take the [Team 3128 Safety Quiz](https://docs.google.com/forms/d/1sdSVzq1JRzRwxsA9ClK9YCC21OyEwDfI5OaDP3UFXuQ/viewform?edit_requested=true). To complete Safety Training, you must pass this quiz with a score of 85% or higher.
 
-## Department-Specific Safety Training
+## So you want to use power tools?
 If you have completed all the steps above but are interested in joining Mechanical (or Construction) or Controls (electrical and software), you will need to view the following presentations and complete their corresponding quizzes.
 
 **Mechanical/Construction Only**
