@@ -1,6 +1,5 @@
 - name: Mechanical
   description: Mechanical is responsible for the design and construction of our robots. They work with a Computer Aided Design (CAD) software called Solidworks to design our entire robot digitally, and then they use that design to machine all of those parts in our workshop. Our machining is all done in-house, so Mechanical members learn how to use the lathe, mill, CNC router, and various other power tools. Those in Mechanical then assemble those parts together to create our two 120+ pound robots each year.
-  photo: bear
 
 - name: Controls
   description: Controls handles the wiring and programming of our robots. They program our robot in Java and implement sensors, encoders, and cameras to make our robot as reliable as possible. They also wire our robot, connecting all of the motors and electronics to the hardware required to make our robot run.
