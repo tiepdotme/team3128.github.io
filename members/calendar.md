@@ -5,4 +5,5 @@ subtitle: Calendar
 permalink: /members/calendar/
 ---
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=chacha102.com_9jh59lfs1pnm8tenivr5orove8%40group.calendar.google.com&amp;color=%231B887A&amp;ctz=America%2FLos_Angeles" style="border-width:0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=info%40team3128.org&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
