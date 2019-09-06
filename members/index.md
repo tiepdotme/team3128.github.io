@@ -46,6 +46,4 @@ After you’ve signed up, there are lots of different ways to grow your skills:
 **Be Involved.** Often, the best learning experience comes with jumping right into it. With the guidance of more experienced mentors and members, pursue projects and participate in what interests you.  
 **Take a look at our team resources.** Our team has collected information that we think is important, and you can find all of that on [our resources page](/resources/).
 
-##### Carolyn
-
 If you have any scheduling/team questions, you can also check out our [Frequently Asked Questions](/members/faq/) page.
