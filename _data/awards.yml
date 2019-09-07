@@ -9,6 +9,21 @@
 #       - Really Cool First Award
 #       - Even Cooler Second Award
 
+- year: 2019
+  events:
+   - name: San Diego Regional
+     awards:
+      - Regional Semifinalist
+      - Quality Award sponsored by Motorola Solutions Foundation
+   - name: Monterey Bay Regional
+     awards:
+      - Regional Finalist (Captain of Alliance 1)
+      - Entrepreneurship Award sponsored by Kleiner Perkins Caufield and Byers
+      - Wild Card
+   - name: World Championships - Houston
+     awards:
+      - Galileo Division Captain of Alliance 4
+
 - year: 2018
   events:
    - name: San Diego Regional
