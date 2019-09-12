@@ -13,7 +13,7 @@ permalink: /about/
     <td style="vertical-align: top;">
       <h4 style="margin-right: 10px; margin-left:20px; margin-top:35px; margin-bottom:35px">
         <i>
-            Our mission is to provide a positive high school team experience through robotics while inspiring intellectual creativity, fostering a passion for science, technology, and engineering, and developing critical thinking, problem solving and team building skills.
+            FRC Team 3128 strives to promote science and engineering within our school and community by fostering technical and interpersonal skills through robotics.
         </i>
       </h4>
     </td>
