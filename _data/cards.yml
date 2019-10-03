@@ -5,6 +5,8 @@
   imageSource: /assets/homepage/camp.jpeg
   fullImage:  /assets/homepage/camp-full.jpeg
   info: Our 2019 Summer Camp has wrapped up, but registration for the Summer 2020 camp will be available in Spring 2020! Look out for new dates on our camp website.
+  
+  # old camp card info: Registration for Summer Camp 2019 is still open. Sign up today!
 
 - title: Support Us!
   link: /support-us/
