@@ -10,16 +10,28 @@ redirect_from:
 
 ## Join the Team!
 
-If you are interested in joining the team, come to our **Intro Day** on **September 13th at 3:00pm at the workshop**! The week of September 16th - 20th, our shop will be open every day Monday - Friday for NarWeek, to give members a more extensive introduction to the team and what we do. On Intro Day, each of our five divisions (Mechanical, Controls, Business, Marketing, and Strategy) will be giving a brief introduction of what they do. After Intro Day is NarWeek, where every day we will dive headfirst into all that FRC has to offer, looking at all of the aspects of our team and how our departments work together to make Team 3128 run as best as it can.
+<!-- 
+If you are interested in joining the team, come to our **Intro Day** on **September 13th at 3:00pm at the workshop**! The week of September 16th - 20th, our shop will be open every day Monday - Friday for NarWeek, to give members a more extensive introduction to the team and what we do. On Intro Day, each of our five divisions (Mechanical, Controls, Business, Marketing, and Strategy) will be giving a brief introduction of what they do. After Intro Day is NarWeek, where every day we will dive headfirst into all that FRC has to offer, looking at all of the aspects of our team and how our departments work together to make Team 3128 run as best as it can. 
+-->
 
+<!--
 That said, do not worry if you are joining the team after Intro Day and NarWeek! Simply stop by the workshop on one of our meeting days (Mondays, Thursdays, and Fridays after school), find one of our student leaders or mentors, and we will get you started on everything you need to know.
-
+-->
 <!--
 The process for getting registered with the team is currently being updated, and we will walk you through how to do it once robotics starts back up for the 2019 - 2020 season. The steps for registration will be available in September.
 -->
-To become part of the team, simply follow the steps below:
+Are you sure you're part of the team for the 2019-2020 school year?
 
-1. **Stop by the workshop!** For new members who would like to join in the Fall, you can [contact us](/contact/) or stop by our workshop and talk to one of our [student leaders](/about/leaders/). We'll introduce you to our five departments (Mechanical, Controls, Business, Marketing, and Strategy), and the department heads will be able to get you started with classes and projects.
+Review the steps below to make sure that you have done everything required to be an official member of Team 3128!
+
+Though Intro Day and NarWeek have passed, if you are still interested in joining the team, contact one of our [student leaders](/about/leaders/) for more information, or email [info@team3128.org](mailto:info@team3128.org). Please note that our Mechanical and Controls departments are at capacity for the 2019-20 season. To find out about our other departments, visit [here](/about/departments/).
+
+<!--
+To become part of the team, simply follow the steps below:
+-->
+
+<!--1. **Stop by the workshop!** For new members who would like to join in the Fall, you can [contact us](/contact/) or stop by our workshop and talk to one of our [student leaders](/about/leaders/). We'll introduce you to our five departments (Mechanical, Controls, Business, Marketing, and Strategy), and the department heads will be able to get you started with classes and projects.
+-->
 2. **Sign up on our [team roster](https://team3128.us17.list-manage.com/subscribe?u=7c13b1f47db9b4f3392eda9f2&id=b93cada25a).** This will get you added to our mailing list so you know everything that is going on.  Please use an email you check regularly.
 3. **Sign up on [STIMS](https://my.firstinspires.org/Dashboard/), our league information manager.** This will let you attend tournaments and be involved in official robotics events off-campus. *This step requires a parental unit to finish.* You can find detailed instructions for [new members here](https://drive.google.com/file/d/0B4NhnLtlTNV6T1ljM0o2Wm9wc28/view) and [returning members here](https://drive.google.com/file/d/0B4NhnLtlTNV6WGR2Rzk5NXpNbzQ/view).
 4. **Turn in a [Safety Waiver](https://docs.google.com/document/d/1hleaX1rEWXA9QjJedI54hGureuK_zdqZQUVaP21OPQM/edit?usp=sharing).** You and your parental unit will need to read, understand, agree to, and sign the safety waiver. Please turn in the physical waiver to a mentor at the workshop.
