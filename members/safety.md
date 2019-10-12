@@ -17,18 +17,36 @@ Note that these steps do not allow you to start using power tools, but these are
 5. Take the [Team 3128 Safety Quiz](https://docs.google.com/forms/d/1sdSVzq1JRzRwxsA9ClK9YCC21OyEwDfI5OaDP3UFXuQ/viewform?edit_requested=true). To complete Safety Training, you must pass this quiz with a score of 85% or higher.
 
 ## So you want to use power tools?
-If you have completed all the steps above but are interested in joining Mechanical (or Construction) or Controls (electrical and software), you will need to view the following presentations and complete their corresponding quizzes.
+<!--If you have completed all the steps above but are interested in joining Mechanical (or Construction) or Controls (electrical and software), you will need to view the following presentations and complete their corresponding quizzes.-->
+
+Our Mechanical and Controls departments have reached capacity for the 2019-2020 season, but their respective safety presentations can be found below. If you still need to complete the Mechanical or Controls safety quizzes, contact [Chris Low](mailto:chris@team3128.org).
 
 **Mechanical/Construction Only**
 
+View the 2019-2020 Team 3128 Mech & Construction Safety presentation [here](https://docs.google.com/presentation/d/1YvJPzw82Gi9E48YD2QIbKN_-VQ8OFdi9ijYC6f_wuPY/edit#slide=id.g4266068401_3_70).
+
+Reviewing the presentation *does not* mean you may use power tools.
+
+<!--
 1. Review the [Team 3128 Mech & Construction Safety presentation](https://docs.google.com/presentation/d/1YvJPzw82Gi9E48YD2QIbKN_-VQ8OFdi9ijYC6f_wuPY/edit#slide=id.g4266068401_3_70).
 2. Take the [Mech & Construction Safety Quiz](https://docs.google.com/forms/d/1lGrXT2PVCbfEsD5MXlcSfNt633Z6U3cRhkgWNnN4CqM/viewform?edit_requested=true). You must pass with a score of 85% or higher. You may take the quiz as many times as you want.
+-->
 
+<!--
 Note: You may not use power tools until you pass the department-specific training.
+-->
 
 **Controls Only**
 
+View the 2019-2020 Team 3128 Controls/Electrical Safety presentation [here](https://docs.google.com/presentation/d/1edzdTAOpXih5eED6RA7A4ZohyB9Ey1BROv1zvDV0teo/edit#slide=id.g4266068401_3_70).
+
+Reviewing the presentation *does not* mean you may use power tools.
+
+<!--
 1. Review the [Team 3128 Controls/Electrical Safety presentation](https://docs.google.com/presentation/d/1edzdTAOpXih5eED6RA7A4ZohyB9Ey1BROv1zvDV0teo/edit#slide=id.g4266068401_3_70).
 2. Take the [Controls/Electrical Safety Quiz](https://docs.google.com/forms/d/1WS4DspHzV_yWrMsMJoLT5vn6JGG231zoomAKsejrUMs/viewform?edit_requested=true). You must pass with a score of 85% or higher. You may take the quiz as many times as you want. 
+-->
 
+<!--
 Note: You may not use power tools until you pass the department-specific training.
+-->
