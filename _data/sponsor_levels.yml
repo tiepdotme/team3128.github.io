@@ -5,17 +5,17 @@
   show: true
   benefits:
     - Featured as Title Sponsor at FRC Competitions & Off-Season Events
-    - Featured as Title Sponsor at yearly banquet
+    - Featured as team sponsor on our competition robot (Large Logo and Prominent Location)
+    - Featured as team sponsor at our pit at FRC Competitions (Large Logo)
     - Demonstration of our competition robot at sponsor facility
-    - Featured as team sponsor at our pit at FRC Competitions
     - Plaque of appreciation and gift basket
-    - Featured as team sponsor on our competition robot
-    - Invitation to yearly banquet
+    - Recognition on team multimedia publications
     - Featured as team sponsor on team t-shirts
     - Recognition on our team’s social media (Instagram, Facebook, Twitter)
-    - Recognition on team multimedia publications
     - Featured as team sponsor on team website
     - Team “Thank You” bag with merchandise
+    - Invitation to yearly banquet
+
 
 - name: Platinum
   id: 4
@@ -23,16 +23,17 @@
   money: "$7,500-$9,999"
   show: false
   benefits:
+    - Featured as team sponsor on our competition robot (Large Logo)
+    - Featured as team sponsor at our pit at FRC Competitions (Medium Logo)
     - Demonstration of our competition robot at sponsor facility
-    - Featured as team sponsor at our pit at FRC Competitions
     - Plaque of appreciation and gift basket
-    - Featured as team sponsor on our competition robot
-    - Invitation to yearly banquet
+    - Recognition on team multimedia publications
     - Featured as team sponsor on team t-shirts
     - Recognition on our team’s social media (Instagram, Facebook, Twitter)
-    - Recognition on team multimedia publications
     - Featured as team sponsor on team website
     - Team “Thank You” bag with merchandise
+    - Invitation to yearly banquet
+
 
 - name: Gold
   id: 3
@@ -40,15 +41,16 @@
   money: "$5,000-$7,499"
   show: true
   benefits:
-    - Featured as team sponsor at our pit at FRC Competitions
+    - Featured as team sponsor on our competition robot (Medium Logo)
+    - Featured as team sponsor at our pit at FRC Competitions (Small Logo)
     - Plaque of appreciation and gift basket
-    - Featured as team sponsor on our competition robot
-    - Invitation to yearly banquet
+    - Recognition on team multimedia publications
     - Featured as team sponsor on team t-shirts
     - Recognition on our team’s social media (Instagram, Facebook, Twitter)
-    - Recognition on team multimedia publications
     - Featured as team sponsor on team website
     - Team “Thank You” bag with merchandise
+    - Invitation to yearly banquet
+
 
 - name: Silver
   id: 2
@@ -56,13 +58,14 @@
   money: "$2,500-$4,999"
   show: true
   benefits:
-    - Featured as team sponsor on our competition robot
-    - Invitation to yearly banquet
+    - Featured as team sponsor on our competition robot (Small Logo)
+    - Recognition on team multimedia publications
     - Featured as team sponsor on team t-shirts
     - Recognition on our team’s social media (Instagram, Facebook, Twitter)
-    - Recognition on team multimedia publications
     - Featured as team sponsor on team website
     - Team “Thank You” bag with merchandise
+    - Invitation to yearly banquet
+
 
 - name: Bronze
   id: 1
@@ -72,9 +75,10 @@
   benefits:
     - Featured as team sponsor on team t-shirts
     - Recognition on our team’s social media (Instagram, Facebook, Twitter)
-    - Recognition on team multimedia publications
     - Featured as team sponsor on team website
     - Team “Thank You” bag with merchandise
+    - Invitation to yearly banquet
+
 
 - name: Friend
   id: 0
@@ -84,6 +88,8 @@
   benefits:
     - Featured as team sponsor on team website
     - Team “Thank You” bag with merchandise
+    - Invitation to yearly banquet
+
 
 - name: In-Kind
   color: black
