@@ -7,6 +7,7 @@ categories: preseason
 ---
 
 Hey all!
+
 It's a bit late, but we hope everyone has had a good start to their school year! We're already more than halfway to build season... meaning it's time for a preseason update! Below you'll find what each division has been up to since the start of the school year, as well a recap on past events and where you'll find Team 3128 next.
 
 
