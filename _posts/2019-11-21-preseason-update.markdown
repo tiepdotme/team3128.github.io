@@ -8,7 +8,9 @@ categories: preseason
 
 Hey all!
 
-It's a bit late, but we hope everyone has had a good start to their school year! We're already more than halfway to build season... meaning it's time for a preseason update! Below you'll find what each division has been up to since the start of the school year, as well a recap on past events and where you'll find Team 3128 next.
+It's a bit late, but we hope everyone has had a good start to their school year! We're already more than halfway to build season... meaning it's time for a preseason update! 
+
+Below you'll find what each division has been up to since the start of the school year, as well a recap on past events and where you'll find Team 3128 next.
 
 
   **Mechanical**
@@ -50,4 +52,6 @@ Huge thanks to Teams 1538 - The Holy Cows, Team 2485 - W.A.R. Lords, and Team 50
 
 SBSD's STREAM Fest was also fantastic! Thank you to Solana Beach School District for hosting the event and giving us the opportunity to spread the narwhal spirit! Team members new and old had fun improving their outreach skills while making an impact on the community. We taught kids how to program their own EV3 robot (psst... parents: are your kids interested in STEM? Check out our summer camps here!) and how to feed cargo and hatch panels to Gromit. Again, thank you to SBSD; we hope to be at STREAM Fest again next year!
 
-And that's all for now! Our next update will be at the start of build season, so we wish everyone an amazing holiday season! For  more frequent updates, consider following us in Instagram at [@3128aluminarwhals](https://www.instagram.com/3128aluminarwhals/)!
+And that's all for now! Our next update will be at the start of build season, so we wish everyone an amazing holiday season! 
+
+For  more frequent updates, consider following us on Instagram at [@3128aluminarwhals](https://www.instagram.com/3128aluminarwhals/)!
