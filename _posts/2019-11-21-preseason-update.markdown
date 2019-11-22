@@ -50,7 +50,7 @@ Last month, we attended Battle at the Border, and more recently, Solana Beach Sc
 
 Huge thanks to Teams 1538 - The Holy Cows, Team 2485 - W.A.R. Lords, and Team 5025 - Pacific Steel for hosting the offseason event Battle at the Border! Our team had a blast playing Destination: Deep Space one last time with teams from California while training new members and helping them gain experience through different roles. We had an amazing time working with our alliance partners, Team PATRIBOTS 4738 and Team Paradox 2102! Team 3128 looks forward to attending next year's BatB event.
 
-SBSD's STREAM Fest was also fantastic! Thank you to Solana Beach School District for hosting the event and giving us the opportunity to spread the narwhal spirit! Team members new and old had fun improving their outreach skills while making an impact on the community. We taught kids how to program their own EV3 robot (psst... parents: are your kids interested in STEM? Check out our summer camps here!) and how to feed cargo and hatch panels to Gromit. Again, thank you to SBSD; we hope to be at STREAM Fest again next year!
+SBSD's STREAM Fest was also fantastic! Thank you to Solana Beach School District for hosting the event and giving us the opportunity to spread the narwhal spirit! Team members new and old had fun improving their outreach skills while making an impact on the community. We taught kids how to program their own EV3 robot (parents: are your kids interested in STEM? Check out our summer camps [here](team3128.org/camp)!)and how to feed cargo and hatch panels to Gromit. Again, thank you to SBSD; we hope to be at STREAM Fest again next year!
 
 And that's all for now! Our next update will be at the start of build season, so we wish everyone an amazing holiday season! 
 
