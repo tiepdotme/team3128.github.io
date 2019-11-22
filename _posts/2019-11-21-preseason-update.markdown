@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2019-2020 Preseason Update"
-date: 2017-11-21  3:00:00 -0800
+date: 2019-11-21  3:00:00 -0800
 author: Carolyn C.
 categories: preseason
 ---
