@@ -1,16 +1,30 @@
 # 2018/2019 Sponsor
  - level: Title
+   name: McCarthy Family Foundation
+   description:	 The San Diego Legion Rugby Team is one of the first professional American Major League Rugby Teams. Started in 2017, the Legion plays at Torero Stadium on the campus of the University of San Diego. The Aluminum Narwhals are proud to be the first robotics team in the world to be sponsored by an American Rugby Team. Don't forget to catch out guest appearances at SD Legion's home games!
+   logo: /assets/sponsorlogos/sdlegion.png
+   link: http://mccarthyfamilyfdn.org/
+
+# 2018/2019 Sponsor
+ - level: Title
    name: San Diego Legion Rugby Team
    description:	 The San Diego Legion Rugby Team is one of the first professional American Major League Rugby Teams. Started in 2017, the Legion plays at Torero Stadium on the campus of the University of San Diego. The Aluminum Narwhals are proud to be the first robotics team in the world to be sponsored by an American Rugby Team. Don't forget to catch out guest appearances at SD Legion's home games!
    logo: /assets/sponsorlogos/sdlegion.png
    link: https://www.sdlegion.com/
 
 # 2018/2019 Sponsor
- - level: Gold
+ - level: Platinum
    name: DoDSTEM
    description: DoDSTEM is a program run by the United States Department of Defense to provide STEM education opportunities to students outside of the classroom. DoDSTEM provides grants to FIRST Robotics Competition teams to help them achieve their goals.
    logo: /assets/sponsorlogos/dodstem.png
    link: https://dodstem.us
+   
+# 2018/2019 Sponsor
+ - level: Gold
+   name: ViaSat
+   description: ViaSat Inc. is a San Diego-based provider of satellite wireless and broadband services, infrastructure, and technology. They provide satellite internet servies to consumers, businesses, governments, and military worldwide.
+   logo: /assets/sponsorlogos/viasat.png
+   link: http://viasat.com
 
 # 2018/2019 Sponsor
  - level: Silver
@@ -21,10 +35,24 @@
 
 # 2018/2019 Sponsor
  - level: Silver
-   name: ViaSat
+   name: Google
    description: ViaSat Inc. is a San Diego-based provider of satellite wireless and broadband services, infrastructure, and technology. They provide satellite internet servies to consumers, businesses, governments, and military worldwide.
    logo: /assets/sponsorlogos/viasat.png
-   link: http://viasat.com
+   link: https://www.google.com/
+   
+# 2018/2019 Sponsor
+ - level: Silver
+   name: Gene Haas
+   description: ViaSat Inc. is a San Diego-based provider of satellite wireless and broadband services, infrastructure, and technology. They provide satellite internet servies to consumers, businesses, governments, and military worldwide.
+   logo: /assets/sponsorlogos/viasat.png
+   link: https://ghaasfoundation.org/
+   
+# 2018/2019 Sponsor
+ - level: Silver
+   name: Leidos
+   description: ViaSat Inc. is a San Diego-based provider of satellite wireless and broadband services, infrastructure, and technology. They provide satellite internet servies to consumers, businesses, governments, and military worldwide.
+   logo: /assets/sponsorlogos/viasat.png
+   link: https://www.leidos.com/
 
 # 2018/2019 Sponsor
  - level: Bronze
@@ -32,6 +60,20 @@
    description: Solar Turbines, a wholly owned subsidiary of Caterpillar Inc., is a global company with more than 50 service locations spread across the world. Solar is a responsible member of the global community with a commitment to meet energy demands in an environmentally sound and sustainable manner. 
    logo: /assets/sponsorlogos/SolarTurbines.png
    link: https://www.solarturbines.com/
+   
+ # 2018/2019 Sponsor
+ - level: Bronze
+   name: BAE Systems
+   description: Solar Turbines, a wholly owned subsidiary of Caterpillar Inc., is a global company with more than 50 service locations spread across the world. Solar is a responsible member of the global community with a commitment to meet energy demands in an environmentally sound and sustainable manner. 
+   logo: /assets/sponsorlogos/SolarTurbines.png
+   link: https://www.baesystems.com/en/home
+   
+ # 2018/2019 Sponsor
+ - level: Bronze
+   name: Intuitive
+   description: Solar Turbines, a wholly owned subsidiary of Caterpillar Inc., is a global company with more than 50 service locations spread across the world. Solar is a responsible member of the global community with a commitment to meet energy demands in an environmentally sound and sustainable manner. 
+   logo: /assets/sponsorlogos/SolarTurbines.png
+   link: https://www.intuitive.com/en-us
    
 # 2018/2019 Sponsor
  - level: Bronze
