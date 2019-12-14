@@ -1,16 +1,9 @@
-# 2018/2019 Sponsor
+# 2019/2020 Sponsor
  - level: Title
    name: McCarthy Family Foundation
-   description:	 The San Diego Legion Rugby Team is one of the first professional American Major League Rugby Teams. Started in 2017, the Legion plays at Torero Stadium on the campus of the University of San Diego. The Aluminum Narwhals are proud to be the first robotics team in the world to be sponsored by an American Rugby Team. Don't forget to catch out guest appearances at SD Legion's home games!
+   description:	The McCarthy Family Foundation is a small private foundation established in 1988; organized as a California public benefit nonprofit corporation, it operates from San Diego, California. Their main funding areas are: K-12 science education; HIV/AIDS research, education and direct services; assistance to homeless persons; and child abuse prevention and services for victims and families.
    logo: /assets/sponsorlogos/sdlegion.png
    link: http://mccarthyfamilyfdn.org/
-
-# 2018/2019 Sponsor
- - level: Title
-   name: San Diego Legion Rugby Team
-   description:	 The San Diego Legion Rugby Team is one of the first professional American Major League Rugby Teams. Started in 2017, the Legion plays at Torero Stadium on the campus of the University of San Diego. The Aluminum Narwhals are proud to be the first robotics team in the world to be sponsored by an American Rugby Team. Don't forget to catch out guest appearances at SD Legion's home games!
-   logo: /assets/sponsorlogos/sdlegion.png
-   link: https://www.sdlegion.com/
 
 # 2018/2019 Sponsor
  - level: Platinum
@@ -36,21 +29,21 @@
 # 2018/2019 Sponsor
  - level: Silver
    name: Google
-   description: ViaSat Inc. is a San Diego-based provider of satellite wireless and broadband services, infrastructure, and technology. They provide satellite internet servies to consumers, businesses, governments, and military worldwide.
+   description: Google is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, search engine, cloud computing, software, and hardware. It is considered one of the Big Four technology companies.
    logo: /assets/sponsorlogos/viasat.png
    link: https://www.google.com/
    
 # 2018/2019 Sponsor
  - level: Silver
    name: Gene Haas
-   description: ViaSat Inc. is a San Diego-based provider of satellite wireless and broadband services, infrastructure, and technology. They provide satellite internet servies to consumers, businesses, governments, and military worldwide.
+   description: In 1999 Gene Haas founded the Gene Haas Foundation. Haas is the owner Haas Automation, Inc., America’s leading builder of CNC machine tools, which he started in 1983. GHF’s primary goal is to build skills in the machining industry by providing scholarships for CNC machine technology students and NIMS credentials.
    logo: /assets/sponsorlogos/viasat.png
    link: https://ghaasfoundation.org/
    
 # 2018/2019 Sponsor
  - level: Silver
    name: Leidos
-   description: ViaSat Inc. is a San Diego-based provider of satellite wireless and broadband services, infrastructure, and technology. They provide satellite internet servies to consumers, businesses, governments, and military worldwide.
+   description: Leidos is an American defense, aviation, information technology, and biomedical research company that provides scientific, engineering, systems integration, and technical services. Their technology-driven business solves the toughest scientific and engineering problems for customers.
    logo: /assets/sponsorlogos/viasat.png
    link: https://www.leidos.com/
 
@@ -64,41 +57,48 @@
  # 2018/2019 Sponsor
  - level: Bronze
    name: BAE Systems
-   description: Solar Turbines, a wholly owned subsidiary of Caterpillar Inc., is a global company with more than 50 service locations spread across the world. Solar is a responsible member of the global community with a commitment to meet energy demands in an environmentally sound and sustainable manner. 
+   description: BAE Systems, Inc. is the U.S. subsidiary of BAE Systems plc, an international defense, aerospace and security company which delivers a full range of products and services for air, land and naval forces, as well as advanced electronics, security, information technology solutions and customer support services.
    logo: /assets/sponsorlogos/SolarTurbines.png
    link: https://www.baesystems.com/en/home
    
  # 2018/2019 Sponsor
  - level: Bronze
    name: Intuitive
-   description: Solar Turbines, a wholly owned subsidiary of Caterpillar Inc., is a global company with more than 50 service locations spread across the world. Solar is a responsible member of the global community with a commitment to meet energy demands in an environmentally sound and sustainable manner. 
+   description: Intuitive Surgical Inc. is an American corporation that develops, manufactures and markets robotic products designed to improve clinical outcomes of patients through minimally invasive surgery, most notably with the da Vinci Surgical System.
    logo: /assets/sponsorlogos/SolarTurbines.png
    link: https://www.intuitive.com/en-us
    
-# 2018/2019 Sponsor
- - level: Bronze
-   name: Eurofins Lancaster Laboratories
-   description: Founded in 1961, Eurofins Lancaster Laboratories is a global leader in bio/pharmaceutical laboratory services, providing innovative and timely scientific solutions that enable customers to better manage the drug development process.
-   logo: /assets/sponsorlogos/eurofins.png
-   link: https://www.eurofinsus.com/biopharma-services/laboratories/lancaster-laboratories/
-   
-# 2018/2019 Sponsor
- - level: Bronze
-   name: DRS Daylight Solutions
-   description: DRS Daylight Solutions is a world Leader in Quantum Cascade Laser Technology. DRS Daylight Solutions and its wholly-owned subsidiary, DRS Daylight Defense, which delivers classified, military-hardened products to the defense industry, are both advanced in manufacturing capabilities.
-   logo: /assets/sponsorlogos/drs.png
-   link: https://www.daylightsolutions.com/
-
 # 2018/2019 Sponsor
  - level: In-Kind
    name: Solidworks
    description: Solidworks is a Computer Aided Design program created by Dassault Systems that allows organizations of all industries to model in 3D. Additionally, FRC teams such as our own are provided with Solidworks licenses in order to design our robots.
    logo: /assets/sponsorlogos/solidworks.png
    link: http://www.3ds.com/products-services/solidworks/
+   
+# 2018/2019 Sponsor
+# - level: Title
+#  name: San Diego Legion Rugby Team
+#  description:	 The San Diego Legion Rugby Team is one of the first professional American Major League Rugby Teams. Started in 2017, the Legion plays at Torero Stadium on the campus of the University of San Diego. The Aluminum Narwhals are proud to be the first robotics team in the world to be sponsored by an American Rugby Team. Don't forget to catch out guest appearances at SD Legion's home games!
+#  logo: /assets/sponsorlogos/sdlegion.png
+#  link: https://www.sdlegion.com/
 
 # 2018/2019 Sponsor
- - level: In-Kind
-   name: Velox CNC
-   description: VELOX CNC offers solid CNC router solutions that save you both time and money. Our Velox CNC was a solid investment, as it cuts faster, wastes less material, and gets the job done right the first time.
-   logo: /assets/sponsorlogos/velox.png
-   link: https://www.veloxcncrouters.com/
+# - level: Bronze
+#   name: Eurofins Lancaster Laboratories
+#   description: Founded in 1961, Eurofins Lancaster Laboratories is a global leader in bio/pharmaceutical laboratory services, providing innovative and timely scientific solutions that enable customers to better manage the drug development process.
+#   logo: /assets/sponsorlogos/eurofins.png
+#   link: https://www.eurofinsus.com/biopharma-services/laboratories/lancaster-laboratories/
+ 
+# 2018/2019 Sponsor
+# - level: Bronze
+#  name: DRS Daylight Solutions
+#  description: DRS Daylight Solutions is a world Leader in Quantum Cascade Laser Technology. DRS Daylight Solutions and its wholly-owned subsidiary, DRS Daylight Defense, which delivers classified, military-hardened products to the defense industry, are both advanced in manufacturing capabilities.
+#  logo: /assets/sponsorlogos/drs.png
+#  link: https://www.daylightsolutions.com/
+
+# 2018/2019 Sponsor
+# - level: In-Kind
+#   name: Velox CNC
+#   description: VELOX CNC offers solid CNC router solutions that save you both time and money. Our Velox CNC was a solid investment, as it cuts faster, wastes less material, and gets the job done right the first time.
+#   logo: /assets/sponsorlogos/velox.png
+#   link: https://www.veloxcncrouters.com/
