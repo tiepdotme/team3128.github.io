@@ -15,7 +15,7 @@ During pre-season (Fall through the beginning of Winter Break), our team meets M
 
 Each month, the leadership team holds a meeting where they discuss the happenings of the team and set the course for the overall year. For the 2019-20 year, leadership meetings will happen every Friday from around 5:00 pm - 6:00 pm unless otherwise noted.
 
-**Tentative Self-Nominations Open:** May 4nd, 2020  
+**Tentative Self-Nominations Open:** May 4th, 2020  
 **Self-Nominations Close:** May 20th, 2020  
 **Election Day:** TBD, 2020
 
