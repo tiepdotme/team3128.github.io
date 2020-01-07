@@ -39,11 +39,6 @@ Below you'll find what each division has been up to since the start of the schoo
 
 Narwhals: If you want to buy merch, please DM @Arya or @Francesca on Slack!
 
-
-**Upcoming Outreach Events**
-
-Gromit and our blessing of narwhals will be appearing one last time before build season at the 2019 STEAM Maker Festival on Saturday, December 7. Don't miss this opportunity to interact with our robot and learn more about the team! You can learn more about the STEAM Maker Festival [here](https://sansmf.org/).
-
 **Past Outreach**
 
 Last month, we attended Battle at the Border, and more recently, Solana Beach School District's annual STREAM Fest.
