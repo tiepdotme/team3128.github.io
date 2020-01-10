@@ -75,7 +75,7 @@ For the 2019-2020 school year, Build Season begins on Saturday, January 4, 2020 
 + [San Diego Regional FRC Competition](https://www.thebluealliance.com/event/2020casd)
 + Del Mar Racetrack and Fairgrounds
 
-**Idaho Regional** (travel team only) March 25 - March 29, 2019  
+**Idaho Regional** (travel team only) March 26 - March 28, 2020  
 + [Idaho Regional FRC Competition](https://www.thebluealliance.com/event/2020idbo)
 + (Tuesday March 24 and Sunday March 29 are travel days)
 + hosted at Ford Idaho Center Arena 16200 N Idaho Center Blvd, Nampa, ID 83687, USA
