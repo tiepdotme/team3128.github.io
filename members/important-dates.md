@@ -29,8 +29,8 @@ For the 2019-2020 school year, Build Season begins on Saturday, January 4, 2020 
 
 + Monday *3:00 pm – 6:00 pm*
 + Thursday-Friday *3:00 pm - 6:00 pm*
-+ Saturday *9:00 am – 4:00 pm*  
-(dependent on Coach availability, please check Slack and weekly emails for latest updates; Sundays as needed)
++ Saturday *9:00 am – 5:00 pm*  
+(dependent on Coach availability, please check Slack and weekly emails for latest updates; Sundays are open on long weekends)
 
 **Special Meeting Dates:** Below are a list of special time alterations to the normal build season schedule:
 
@@ -41,7 +41,7 @@ For the 2019-2020 school year, Build Season begins on Saturday, January 4, 2020 
 + Wednesday, January 22nd – Finals Prep  
 *NO MEETING*
 + Thursday, January 23rd – Finals Prep  
-*NO MEETING*  
+*NO MEETING*
 + Monday, January 27th – Teacher Prep (No School)  
 *Either Monday or Tuesday will be open; CCA 9:00 am – 4:00 pm*  
 + Tuesday, January 28th – Teacher Inservice (No School)  
@@ -49,9 +49,9 @@ For the 2019-2020 school year, Build Season begins on Saturday, January 4, 2020 
 + Friday, February 14th – Lincoln Day (No School)  
 *TBD*  
 + Saturday - Sunday, February 15-16th – President's Day Weekend  
-*TBD*  
+*TBD, open Sunday CCA 9:00 am - 5:00 pm*  
 + Monday, February 17th – Washington Day (No School)  
-*TBD*  
+*CCA 9:00 am - 5:00 pm*  
 <!--
 + Tuesday, February 19th – Bag Day
 *CCA 3:00 pm – 9:00 pm*  (Followed by our traditional trip to In-and-Out for dinner)
