@@ -32,8 +32,10 @@ For the 2019-2020 school year, Build Season begins on Saturday, January 4, 2020 
 + Saturday *9:00 am – 5:00 pm*  
 (dependent on Coach availability, please check Slack and weekly emails for latest updates; Sundays are open on long weekends)
 
-**Special Meeting Dates:** Below are a list of special time alterations to the normal build season schedule:
+**Special Meeting Dates:**
 
+Refer to the [Calendar](http://team3128.org/members/calendar/) for any special meeting dates.
+<!--
 + Saturday, January 4th – Build Season Kickoff Day  
 *CCA 7:00 am – 4:00 pm*  
 + Monday, January 20th – Martin Luther King, Jr. Day (No School)  
@@ -52,7 +54,6 @@ For the 2019-2020 school year, Build Season begins on Saturday, January 4, 2020 
 *TBD, open Sunday CCA 9:00 am - 5:00 pm*  
 + Monday, February 17th – Washington Day (No School)  
 *CCA 9:00 am - 5:00 pm*  
-<!--
 + Tuesday, February 19th – Bag Day
 *CCA 3:00 pm – 9:00 pm*  (Followed by our traditional trip to In-and-Out for dinner)
 -->
