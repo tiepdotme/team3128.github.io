@@ -36,25 +36,25 @@ For the 2019-2020 school year, Build Season begins on Saturday, January 4, 2020 
 
 Refer to the [Calendar](http://team3128.org/members/calendar/) for any special meeting dates.
 <!--
-+ Saturday, January 4th – Build Season Kickoff Day  
+Saturday, January 4th – Build Season Kickoff Day  
 *CCA 7:00 am – 4:00 pm*  
-+ Monday, January 20th – Martin Luther King, Jr. Day (No School)  
+Monday, January 20th – Martin Luther King, Jr. Day (No School)  
 *CCA 9:00 am – 6:00 pm*  
-+ Wednesday, January 22nd – Finals Prep  
+Wednesday, January 22nd – Finals Prep  
 *NO MEETING*
-+ Thursday, January 23rd – Finals Prep  
+Thursday, January 23rd – Finals Prep  
 *NO MEETING*
-+ Monday, January 27th – Teacher Prep (No School)  
+Monday, January 27th – Teacher Prep (No School)  
 *Either Monday or Tuesday will be open; CCA 9:00 am – 4:00 pm*  
-+ Tuesday, January 28th – Teacher Inservice (No School)  
+Tuesday, January 28th – Teacher Inservice (No School)  
 *Either Monday or Tuesday will be open; CCA 9:00 am – 4:00 pm*  
-+ Friday, February 14th – Lincoln Day (No School)  
+Friday, February 14th – Lincoln Day (No School)  
 *TBD*  
-+ Saturday - Sunday, February 15-16th – President's Day Weekend  
+Saturday - Sunday, February 15-16th – President's Day Weekend  
 *TBD, open Sunday CCA 9:00 am - 5:00 pm*  
-+ Monday, February 17th – Washington Day (No School)  
+Monday, February 17th – Washington Day (No School)  
 *CCA 9:00 am - 5:00 pm*  
-+ Tuesday, February 19th – Bag Day
+Tuesday, February 19th – Bag Day
 *CCA 3:00 pm – 9:00 pm*  (Followed by our traditional trip to In-and-Out for dinner)
 -->
 
