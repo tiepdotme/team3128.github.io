@@ -9,8 +9,10 @@ Our robotics summer camp is one of our main ways that we are able to contribute 
 
 Campers complete a series of tasks with their robots that walk them through programming basic motors and sensors, and all of these concepts culminate into one complex challenge that tests all of their newly acquired abilities at the end of the week. We do all of this in a fun camp environment where campers can also take part in various recreational activities.
 
-By hosting it at Canyon Crest Academy and inviting team members to partake as counselors, we continue to foster a culture within our own team of spreading excitement about robotics and passing on what we’ve learned. Outside the team, camp also provides us a medium through which we can actively encourage the growth of young minds within our community.
+By inviting team members to partake as counselors and alumni as head counselors, we continue to foster a teamwide culture of spreading excitement about robotics and passing on what we’ve learned. Outside the team, camp also provides us a medium through which we can actively encourage the growth of young minds within our community.
 
 Not only do we engage the younger members of our community, but by hosting summer camps we also are able to help fund the academics at our school and allow our own team to grow and invest in new technologies.
 
-For more information, visit the
+This summer, camp will be held weekly from July 13, 2020 to July 31, 2020 for rising 1st to 8th graders.
+
+For information on registration, our programs, and more, visit our [camp website](team3128.org/camp).
