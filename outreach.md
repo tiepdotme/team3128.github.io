@@ -1,7 +1,7 @@
 ---
 layout: single_page
 title: Outreach
-permalink: /outreach/
+permalink: /outr/
 ---
 
 One of the most important goals we have as a team is to continuously increase the positive impact we have within our community. 
