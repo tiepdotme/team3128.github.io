@@ -25,6 +25,9 @@
 
 - title: Outreach
   permalink: /outreach/
+  subpages:
+  - title: Summer Camp
+    permalink: /outreach/camp/
 
 - title: Blog
   permalink: /blog/
