@@ -1,7 +1,7 @@
 ---
 layout: grouped_page
 title: Outreach
-subtitle: Making Waves in the Community
+subtitle: Making Waves
 permalink: /outreach/
 ---
 
