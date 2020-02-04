@@ -19,24 +19,23 @@
      permalink: /about/website/
    - title: Outreach
      permalink: /outreach/
-     subpages:
-      - title: Making Waves
-        permalink: /outreach/
-      - title: Summer Camp
-        permalink: /outreach/camp/
-      - title: Exhibitions
-        permalink: /outreach/exhibitions/
-      - title: Mentoring 
-        permalink: /outreach/mentoring/
-      - title: School Visits
-        permalink: /outreach/visits/
      
-
 - title: Sponsors
   permalink: /sponsors/
     
-- title: Camp
-  permalink: /camp/
+- title: Outreach
+  permalink: /outreach/
+  subpages:
+  - title: Making Waves
+    permalink: /outreach/
+  - title: Summer Camp
+    permalink: /outreach/camp/
+  - title: Exhibitions
+    permalink: /outreach/exhibitions/
+  - title: Mentoring 
+    permalink: /outreach/mentoring/
+  - title: School Visits
+    permalink: /outreach/visits/
 
 - title: Blog
   permalink: /blog/
