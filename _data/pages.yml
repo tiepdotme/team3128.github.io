@@ -36,6 +36,9 @@
     permalink: /outreach/mentoring/
   - title: School Visits
     permalink: /outreach/visits/
+    
+- title: Camp
+  permalink: /camp/
 
 - title: Blog
   permalink: /blog/
@@ -57,18 +60,19 @@
      permalink: /members/leadership/
    - title: Important Dates
      permalink: /members/important-dates/
+   - title: Resources
+     permalink: /members/resources
    - title: Donate
      permalink: /support-us/donate/
 
-- title: Resources
-  permalink: /resources/
-  subpages:
-   - title: Team Information
-     permalink: /resources/
-   - title: Branding
-     permalink: /resources/branding/
-   - title: Technical
-     permalink: /resources/technical/
+#  permalink: /resources/
+#  subpages:
+#   - title: Team Information
+#     permalink: /resources/
+#   - title: Branding
+#     permalink: /resources/branding/
+#   - title: Technical
+#     permalink: /resources/technical/
 
 - title: Support Us
   permalink: /support-us/
