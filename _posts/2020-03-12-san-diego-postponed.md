@@ -6,7 +6,7 @@ author: Carolyn C.
 categories: competition-season
 ---
 
-Hi all!
+Hi all! 
 
 It is with great regret I inform y'all so early in the morning that the San Diego Regional (3/11-3/14) has been postponed to an unknown date.
 
