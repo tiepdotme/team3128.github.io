@@ -11,7 +11,6 @@ Hi all!
 It is with great regret I inform y'all so early in the morning that the San Diego Regional (3/11-3/14) has been postponed to an unknown date.
 
 Due to the prevalence of coronavirus, it has been highly recommended by the state of California that all gatherings of 250+ individuals be postponed or cancelled. FIRST HQ has decided to pursue this recommendation; thus, at 6:30 this morning, a notice was sent out from FIRST to our mentor, Chris Low:
-
 <div style="white-space: pre-wrap;">
   <code>
     Good Morning FRC Team Leaders,
