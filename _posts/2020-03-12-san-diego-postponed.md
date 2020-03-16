@@ -15,17 +15,17 @@ Due to the prevalence of coronavirus, it has been highly recommended by the stat
 <div style="white-space: pre-wrap;">
   <code>
     Good Morning FRC Team Leaders,
-    <br>
+ 
     I am writing to share hugely disheartening news that as a result of the quickly evolving COVID-19 situation and the California    Governor’s announcement of new guidelines released by the California Public Health Department that large gatherings over 250 people should be postponed or canceled, we have made the decision with leadership at FIRST Headquarters to postpone the San Diego Regional effective immediately.
-    <br>
+   
     California Health Department Policy: https://www.cdph.ca.gov/Programs/CID/DCDC/CDPH%20Document%20Library/Gathering_Guidance_03.11.20.pdf
-    <br>
+   
     We are disappointed that teams will not have a chance to compete this weekend and we recognize there will be many questions about how this will affect the remainder of the season, yet the health and safety of our teams, volunteers and community are top priority. The new dates for the San Diego Regional have not yet been set, but we are working closely with FIRST Headquarters to determine next steps. As soon as we have more details, we will share.
-    <br>
+  
     For teams that have already loaded in, we ask that you begin a safe load out this morning with 5 team members. If your team has not loaded in yet, you do not need to come as you won’t be admitted into the event.
-    <br>
+   
     This is a dynamically changing situation, and we greatly appreciate your understanding and gracious professionalism during these uncertain and challenging times.
-    <br>
+   
     Thank you so much!
 </code>
 </div>
