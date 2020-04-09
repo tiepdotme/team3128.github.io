@@ -10,6 +10,14 @@
 #   weight: 312.8 lbs
 #   speed: 31.28 mph
 #   description: blah blah blah #a cool and nice mini-bio about the robot (i.e. the story of its ideation, any fun anecdotes about construction/design changes, and how well it did)
+- year: 2020
+  game: "INFINITE RECHARGE"
+  name: Cheems the Harvester of Souls
+  stats: true
+  dimensions: 25" W x 28" L x 44.7" H
+  weight: 110 lbs
+  speed: 10.9 mph
+  description: Cheems is a transforming arm bot comprising a high-speed four Falcon 500 drivetrain with a shooter at the end of the large arm driven by two Falcon 500s. This year we decided to make a bot that could drive under the control panel and also shoot over tall bots. Cheems had a hopper and Power Cell manipulator that would work at any arm angle. Cheems also fashioned a passively deployed polycarbonate intake with two bumper-wide rollers, which passed balls to Cheems' indexer, allowing for the Power Cells to be organized into a single-file line and traverse to the shooter. Finally, our climb mechanism. Our climb was able to deploy in a split second because we had constant force springs on the climber so that when the arm went past a certain angle the climber ends would hit a hard stop and rapidly deploy. Then it would winch itself up using two BAG motors. Though Cheems only had the opportunity to perform at Del Mar Regional, we are very proud of the work we put in and have learned greatly from this season.
 
 - year: 2019
   game: "DESTINATION: DEEP SPACE"
