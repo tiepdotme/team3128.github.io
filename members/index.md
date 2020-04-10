@@ -51,10 +51,10 @@ Our Workshop is located right under the Learning Commons. [You can see where our
 
 After you’ve signed up, there are lots of different ways to grow your skills:
 
-<img src="/assets/page_photos/members/1.jpg" class="leftimage">
+<img src="/assets/page_photos/members/11.jpg" class="leftimage">
 
 **Learn your way around the workshop.** Through various talks and hands-on explanations, mentors and students explain how to use various tools and the various procedures of the team.  
-**Attend Workshops and Classes,** Throughout preseason, our members and mentors will be giving lessons and working with new members to help them learn more and be ready for build season.  
+**Attend Workshops and Classes.** Throughout preseason, our members and mentors will be giving lessons and working with new members to help them learn more and be ready for build season.  
 **Be Involved.** Often, the best learning experience comes with jumping right into it. With the guidance of more experienced mentors and members, pursue projects and participate in what interests you.  
 **Take a look at our team resources.** Our team has collected information that we think is important, and you can find all of that on [our resources page](/resources/).
 
