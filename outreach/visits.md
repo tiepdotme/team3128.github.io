@@ -1,8 +1,8 @@
 ---
 layout: grouped_page
 title: Outreach
-subtitle: School Visits
-permalink: /outreach/visits/
+subtitle: School Visits and Presentations
+permalink: /outreach/presentations/
 ---
 
 Every year, the Aluminum Narwhals attend different schools in San Diego county to present and demonstrate the year’s competition robot to elementary and middle school students. In presenting, we aim to promote the ideals and goals of the FIRST program, encouraging schools to establish or support their own FIRST teams and STEM programs.
