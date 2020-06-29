@@ -24,13 +24,13 @@ Coach
 [mary@team3128.org](mailto:mary@team3128.org)
 
 **Student Leadership**  
-*Amelia B.*  
+*Christopher C.*  
 President  
-[amelia@team3128.org](mailto:amelia@team3128.org)
+[christopher@team3128.org](mailto:christopher@team3128.org)
 
-*Esme A.*  
+*Carolyn C.*  
 President  
-[esme@team3128.org](mailto:esme@team3128.org)
+[carolyn@team3128.org](mailto:carolyn@team3128.org)
 
 **Item Requests:**  
 If you would like to request an item for the workshop, the robot, or robotics, [tell us here](https://docs.google.com/forms/d/e/1FAIpQLSeDOGKZMsi8F6hn1Md16a8cnNyxb3TEy5sdJTwQK0GUv-Sf8w/viewform)
