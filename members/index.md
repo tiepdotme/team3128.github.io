@@ -10,9 +10,11 @@ redirect_from:
 
 ## Join the Team!
 
-<!-- 
+<!--
 If you are interested in joining the team, come to our **Intro Day** on **September 13th at 3:00pm at the workshop**! The week of September 16th - 20th, our shop will be open every day Monday - Friday for NarWeek, to give members a more extensive introduction to the team and what we do. On Intro Day, each of our five divisions (Mechanical, Controls, Business, Marketing, and Strategy) will be giving a brief introduction of what they do. After Intro Day is NarWeek, where every day we will dive headfirst into all that FRC has to offer, looking at all of the aspects of our team and how our departments work together to make Team 3128 run as best as it can. 
 -->
+
+If you are interested in joining the team, come to our **Intro Day** on **September 18th at 3:15pm**!  On Intro Day, new members will get a chance to virtually meet veteran members and each other to learn all about our team—from our culture to the work we do in each of our divisions. After Intro Day is NarWeek, where every day we will dive headfirst into all that FRC has to offer, looking at all of the aspects of our team and how our departments work together. **NarWeek** will run from **September 21th - 25th at 3:15pm** every day, and allow members to get a more extensive introduction to what each of our five divisions do (Mechanical, Controls, Business, Marketing, and Strategy). If you're interested in coming, fill out [this form](http://eepurl.com/hbg-of) and we'll email you more details soon!
 
 <!--
 That said, do not worry if you are joining the team after Intro Day and NarWeek! Simply stop by the workshop on one of our meeting days (Mondays, Thursdays, and Fridays after school), find one of our student leaders or mentors, and we will get you started on everything you need to know.
