@@ -59,43 +59,43 @@
 #   Leaders
 
 - group: leaders
-  name: Amelia Burns
-  photo: amelia
+  name: Christopher Caligiuri  
   title: President
-  blurb: Now old, Amelia joined as a freshman in the Mechanical department. She has since been involved with machining, CAD, and training new members in mechanical, as well as working with the Strategy department to work through the game manual each year and create match strategies. Amelia has also been Drive Coach for the past few years, and enjoys working with drive team and talking with other teams at competitions while being a Gracious Professional. Amelia always provides almonds to all, and in her free time likes to curate house plants, pet dogs, do archery, and cook.
+#  photo: 
+  blurb: Christopher is a senior and a fourth year member of Team 3128. He first got involved in the FIRST program in 2013 after joining an FLL team with a group of friends and neighbors. As a Narwhal, Christopher spent the past three years in the Controls department, with responsibilities that included supporting the programing and wiring of the robot. At competitions, he can be spotted troubleshooting technical issues and helping other teams. This year, he is looking forward to furthering Team 3128 inclusivity and increasing the teams involvement within the community. Outside of robotics, Christopher enjoys hiking, visiting National Parks, investing, and tinkering with electronics.
 
 - group: leaders
-  name: Esme Abbot
+  name: Carolyn Cui
+ # photo: 
   title: President
-  photo: esme
-  blurb: Esme is a senior at CCA and a fourth-year members of Team 3128. Her projects as a Narwhal have included CAD, machining, and working with FLL teams around San Diego as a mentor. She also loves attending outreach events to demo our robots! At competitions, Esme is often spotted in the pit, speaking about our team with passersby, or participating in the Cotton Eye Joe. Outside of robotics, Esme spends her time rock climbing, baking, and falling down Wikipedia rabbit holes. She is looking forward to another awesome year with the Narwhal Family and the larger FIRST community!
+  blurb: "Carolyn is a senior with this year being her third year on the team. She settled into the new marketing department two years ago after feeling it was a perfect fit and has stuck with it ever since. Later, Carolyn also branched out to managing the team website, team photography, and pursuing numerous outreach opportunities. Outside of robotics, she enjoys writing, programming incorrectly, and procrastinating: you can usually find her doing everything that she's not supposed to be doing. Although this year will be a challenging one, she's looking forward to making the most of it with her fellow narwhals."
 
-- group: leaders
-  name: Justin Yu
-  title: Head of Mechanical
-  photo: justin
-  blurb: Justin is a senior with this being his fourth year on Team 3128. He has had previous experience with FIRST and engineering, having been in FLL and FTC teams in middle school and reaching World Championships every year since the eighth grade. Justin enjoys developing photography, digital design, and dance skills in his free time, and also participates in CCA's Track & Field team. Since joining the Narwhals, he has dedicated his time pursuing design projects with SolidWorks, fabrication projects with various machines, and leading the design processes on FRC competition robot assemblies. This year, Justin is looking forward to no bag.
+# - group: leaders
+#   name: Justin Yu
+#   title: Head of Mechanical
+#   photo: justin
+#   blurb: Justin is a senior with this being his fourth year on Team 3128. He has had previous experience with FIRST and engineering, having been in FLL and FTC teams in middle school and reaching World Championships every year since the eighth grade. Justin enjoys developing photography, digital design, and dance skills in his free time, and also participates in CCA's Track & Field team. Since joining the Narwhals, he has dedicated his time pursuing design projects with SolidWorks, fabrication projects with various machines, and leading the design processes on FRC competition robot assemblies. This year, Justin is looking forward to no bag.
 
-- group: leaders
-  name: Adham Elarabawy
-  photo: adham
-  title: Head of Controls
-  blurb: Adham is a senior with this being his third year on the team. He has been previously involved with robotics through mediums other than FIRST, such as Science Olympiad and his own projects, including an autonomous rc car seeking rooms through a 3D map of points and his own controller board to keep a quadcopter balanced in the air. When he isn’t tinkering around in robotics, he is at work as a computer science intern in multiple software engineering startups. In the free time he has remaining, he likes to play tennis, swim, go to the beach, and 3D print. He is always looking for advanced control schemes and projects to implement in our robots to improve functionality and performance, such as state-space control and autonomous vision alignment. This year, Adham is looking forward to implement many of the cool projects he has learned about, and he can’t wait to bring his fellow narwhals with him along the way!
+# - group: leaders
+#   name: Adham Elarabawy
+#   photo: adham
+#   title: Head of Controls
+#   blurb: Adham is a senior with this being his third year on the team. He has been previously involved with robotics through mediums other than FIRST, such as Science Olympiad and his own projects, including an autonomous rc car seeking rooms through a 3D map of points and his own controller board to keep a quadcopter balanced in the air. When he isn’t tinkering around in robotics, he is at work as a computer science intern in multiple software engineering startups. In the free time he has remaining, he likes to play tennis, swim, go to the beach, and 3D print. He is always looking for advanced control schemes and projects to implement in our robots to improve functionality and performance, such as state-space control and autonomous vision alignment. This year, Adham is looking forward to implement many of the cool projects he has learned about, and he can’t wait to bring his fellow narwhals with him along the way!
 
-- group: leaders
-  name: Zoë Chan
-  title: Head of Business
-  photo: zoe
-  blurb: Zoë Chan is a senior and a fourth year member of the Team 3128. Over the past 3 years, she has been involved in the team’s funding, marketing, outreach, match strategy, and more, as a member of strategy and the head of business for 2 years. This year, Zoë is looking forward to working with the business department to meet with more companies and strengthen the team’s relationships with sponsors for the most successful season yet! Outside of robotics, Zoë enjoys playing club and high school varsity water polo and practicing calligraphy and watercolor painting in her free time.
+# - group: leaders
+#   name: Zoë Chan
+#   title: Head of Business
+#   photo: zoe
+#   blurb: Zoë Chan is a senior and a fourth year member of the Team 3128. Over the past 3 years, she has been involved in the team’s funding, marketing, outreach, match strategy, and more, as a member of strategy and the head of business for 2 years. This year, Zoë is looking forward to working with the business department to meet with more companies and strengthen the team’s relationships with sponsors for the most successful season yet! Outside of robotics, Zoë enjoys playing club and high school varsity water polo and practicing calligraphy and watercolor painting in her free time.
 
-- group: leaders
-  name: Arya Singla
-  title: Head of Marketing
-  photo: arya
-  blurb: Arya is a sophomore with this being her second year on the team. She joined the marketing department because of her interest in public speaking, social media, and pursuing marketing as a future career. As an active member on the team, she has participated in posting quality content on the narwhal Instagram page, @3128aluminarwhals, taking photos at a number of outreach events and competitions, and spreading information about the team and it’s progress throughout the season. She looks forward to making countless new memories with her fellow narwhals and attending more competitions in the future.
+# - group: leaders
+#   name: Arya Singla
+#   title: Head of Marketing
+#   photo: arya
+#   blurb: Arya is a sophomore with this being her second year on the team. She joined the marketing department because of her interest in public speaking, social media, and pursuing marketing as a future career. As an active member on the team, she has participated in posting quality content on the narwhal Instagram page, @3128aluminarwhals, taking photos at a number of outreach events and competitions, and spreading information about the team and it’s progress throughout the season. She looks forward to making countless new memories with her fellow narwhals and attending more competitions in the future.
 
-- group: leaders
-  name: Calvin Page
-  title: Head of Strategy
-  photo: calvin
-  blurb: Calvin is a senior in his fourth year on the team. In his freshman year, he joined the newly founded Strategy department. Since then, Calvin has been part of the strategy department with a focus on data analysis. He has an interest in film and photography. To satisfy his hunger for more Houston, he crowdfunded the team’s Texas shaped waffle maker. As an admin of @metalwhales on Instagram, Calvin is constantly looking for the hottest new memes and potential new admins. This year, he is looking forward to building up the Strategy division further and developing a digital scouting system.
+# - group: leaders
+#   name: Calvin Page
+#   title: Head of Strategy
+#   photo: calvin
+#   blurb: Calvin is a senior in his fourth year on the team. In his freshman year, he joined the newly founded Strategy department. Since then, Calvin has been part of the strategy department with a focus on data analysis. He has an interest in film and photography. To satisfy his hunger for more Houston, he crowdfunded the team’s Texas shaped waffle maker. As an admin of @metalwhales on Instagram, Calvin is constantly looking for the hottest new memes and potential new admins. This year, he is looking forward to building up the Strategy division further and developing a digital scouting system.
