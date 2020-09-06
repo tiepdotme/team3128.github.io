@@ -6,7 +6,7 @@
 # - group: leaders #the group that specifies who the person is
 #   name: Aluminum Narwhal #the name of the person
 #   photo: chris #the filename that contains the person's headshot. the headshot should be located at /assets/page_photos/about/headshots/<group>/<photo>.png. NOTE: if you don't have a headshot, remove this line.
-#   title: Head of Mechtrols #this is the title that the person has. if the person is a leader, it should be Head of <something>; if the person is a mentor, it should be their role (i.e. Lead Mentor) and/or their department(s)
+#   title: Head of Mechtrols #this is the title that the person has. if the person is a leader, it should be <something> Coordinator; if the person is a mentor, it should be their role (i.e. Lead Mentor) and/or their department(s)
 #   blurb: blah blah blah #a mini-bio about the person
 
 #   Mentors
@@ -69,33 +69,3 @@
  # photo: 
   title: President
   blurb: "Carolyn is a senior with this year being her third year on the team. She settled into the new marketing department two years ago and has been there since. Later, Carolyn also branched out to managing the team website, team photography, and pursuing numerous outreach opportunities. Outside of robotics, she enjoys writing, reading, and procrastinating: you can usually find her doing everything that she's not supposed to be doing. Although this year will be a challenging one, she's looking forward to making the most of it with her fellow narwhals."
-
- - group: leaders
-   name: Kevin Zhang
-   title: Business Coordinator
-#   photo: 
-   blurb: 
-   
- - group: leaders
-   name: Mason Holst
-#   photo:
-   title: Controls Coordinator
-   blurb:
-
- - group: leaders
-   name: Francesca Piccioni
-   title: Marketing Coordinator
-#   photo:
-   blurb:
-
- - group: leaders
-   name: Aaron Brucker
-   title: Mechanical Coordinator
-#   photo:
-   blurb:
-
- - group: leaders
-   name: Yashasvi Vangala
-   title: Strategy Coordinator
-#   photo: 
-   blurb:
