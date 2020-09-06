@@ -58,20 +58,37 @@
 
 #   Leaders
 
- - group: leaders
-   name: Christopher Caligiuri  
-   title: President
-#  photo: 
-   blurb: Christopher is a senior and a fourth year member of Team 3128. He first got involved in the FIRST program in 2013 after joining an FLL team with a group of friends and neighbors. As a Narwhal, Christopher spent the past three years in the Controls department, with responsibilities that included supporting the programing and wiring of the robot. At competitions, he can be spotted troubleshooting technical issues and helping other teams. This year, he is looking forward to furthering Team 3128 inclusivity and increasing the teams involvement within the community. Outside of robotics, Christopher enjoys hiking, visiting National Parks, investing, and tinkering with electronics.
+- group: leaders
+  name: Christopher Caligiuri 
+  title: President
+  blurb: Christopher is a senior and a fourth year member of Team 3128. He first got involved in the FIRST program in 2013 after joining an FLL team with a group of friends and neighbors. As a Narwhal, Christopher spent the past three years in the Controls department, with responsibilities that included supporting the programing and wiring of the robot. At competitions, he can be spotted troubleshooting technical issues and helping other teams. This year, he is looking forward to furthering Team 3128 inclusivity and increasing the teams involvement within the community. Outside of robotics, Christopher enjoys hiking, visiting National Parks, investing, and tinkering with electronics.
 
- - group: leaders
-   name: Carolyn Cui
-#  photo: 
-   title: President
-   blurb: Carolyn is a senior with this year being her third year on the team. She settled into the new marketing department two years ago and has been there since. Later, Carolyn also branched out to managing the team website, team photography, and pursuing numerous outreach opportunities. Outside of robotics, she enjoys writing, reading, and procrastinating: you can usually find her doing everything that she's not supposed to be doing. Although this year will be a challenging one, she's looking forward to making the most of it with her fellow narwhals.
-  
- - group: leaders
-   name: Adham Elarabawy
-   photo: adham	
-   title: Head of Controls	
-   blurb: Adham is a senior with this being his third year on the team. He has been previously involved with robotics through mediums other than FIRST, such as Science Olympiad and his own projects, including an autonomous rc car seeking rooms through a 3D map of points and his own controller board to keep a quadcopter balanced in the air. When he isn’t tinkering around in robotics, he is at work as a computer science intern in multiple software engineering startups. In the free time he has remaining, he likes to play tennis, swim, go to the beach, and 3D print. He is always looking for advanced control schemes and projects to implement in our robots to improve functionality and performance, such as state-space control and autonomous vision alignment. This year, Adham is looking forward to implement many of the cool projects he has learned about, and he can’t wait to bring his fellow narwhals with him along the way!
+- group: leaders
+  name: Carolyn Cui
+  title: President
+  blurb: Carolyn is a senior with this year being her third year on the team. She settled into the new marketing department two years ago and has been there since. Later, Carolyn also branched out to managing the team website, team photography, and pursuing numerous outreach opportunities. Outside of robotics, she enjoys writing, reading, and procrastinating- you can usually find her doing everything that she's not supposed to be doing. Although this year will be a challenging one, she's looking forward to making the most of it with her fellow narwhals.
+
+- group: leaders
+  name: Kevin Zhang
+  title: Business Coordinator
+  blurb: 
+
+- group: leaders
+  name: Mason Holst
+  title: Controls Coordinator
+  blurb:
+
+- group: leaders
+  name: Francesca Piccioni
+  title: Marketing Coordinator
+  blurb:
+
+- group: leaders
+  name: Aaron Brucker
+  title: Mechanical Coordinator
+  blurb:
+
+- group: leaders
+  name: Yashasvi Vangala
+  title: Strategy Coordinator
+  blurb:
