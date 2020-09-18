@@ -52,12 +52,14 @@
      permalink: /members/faq/
    - title: Calendar
      permalink: /members/calendar/
-   - title: Workshop Hours
-     permalink: /members/hours/
+  #  - title: Workshop Hours
+  #    permalink: /members/hours/
    - title: Safety
      permalink: /members/safety/
    - title: Team Leadership
      permalink: /members/leadership/
+   - title: Project Leaders
+     permalink: /members/project-leads/
    - title: Important Dates
      permalink: /members/important-dates/
    - title: Donate
