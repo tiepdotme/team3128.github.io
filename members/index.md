@@ -10,25 +10,32 @@ redirect_from:
 
 ## Join the Team!
 
-<!--
+<!-- General/In-Person Intro Day/NarWeek blurb
 If you are interested in joining the team, come to our **Intro Day** on **September 13th at 3:00pm at the workshop**! The week of September 16th - 20th, our shop will be open every day Monday - Friday for NarWeek, to give members a more extensive introduction to the team and what we do. On Intro Day, each of our five divisions (Mechanical, Controls, Business, Marketing, and Strategy) will be giving a brief introduction of what they do. After Intro Day is NarWeek, where every day we will dive headfirst into all that FRC has to offer, looking at all of the aspects of our team and how our departments work together to make Team 3128 run as best as it can. 
 -->
 
+<!-- VIRTUAL Intro Day/NarWeek blurb
 If you are interested in joining the team, come to our **Intro Day** on **September 18th at 3:15pm**!  On Intro Day, new members will get a chance to virtually meet veteran members and each other to learn all about our team—from our culture to the work we do in each of our divisions. After Intro Day is NarWeek, where every day we will dive headfirst into all that FRC has to offer, looking at all of the aspects of our team and how our departments work together. **NarWeek** will run from **September 21th - 25th at 3:15pm** every day, and allow members to get a more extensive introduction to what each of our five divisions do (Mechanical, Controls, Business, Marketing, and Strategy). If you're interested in coming, fill out [this form](http://eepurl.com/hbg-of) and we'll email you more details soon!
+-->
 
-<!--
+<!-- General/In-Person Post-ID/NW blurb
 That said, do not worry if you are joining the team after Intro Day and NarWeek! Simply stop by the workshop on one of our meeting days (Mondays, Thursdays, and Fridays after school), find one of our student leaders or mentors, and we will get you started on everything you need to know.
 -->
+
 <!--
 The process for getting registered with the team is currently being updated, and we will walk you through how to do it once robotics starts back up for the 2019 - 2020 season. The steps for registration will be available in September.
 -->
+
+<!-- uncomment after Oct 9 deadline
 Are you sure you're part of the team for the 2020-2021 school year?
-
 Review the steps below to make sure that you have done everything required to be an official member of Team 3128!
+-->
 
-<!--
+<!-- GENERAL/In-Person Post-ID/NEW Blurb
 Though Intro Day and NarWeek have passed, if you are still interested in joining the team, contact one of our [student leaders](/about/leaders/) for more information, or email [info@team3128.org](mailto:info@team3128.org). Please note that our Mechanical and Controls departments are at capacity for the 2019-20 season. To find out about our other departments, visit [here](/about/departments/).
 -->
+
+Though Intro Day and NarWeek have passed, if you are still interested in joining the team, simply sign up [here](bit.ly/3128new) and follow the steps below, contact one of our [student leaders](/about/leaders/) for more information, or email [info@team3128.org](mailto:info@team3128.org)!
 
 <!--
 To become part of the team, simply follow the steps below:
@@ -39,7 +46,7 @@ To become part of the team, simply follow the steps below:
 2. **Sign up on our [team roster](https://team3128.us17.list-manage.com/subscribe?u=7c13b1f47db9b4f3392eda9f2&id=b93cada25a).** This will get you added to our mailing list so you know everything that is going on.  Please use an email you check regularly.
 <!--3. **Sign up on [STIMS](https://my.firstinspires.org/Dashboard/), our league information manager.** This will let you attend tournaments and be involved in official robotics events off-campus. *This step requires a parental unit to finish.* You can find detailed instructions for [new members here](https://drive.google.com/file/d/0B4NhnLtlTNV6T1ljM0o2Wm9wc28/view) and [returning members here](https://drive.google.com/file/d/0B4NhnLtlTNV6WGR2Rzk5NXpNbzQ/view).
 -->
-6. **Review the Team Handbook [Team 3128 Handbook](/resources/Team3128Handbook.pdf).** The handbook contains information on the basics of what our team does, the code of conduct, team information for parents, build season, etc.
+6. **Review the [Team 3128 Handbook](/resources/Team3128Handbook.pdf).** The handbook contains information on the basics of what our team does, the code of conduct, team information for parents, build season, etc.
 <!--You will also need both you and your parent to sign the "Code of Conduct Agreement" page, located on the second page of the same document as the Safety Waiver (see Step 3) 
 -->
 <!--4. **Turn in a [Safety Waiver](https://docs.google.com/document/d/1hleaX1rEWXA9QjJedI54hGureuK_zdqZQUVaP21OPQM/edit?usp=sharing).** You and your parental unit will need to read, understand, agree to, and sign the safety waiver. Please turn in the physical waiver to a mentor at the workshop.
@@ -64,7 +71,7 @@ After you’ve signed up, there are lots of different ways to grow your skills:
 
 <img src="/assets/page_photos/members/11.jpg" class="leftimage">
 
-**Learn your way around the workshop.** Through various talks and hands-on explanations, mentors and students explain how to use various tools and the various procedures of the team.  
+**Learn your way around the workshop.** Through various talks and hands-on explanations, mentors and students explain how to use various tools and the various procedures of the team. Unfortunately, while we are in an online setting, this won't be possible, but videos may be provided soon!
 **Attend Workshops and Classes.** Throughout preseason, our members and mentors will be giving lessons and working with new members to help them learn more and be ready for build season.  
 **Be Involved.** Often, the best learning experience comes with jumping right into it. With the guidance of more experienced mentors and members, pursue projects and participate in what interests you.  
 **Take a look at our team resources.** Our team has collected information that we think is important, and you can find all of that on [our resources page](/resources/).
