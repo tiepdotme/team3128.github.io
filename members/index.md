@@ -35,7 +35,7 @@ Review the steps below to make sure that you have done everything required to be
 Though Intro Day and NarWeek have passed, if you are still interested in joining the team, contact one of our [student leaders](/about/leaders/) for more information, or email [info@team3128.org](mailto:info@team3128.org). Please note that our Mechanical and Controls departments are at capacity for the 2019-20 season. To find out about our other departments, visit [here](/about/departments/).
 -->
 
-Though Intro Day and NarWeek have passed, if you are still interested in joining the team, simply sign up [here](bit.ly/3128new) and follow the steps below, contact one of our [student leaders](/about/leaders/) for more information, or email [info@team3128.org](mailto:info@team3128.org)!
+Though Intro Day and NarWeek have passed, if you are still interested in joining the team, simply sign up [here](http://bit.ly/3128new) and follow the steps below, contact one of our [student leaders](/about/leaders/) for more information, or email [info@team3128.org](mailto:info@team3128.org)!
 
 <!--
 To become part of the team, simply follow the steps below:
