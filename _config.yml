@@ -23,3 +23,6 @@ plugins:
 
 whitelist:
   - jekyll-redirect-from
+
+# Google Analytics
+google_analytics: UA-179140189-1
