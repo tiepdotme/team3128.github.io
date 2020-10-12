@@ -26,16 +26,17 @@ That said, do not worry if you are joining the team after Intro Day and NarWeek!
 The process for getting registered with the team is currently being updated, and we will walk you through how to do it once robotics starts back up for the 2019 - 2020 season. The steps for registration will be available in September.
 -->
 
-<!-- uncomment after Oct 9 deadline
+
 Are you sure you're part of the team for the 2020-2021 school year?
 Review the steps below to make sure that you have done everything required to be an official member of Team 3128!
--->
+
 
 <!-- GENERAL/In-Person Post-ID/NEW Blurb
 Though Intro Day and NarWeek have passed, if you are still interested in joining the team, contact one of our [student leaders](/about/leaders/) for more information, or email [info@team3128.org](mailto:info@team3128.org). Please note that our Mechanical and Controls departments are at capacity for the 2019-20 season. To find out about our other departments, visit [here](/about/departments/).
 -->
 
-Though Intro Day and NarWeek have passed, if you are still interested in joining the team, simply sign up [here](http://bit.ly/3128new) and follow the steps below, contact one of our [student leaders](/about/leaders/) for more information, or email [info@team3128.org](mailto:info@team3128.org)!
+<!--Though Intro Day and NarWeek have passed, if you are still interested in joining the team, simply sign up [here](http://bit.ly/3128new) and follow the steps below, contact one of our [student leaders](/about/leaders/) for more information, or email [info@team3128.org](mailto:info@team3128.org)!
+-->
 
 <!--
 To become part of the team, simply follow the steps below:
@@ -43,15 +44,19 @@ To become part of the team, simply follow the steps below:
 
 <!--1. **Stop by the workshop!** For new members who would like to join in the Fall, you can [contact us](/contact/) or stop by our workshop and talk to one of our [student leaders](/about/leaders/). We'll introduce you to our five departments (Mechanical, Controls, Business, Marketing, and Strategy), and the department heads will be able to get you started with classes and projects.
 -->
+
 2. **Sign up on our [team roster](https://team3128.us17.list-manage.com/subscribe?u=7c13b1f47db9b4f3392eda9f2&id=b93cada25a).** This will get you added to our mailing list so you know everything that is going on.  Please use an email you check regularly.
-<!--3. **Sign up on [STIMS](https://my.firstinspires.org/Dashboard/), our league information manager.** This will let you attend tournaments and be involved in official robotics events off-campus. *This step requires a parental unit to finish.* You can find detailed instructions for [new members here](https://drive.google.com/file/d/0B4NhnLtlTNV6T1ljM0o2Wm9wc28/view) and [returning members here](https://drive.google.com/file/d/0B4NhnLtlTNV6WGR2Rzk5NXpNbzQ/view).
--->
 6. **Review the [Team 3128 Handbook](/resources/Team3128Handbook.pdf).** The handbook contains information on the basics of what our team does, the code of conduct, team information for parents, build season, etc.
 <!--You will also need both you and your parent to sign the "Code of Conduct Agreement" page, located on the second page of the same document as the Safety Waiver (see Step 3) 
 -->
 <!--4. **Turn in a [Safety Waiver](https://docs.google.com/document/d/1hleaX1rEWXA9QjJedI54hGureuK_zdqZQUVaP21OPQM/edit?usp=sharing).** You and your parental unit will need to read, understand, agree to, and sign the safety waiver. Please turn in the physical waiver to a mentor at the workshop.
 -->
-5. **Complete [Team 3128 Safety Training](/members/safety/).** Because of the nature of what we do, safety is paramount to our team. That's why we require all returning members to complete safety training **by September 7th, 2020** and all new members to complete it **by October 9th, 2020**.
+5. **Complete [Team 3128 Safety Training](/members/safety/).** Because of the nature of what we do, safety is paramount to our team. That's why we require all members to complete safety training and take the safety quiz.
+<!--
+That's why we require all returning members to complete safety training by **September 7th, 2020** and all new members to complete it by **October 9th, 2020.**
+-->
+3. **Sign up on [STIMS](https://my.firstinspires.org/Dashboard/), our league information manager.** This will let you attend tournaments and be involved in official robotics events off-campus. *This step requires a parental unit to finish.* You can find detailed instructions for [new members here](https://drive.google.com/file/d/0B4NhnLtlTNV6T1ljM0o2Wm9wc28/view) and [returning members here](https://drive.google.com/file/d/0B4NhnLtlTNV6WGR2Rzk5NXpNbzQ/view).
+The Consent and Release Form, which must be signed to complete STIMS, has changed this year due to COVID-19! Please make sure to read the form carefully, **and have your parental unit read it carefully too.**
 
 That's it! If you have any questions, feel free to reach out and contact our [coaches and leaders](/contact/). 
 

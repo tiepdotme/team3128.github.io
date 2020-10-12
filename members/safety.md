@@ -8,8 +8,9 @@ permalink: /members/safety/
 We work with a lot of cool tools and hardware on our team, and while these enable us to be able to create awesome things, they also pose a risk if not used properly. In order to ensure that we can continue pursuing our wildest dreams and craziest ambitions, we require all members to complete basic safety training.
 
 ## Safety Training
-Note that these steps do not allow you to start using power tools, but these are **required** for entry and use of the workshop. Returning members must complete training **by September 7th, 2020** and new members must complete training **by October 9th, 2020**.
-
+Note that these steps do not allow you to start using power tools, but these are **required** for entry and use of the workshop. 
+<!--Returning members must complete training **by September 7th, 2020** and new members must complete training **by October 9th, 2020**.
+-->
 1. Review the [FIRST 2020 Safety Manual](https://www.firstinspires.org/sites/default/files/uploads/resource_library/frc/team-resources/safety/2020/2020-FIRST-Robotics-Competition-Safety-Manual.pdf)
 2. Review the [Team 3128 Workshop Safety Rules](https://docs.google.com/document/d/1WzseSUYmA87MJyWdK_2qxU6KtszhGB_BVom2Pd1KJIc/edit?usp=sharing)
 3. Review the [Team 3128 Safety Training presentation](https://docs.google.com/presentation/d/1Lsyq6jehboyW4cqJPWuCwsNZEb9QVZMqq7Yk6N01uQc/edit#slide=id.g4266068401_3_70)
