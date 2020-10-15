@@ -55,8 +55,10 @@ To become part of the team, simply follow the steps below:
 <!--
 That's why we require all returning members to complete safety training by **September 7th, 2020** and all new members to complete it by **October 9th, 2020.**
 -->
-3. **Sign up on [STIMS](https://my.firstinspires.org/Dashboard/), our league information manager.** This will let you attend tournaments and be involved in official robotics events off-campus. *This step requires a parental unit to finish.* You can find detailed instructions for [new members here](https://drive.google.com/file/d/0B4NhnLtlTNV6T1ljM0o2Wm9wc28/view) and [returning members here](https://drive.google.com/file/d/0B4NhnLtlTNV6WGR2Rzk5NXpNbzQ/view).
+3. **Sign up on [STIMS](https://my.firstinspires.org/Dashboard/), our league information manager, by January 9, 2021.** This will let you attend tournaments and be involved in official robotics events off-campus. *This step requires a parental unit to finish.* You can find detailed instructions for [new members here](https://drive.google.com/file/d/0B4NhnLtlTNV6T1ljM0o2Wm9wc28/view) and [returning members here](https://drive.google.com/file/d/0B4NhnLtlTNV6WGR2Rzk5NXpNbzQ/view).
 The Consent and Release Form, which must be signed to complete STIMS, has changed this year due to COVID-19! Please make sure to read the form carefully, **and have your parental unit read it carefully too.**
+As a new requirement this year, **all youth team memebers must register** in order to participate in any remote or in-person FIRST activities.
+
 
 That's it! If you have any questions, feel free to reach out and contact our [coaches and leaders](/contact/). 
 
