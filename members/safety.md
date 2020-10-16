@@ -20,11 +20,15 @@ Note that these steps do not allow you to start using power tools, but these are
 ## So you want to use power tools?
 <!--If you have completed all the steps above but are interested in joining Mechanical (or Construction) or Controls (electrical and software), you will need to view the following presentations and complete their corresponding quizzes.-->
 
+Our Mechanical and Controls departments have reached capacity for the 2020-2021 season, but their respective safety presentations can be found below. Their respective safety quizzes for the 2020-2021 season are not yet available.
+
 <!--
-Our Mechanical and Controls departments have reached capacity for the 2019-2020 season, but their respective safety presentations can be found below. If you still need to complete the Mechanical or Controls safety quizzes, contact [Chris Low](mailto:chris@team3128.org).
+If you still need to complete the Mechanical or Controls safety quizzes, contact [Chris Low](mailto:chris@team3128.org).
 -->
 
+<!--
 If you have completed all of the steps above but are interested in joining the Mechanical or Controls departments, you will need to view the following presentations and complete their corresponding quizzes. Currently the quizzes are not available to take, but they will be coming soon!
+-->
 
 **Mechanical/Construction Only**
 
