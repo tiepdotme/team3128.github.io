@@ -1,8 +1,8 @@
-#- title: Joining Team 3128!
-#  link: /members/
-#  imageSource: /assets/homepage/introday.jpg
-#  fullImage: /assets/homepage/introday-full.png
-#  info: Interested in becoming a member of CCA's FRC robotics team? Sign up to get more information at bit.ly/3128new and go visit the Members page for instructions on how to roster for the team!
+- title: Join Team 3128!
+  link: /members/
+  imageSource: /assets/homepage/introday.jpg
+  fullImage: /assets/homepage/introday-full.png
+  info: Interested in joining CCA's FRC robotics team? Sign up to get more information at bit.ly/3128new and visit the Members page for instructions on how to roster for the team!
 
 - title: Robotics Summer Camp
   link: /camp/
