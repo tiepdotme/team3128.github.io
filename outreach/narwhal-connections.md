@@ -1,7 +1,7 @@
 ---
 layout: single_page
 title: Narwhal Connections
-permalink: /narwhal-connections/
+permalink: /outreach/narwhal-connections/
 ---
 
 Welcome to Team 3128's virtual learning program, Narwhal Connections!
